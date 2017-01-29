@@ -6,33 +6,35 @@ p.4
 Notes : This chapter is focused on the “big picture” of Intellectual Property. This chapter is probably most useful for managers or developers who might not understand clearly the fundamentals of copyright, patent and trademark law.
 > 이 Chapter는 지적 재산권의 "큰 그림"에 초점을 맞추고 있다. 이 Chapter는 저작권, 특허 및 상표법의 기본에 대해 명확하게 이해하지 못하는 관리자 또는 개발자에게 유용 할 것이다.
 
-
 p.5
 ## What is “Intellectual Property”?
 
 - Copyright: protects original works of authorship
-  - Protects expression (not the underlying idea)
-  - Software, books, audiovisual materials, semiconductor masks
+- Protects expression (not the underlying idea)
+- Software, books, audiovisual materials, semiconductor masks
 - Patents: useful inventions that are novel, useful, non-obvious 
-  - Limited monopoly to incentivize innovation
+- Limited monopoly to incentivize innovation
 - Trade secrets: protects confidential and valuable information
-- Trademarks: protects marks (word, logos, slogans, color, etc.) that identify the source of the product	
-  - Consumer and brand protection; avoid consumer confusion and brand dilution
+- Trademarks: protects marks (word, logos, slogans, color, etc.) that identify the source of the product
+- Consumer and brand protection; avoid consumer confusion and brand dilution
 
 **This chapter will focus on copyright and patents, the areas most relevant to FOSS compliance**
 
-
-> “Intellectual Property”란?
 -  저작권: 저자의 원저작물을 보호
-  - (근본적인 아이디어가 아닌) 표현을 보호
-  - Software, 책, 시청각 자료, 반도체 마스크
+- (근본적인 아이디어가 아닌) 표현을 보호
+- Software, 책, 시청각 자료, 반도체 마스크
 - Patents : 새롭고, 유용하며, 너무 뻔하지 않은 (non-obvious) 발명 
-  - 혁신을 장려하기 위한 제한 독점
-- 영업 비밀 : 기밀의 가치 있는 정보를 보호
-- 상표 : 품의 출처를 나타내는 상표(단어, 로고, 슬로건, 색상 등)를 보호
-  - 소비자와 브랜드 보호; 소비자를 혼란스럽게 하거나 상표 가치 하락하는 것을 방지하기 위함
+- 혁신을 장려하기 위한 제한된 독점
+- 영업 비밀 : 기밀 정보 및 중요한 정보 보호
+- 상표 : 제품의 출처를 나타내는 상표(단어, 로고, 슬로건, 색상 등)를 보호
+- 소비자와 브랜드 보호; 소비자를 혼란스럽게 하거나 상표 가치 하락하는 것을 방지하기 위함
 
 > **이 장에서는 FOSS Compliance와 주로 관련이 있는 저작권과 특허를 중점으로 설명한다.**
+
+
+---
+Notes : This overview is not intended to cover all aspects of Intellectual Property. It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to FOSS compliance.
+> 여기서 지적 재산권의 모든 내용을 다루려는 것이 아니다. "큰 그림"을 위한 맥락을 제공하고 FOSS Compliance와 가장 관련이 있는 영역인 저작권과 특허에 대해서만 논할 것이다. 
 
 ## Copyright concepts in software
 
