@@ -23,3 +23,8 @@
 5. FOSS Review 실행
 6. End to End Compliance Management (Process 예)
 7. Compliance 위험 회피 방법
+
+
+---
+Notes: This slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.
+> 이 Slide는 세시간의 단일 교육 세션을 제공하거나 Chapter별로 구분하여 보다 짧은 세션을 제공하는 것에 대해   
