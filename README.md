@@ -27,4 +27,6 @@
 
 ---
 Notes: This slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.
-> 이 Slide는 세시간의 단일 교육 세션을 제공하거나 Chapter별로 구분하여 보다 짧은 세션을 제공하는 것에 대해   
+> 이 Slide는 세시간의 단일 교육 세션을 제공하는 것에 사용될 수 있다. 혹은 Chapter별 교육을 위한 짧은 세션으로 어떻게 구성되는지에 대해 설명한다.
+
+
