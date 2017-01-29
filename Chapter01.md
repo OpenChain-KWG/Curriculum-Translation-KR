@@ -3,10 +3,9 @@ p.4
 # Chapter 1. What is Intellectual Property?
 
 
-```
-Notes : This chapter is focused on the “big picture” of Intellectual Property. This chapter is probably most useful for managers or developers who might not understand clearly the fundamentals of copyright, patent and trademark law.
+###### Notes : This chapter is focused on the “big picture” of Intellectual Property. This chapter is probably most useful for managers or developers who might not understand clearly the fundamentals of copyright, patent and trademark law.
 > 이 Chapter는 지적 재산권의 "큰 그림"에 초점을 맞추고 있다. 이 Chapter는 저작권, 특허 및 상표법의 기본에 대해 명확하게 이해하지 못하는 관리자 또는 개발자에게 유용 할 것이다.
-```
+
 
 
 p.5
