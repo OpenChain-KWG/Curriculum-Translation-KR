@@ -144,14 +144,18 @@ p.10
 
 ---
 Notes : Copyright protects original works of authorship.It's different than patent in that copyright protects the expression of an idea, whereas patent protects the underlying idea itself. Examples of works of authorship include photographs, songs, and computer code. 
+> 저작권은 원작자의 독창적인 저작물을 보호한다. 저작권은 아이디어의 표현을 보호하고, 특허는 기본 아이디어 자체를 보호한다는 점에서 특허와 다르다. 저작물의 예로는 사진, 노래, 및 Computer Code가 있다. 
 
 Most important copyright concepts for software are: right to reproduce, right to make creative works (or right to modify), and right to distribute.
+> Software에서 가장 중요한 저작권 개념은 복사할 권리, 창작물을 만들 권리 (혹은 수정할 권리), 및 배포할 권리가 있다.
 
 Software can be subject to a patent. Patent protects method of operation, such as computer program. However, patent protects functionality, and not abstract ideas. 
+> Software는 특허의 대상이 될 수 있다. 특허는 Computer Program과 같은 동작의 방법을 보호한다. 그러나, 특허는 추상적인 아이디어가 아닌 기능을 보호한다. 
 
 Patent holder can exclude others from practicing the patent, regardless of whether the others have independently created the product.
+> 특허 보유자는 다른 사람들이 독립적으로 제품을 제작했는지 여부에 상관없이 다른 사람이 해당 특허를 실행하지 못하게 할 수 있다. 
 
 If you have independently developed your own software, then you may not need a copyright license if you can show the independent development and you had no access to the copyrighted work in question. This is difficult if the copyrighted work is popular such that it'd be reasonable to assume that you had access. If your software reads on a patent, then you will need a patent license regardless of whether you've independently developed the software. An example of this would be FFMpeg, which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.
 
->
+> 독자적으로 자신의 Software를 개발한 경우, 독자 개발한 것임을 보여줄 수 있고, 문제가 되는 저작물에 접근하지 않았다면, 저작권 License가 필요하지 않을 수 있다. 저작물이 대중적이어서 당신이 접근하였다고 가정하는 것이 합리적일 수 있다면, 독자적으로 개발이라고 주장하기 어렵다. Software에 특허가 있다면, Software를 독립적으로 개발한 것과는 무관하게 특허 License가 필요하다. FFMpeg을 예를 들면, FFMpeg은 비디오 인코딩 및 디코딩을 위한 코덱을 제공하는 Free Software이다. 그러나, 특정 Format을 인코딩하고 디코딩하기 위해서는 여전히 특허 License가 필요하다. 
 
