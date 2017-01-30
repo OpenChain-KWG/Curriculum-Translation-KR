@@ -1,15 +1,28 @@
+p.11
+
 # Chapter 2. Introduction to FOSS Licenses
 
+---
+Notes : This chapter is useful for lawyers, managers or developers who may not be familiar with FOSS licenses.
+> 이 Chapter는 FOSS License에 익숙하지 않은 변호사, 관리자 또는 개발자에게 유용하다.  
+
+p.12
+
 ## FOSS Licenses
-- Free and Open Source Software (FOSS) licenses generally make source code available under terms that allow for modification and redistribution
+- Free and FOSS Software licenses generally make source code available under terms that allow for modification and redistribution
 - FOSS licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available
-- One popular set of FOSS licenses are those approved by the Open Source Initiative (OSI) based on their Open Source Definition (OSD). A complete list of OSI-approved FOSS licenses is available at http://www.opensource.org/licenses/
+- One popular set of licenses are those approved by the FOSS Initiative (OSI) based on their FOSS Definition (OSD). A complete list of OSI-approved licenses is available at http://www.opensource.org/licenses/
 
 > FOSS License
-- FOSS(Free and Open Source Software) License는 일반적으로 수정 및 재배포를 허용하는 조건하에 Source Code를 공개한다.  
+- Free 및 FOSS Software License는 일반적으로 수정 및 재배포를 허용하는 조건하에 Source Code를 제공한다.  
 - FOSS License는 고지 의무, Copyright 보존, Source Code 제공을 위한 약정서 제공과 같은 조건을 갖고 있기도 하다.  
-- OSI (Open Source Initiative)는 OSD(Open Source Definition)를 정해놓고, 이에 부합하는 FOSS License를 승인해준다. OSI-approved FOSS License는 http://www.opensource.org/licenses/ 에서 확인할 수 있다. 
+- OSI(FOSS Initiative)는 OSD(FOSS Definition)를 기반으로 이에 부합하는 License를 승인해준다. OSI-approved License는 http://www.opensource.org/licenses/ 에서 확인할 수 있다. 
 
+---
+Notes : This slide provides the “big picture” about what FOSS licenses do. It also explains a resource where you can find out more about some FOSS licenses.
+> 이 Slide는 FOSS License에 대한 "큰 그림"을 제공한다. 또한, FOSS License에 대해 어디서 더 찾아볼 수 있는지에 대해서도 설명한다. 
+
+p.13
 
 ## Permissive FOSS Licenses
 - Permissive FOSS license - a term used often to describe minimally restrictive FOSS licenses
