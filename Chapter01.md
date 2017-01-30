@@ -112,27 +112,46 @@ Notes : This slide explains patent concepts relevant to software.
 - May also include contractual terms regarding warranties, indemnification, support, upgrade, maintenance
 
 > License
-- "License"는 저작권자, 특허권자가 사용허가 혹은 권리를 부여하는 것을 말한다. 
+- "License"는 저작권자, 특허권자가 사용허가 혹은 권리를 부여하는 방식이다. 
 - License는 다음 사항들에 따라 제한 될 수 있다. 
   - 허용되는 사용 형태 (배포, 파생저작물 제작)
   - 독점 혹은 비독점 조항
   - 관할 지역
-  - 영구적 혹은 시간제한
-- License는 권한을 부여하기 위한 조건을 갖고 있다. 즉, 해당 조건을 준수하는 경우에만 License를 가질 수 있다. 
-  - 예, 저작자 표시 제공, 동일 License 적용
-- 보증, 면책, 지원, 유지 보수 등과 관련하여 계약상의 조항이 포함되는 경우도 있다.
+  - 영구적 혹은 시간 제한 기간
+- License는 권한을 부여하기 위한 조건을 가질 수 있다. 이는, 해당 조건을 준수하는 경우에만 License를 취득한다는 의미이다. 
+  - 예, 저작자 표시, 동일 License 적용
+- 보증, 면책, 지원, 유지 보수 등과 관련된 계약상의 조항이 포함되는 경우도 있다.
+
+---
+Notes : This slide explains what is a “license.” This is different to a contract under US law. This slides explains the boundaries of what can be in a license.
+> 이 Slide는 "License"가 무엇인지 설명한다. 이는 US law상의 계약과는 다르다. 이 Slide는 License에 포함될 수 있는 것의 경계를 설명한다. 
+
+p.10
 
 ## Check Your Understanding
 - What type of material does copyright law protect?
 - What copyright rights are most important for software?
 - Can software be subject to a patent? 
-- Does a patent give rights to the patent owner?
+- What rights does a patent give to the patent owner?
 - If you independently develop your own software, is it possible that you might need a copyright license from a third party for that software? A patent license?
 
 > Check Your Understanding
 - 저작권법은 어떤 유형의 자료를 보호하는가?
 - Software에서 가장 중요한 저작권 권리는 무엇인가?
 - Software가 특허의 대상이 될 수 있는가?
-- 특허는 특허 소유자에게 권리를 부여하는가?
-- 독자적으로 개발한 Software에 대해 제3자로부터 저작권 License 취득이 필요할 수도 있는가? Patent License는?
+- 특허 소유자에게 특허가 부여하는 권리는 무엇인가?
+- 독자적으로 Software를 개발한 경우, 해당 Software에 대해 제3자로부터 저작권 License 취득이 필요할 수도 있는가? 특허 License는?
+
+---
+Notes : Copyright protects original works of authorship.It's different than patent in that copyright protects the expression of an idea, whereas patent protects the underlying idea itself. Examples of works of authorship include photographs, songs, and computer code. 
+
+Most important copyright concepts for software are: right to reproduce, right to make creative works (or right to modify), and right to distribute.
+
+Software can be subject to a patent. Patent protects method of operation, such as computer program. However, patent protects functionality, and not abstract ideas. 
+
+Patent holder can exclude others from practicing the patent, regardless of whether the others have independently created the product.
+
+If you have independently developed your own software, then you may not need a copyright license if you can show the independent development and you had no access to the copyrighted work in question. This is difficult if the copyrighted work is popular such that it'd be reasonable to assume that you had access. If your software reads on a patent, then you will need a patent license regardless of whether you've independently developed the software. An example of this would be FFMpeg, which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.
+
+>
 
