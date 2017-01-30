@@ -4,7 +4,7 @@ p.4
 
 ---
 Notes : This chapter is focused on the “big picture” of Intellectual Property. This chapter is probably most useful for managers or developers who might not understand clearly the fundamentals of copyright, patent and trademark law.
-> 이 Chapter는 지적 재산권의 "큰 그림"에 초점을 맞추고 있다. 이 Chapter는 저작권, 특허 및 상표법의 기본에 대해 명확하게 이해하지 못하는 관리자 또는 개발자에게 유용 할 것이다.
+> 이 Chapter는 지적 재산권의 "큰 그림"에 초점을 맞추고 있다. 이 Chapter는 저작권, 특허 및 상표법의 기본에 대해 명확하게 이해하지 못하는 관리자 또는 개발자에게 유용할 것이다.
 
 p.5
 ## What is “Intellectual Property”?
@@ -29,7 +29,7 @@ p.5
 - 상표 : 제품의 출처를 나타내는 상표(단어, 로고, 슬로건, 색상 등)를 보호
 - 소비자와 브랜드 보호; 소비자를 혼란스럽게 하거나 상표 가치 하락하는 것을 방지하기 위함
 
-> **이 장에서는 FOSS Compliance와 주로 관련이 있는 저작권과 특허를 중점으로 설명한다.**
+> **이 Chapter에서는 FOSS Compliance와 주로 관련이 있는 저작권과 특허를 중점으로 설명한다.**
 
 
 ---
@@ -49,7 +49,7 @@ p.6
 > Software에서의 저작권 개념
 - 기본 규칙: 저작권은 창작물을 보호한다 
 - 저작권은 일반적으로 도서, 영화, 그림, 음악, 지도와 같은 문학 작품에 적용된다. 
-- Software는 저작권에 의해 보호되며 기능(기능은 특허에 의해 보호)이 아닌 표현 (세부 구현 내용의 창의성) 이 보호된다. 
+- Software는 저작권에 의해 보호되며 기능(기능은 특허로 의해 보호)이 아닌 표현 (세부 구현 내용의 창의성)이 보호된다. 
 - 저작권 소유자는 자신이 만든 저작물에 대해서만 통제권을 갖는다. (타인의 독립적인 저작물에 대해서는 통제권이 없음) 
 
 ---
@@ -69,9 +69,9 @@ p.7
 **Note: The interpretation of what constitutes a “derivative work” or a “distribution” is subject to debate in the FOSS community and within FOSS legal circles**
 
 > Software와 가장 관련된 저작권 권리
-- Software를 복할 수 있는 권리 - 복사
+- Software를 복제할 수 있는 권리 - 복사
 - "파생저작물"을 만들 수 있는 권리 - 수정
-  - 파생저작물이란 원본 저작물을 기반으로한 새로운 저작물로써, 충분히 독창적인 부분이 추가되어서, 복사물이 아닌 하나의 원본 저작물이 되는 것을 말한다.(US law에서 사용하는 용어임에 유의) 
+  - 파생저작물이란 원본 저작물을 기반으로 한 새로운 저작물로써, 충분히 독창적인 부분이 추가되어서, 복사물이 아닌 하나의 원본 저작물이 되는 것을 말한다. (US law에서 사용하는 용어임에 유의) 
 - 배포할 권리
   - 일반적으로 Software 일부를 복사하여 Source Code 혹은 Binary Form으로 다른 주체(개인 혹은 회사/기관 밖의 기관)에 제공하는 것을 배포라고 본다. 
 
@@ -117,14 +117,14 @@ Notes : This slide explains patent concepts relevant to software.
   - 허용되는 사용 형태 (배포, 파생저작물 제작)
   - 독점 혹은 비독점 조항
   - 관할 지역
-  - 영구적 혹은 시간 제한 기간
+  - 영구적 혹은 시간제한 기간
 - License는 권한을 부여하기 위한 조건을 가질 수 있다. 이는, 해당 조건을 준수하는 경우에만 License를 취득한다는 의미이다. 
   - 예, 저작자 표시, 동일 License 적용
 - 보증, 면책, 지원, 유지 보수 등과 관련된 계약상의 조항이 포함되는 경우도 있다.
 
 ---
 Notes : This slide explains what is a “license.” This is different to a contract under US law. This slides explains the boundaries of what can be in a license.
-> 이 Slide는 "License"가 무엇인지 설명한다. 이는 US law상의 계약과는 다르다. 이 Slide는 License에 포함될 수 있는 것의 경계를 설명한다. 
+> 이 Slide는 "License"가 무엇인지 설명한다. 이는 US law 상의 계약과는 다르다. 이 Slide는 License에 포함될 수 있는 것의 경계를 설명한다. 
 
 p.10
 
@@ -153,7 +153,7 @@ Software can be subject to a patent. Patent protects method of operation, such a
 > Software는 특허의 대상이 될 수 있다. 특허는 Computer Program과 같은 동작의 방법을 보호한다. 그러나, 특허는 추상적인 아이디어가 아닌 기능을 보호한다. 
 
 Patent holder can exclude others from practicing the patent, regardless of whether the others have independently created the product.
-> 특허 보유자는 다른 사람들이 독립적으로 제품을 제작했는지 여부에 상관없이 다른 사람이 해당 특허를 실행하지 못하게 할 수 있다. 
+> 특허 보유자는 다른 사람들이 독립적으로 제품을 제작했는지에 상관없이 다른 사람이 해당 특허를 실행하지 못하게 할 수 있다. 
 
 If you have independently developed your own software, then you may not need a copyright license if you can show the independent development and you had no access to the copyrighted work in question. This is difficult if the copyrighted work is popular such that it'd be reasonable to assume that you had access. If your software reads on a patent, then you will need a patent license regardless of whether you've independently developed the software. An example of this would be FFMpeg, which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.
 
