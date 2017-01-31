@@ -32,30 +32,36 @@ p.13
 - Other examples: MIT, Apache-2.0
 
 > Permissive FOSS Licenses
-- Permissive FOSS Licenses - 주로 제약이 아주 적은 FOSS License를 설명하기 위해 자주 사용되는 용어 
+- Permissive FOSS Licenses - 제한이 극히 적은 FOSS License를 설명하기 위해 자주 사용되는 용어 
 - 예: BSD-3-Clause
   - BSD License는 저작권 고지와 License의 보증부인을 유지하는 조건으로 제한 없는 재배포를 허락하는 Permissive License의 한 예이다. 
-  - 이 License는 파생저작물의 홍보에 별도의 승낙 없이 기여자 이름의 사용하는 것을 제한하는 조항을 포함한다. 
+  - 이 License는 별도의 허가 없이 파생저작물의 홍보에 기여자 이름 사용을 제한하는 조항을 포함한다. 
 - 다른 예: MIT, Apache-2.0
+
+---
+Notes : This slide explains ”permissive” FOSS licenses, the most basic type of FOSS license, which usually have minimal requirements. The most basic requirement is to include a copyright notice.
+> 이 Slide는 일반적으로 최소한의 요구 사항을 갖는, 가장 기본적인 유형의 FOSS License인 "Permissive" FOSS License를 설명한다. 가장 기본적인 요구 사항은 저작권 고지를 포함하는 것이다. 
 
 
 ## License Reciprocity & Copyleft Licenses
 - Some licenses require the distribution of derivative works (or software in the same file, same program or other boundary) under the same terms as the original work
-  - This is referred to as a "copyleft", "reciprocal", or "hereditary" effect
-- Example of license reciprocity from the GPL-2.0:
+  - This is referred to as a ”Copyleft", "reciprocal", or "hereditary" effect
+- Example of license reciprocity from the GPL version 2.0:
 
 _"You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed...under the terms of this License."_
 
-- Examples: all versions of GPL, LGPL, AGPL, MPL, CDDL 
+- Licenses that include reciprocity or Copyleft clauses include all versions of the GPL, LGPL, AGPL, MPL and CDDL 
+- Copyleft licenses may include source availability obligations
 
 > License 상호주의 & Copyleft License
-- 어떤 License는 파생저작물 (혹은 동일 File, 동일 Program이나 다른 Boundary 내 Software) 배포 시 원저작물과 같은 조항으로 배포할 것을 요구한다. 
+- 어떤 License는 파생저작물 (혹은 동일 File, 동일 Program이나 다른 Boundary 내의 Software) 배포 시 원저작물과 동일한 조건으로 배포할 것을 요구한다. 
   - 이러한 원리는 "Copyleft", "상호주의", "유전" 효과라고 불린다. 
 - GPL-2.0 내 상호주의 조항 예: 
 
 > _"You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed...under the terms of this License."_
 
-> 예: GPL, LGPL, AGPL, MPL, CDDL의 모든 version
+> 상호주의 혹은 Copyleft 조항을 포함하는 License에는 GPL, LGPL, AGPL 및 CDDL의 모든 version이 포함된다. 
+> Copyleft License는 소스 공개 의무가 포함될 수 있다. 
 
 
 ## Proprietary License
