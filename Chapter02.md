@@ -6,6 +6,7 @@ p.11
 Notes : This chapter is useful for lawyers, managers or developers who may not be familiar with FOSS licenses.
 > 이 Chapter는 FOSS License에 익숙하지 않은 변호사, 관리자 또는 개발자에게 유용하다.  
 
+---
 p.12
 
 ## FOSS Licenses
@@ -22,6 +23,7 @@ p.12
 Notes : This slide provides the “big picture” about what FOSS licenses do. It also explains a resource where you can find out more about some FOSS licenses.
 > 이 Slide는 FOSS License에 대한 "큰 그림"을 제공한다. 또한, FOSS License에 대해 어디서 더 찾아볼 수 있는지에 대해서도 설명한다. 
 
+---
 p.13
 
 ## Permissive FOSS Licenses
@@ -68,7 +70,10 @@ _"You must cause any work that you distribute or publish, that in whole or in pa
 ---
 Notes : This slide explains reciprocity and Copyleft, a more complex type of FOSS license that have additional requirements above permissive licenses. They require distribution of the original work and derivative works under the same terms as the original work.
 
-> 이 Slide는 Permissive License 이상으로 추가 요구 사항이 있는 보다 복잡한 유형의 FOSS License인 상호주의 및 Copyleft에 대해 설명한다. 
+> 이 Slide는 Permissive License 이상으로 추가 요구 사항이 있는 더욱 복잡한 유형의 FOSS License인 상호주의 및 Copyleft에 대해 설명한다. 이들은 원본 저작물과 파생 저작물을 배포 시, 원본 저작물과 같은 조건으로 배포할 것을 요구한다. 
+
+---
+p.15
 
 ## Proprietary License
 - A proprietary software license (or commercial license or EULA) has restrictions on the usage, modification or distribution of the software
