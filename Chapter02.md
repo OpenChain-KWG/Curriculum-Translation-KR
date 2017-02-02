@@ -42,6 +42,7 @@ p.13
 Notes : This slide explains ”permissive” FOSS licenses, the most basic type of FOSS license, which usually have minimal requirements. The most basic requirement is to include a copyright notice.
 > 이 Slide는 일반적으로 최소한의 요구 사항을 갖는, 가장 기본적인 유형의 FOSS License인 "Permissive" FOSS License를 설명한다. 가장 기본적인 요구 사항은 저작권 고지를 포함하는 것이다. 
 
+p.14
 
 ## License Reciprocity & Copyleft Licenses
 - Some licenses require the distribution of derivative works (or software in the same file, same program or other boundary) under the same terms as the original work
@@ -61,8 +62,13 @@ _"You must cause any work that you distribute or publish, that in whole or in pa
 > _"You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed...under the terms of this License."_
 
 > 상호주의 혹은 Copyleft 조항을 포함하는 License에는 GPL, LGPL, AGPL 및 CDDL의 모든 version이 포함된다. 
+
 > Copyleft License는 소스 공개 의무가 포함될 수 있다. 
 
+---
+Notes : This slide explains reciprocity and Copyleft, a more complex type of FOSS license that have additional requirements above permissive licenses. They require distribution of the original work and derivative works under the same terms as the original work.
+
+> 이 Slide는 Permissive License 이상으로 추가 요구 사항이 있는 보다 복잡한 유형의 FOSS License인 상호주의 및 Copyleft에 대해 설명한다. 
 
 ## Proprietary License
 - A proprietary software license (or commercial license or EULA) has restrictions on the usage, modification or distribution of the software
