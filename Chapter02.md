@@ -2,11 +2,9 @@ p.11
 
 # Chapter 2. Introduction to FOSS Licenses
 
----
 Notes : This chapter is useful for lawyers, managers or developers who may not be familiar with FOSS licenses.
 > 이 Chapter는 FOSS License에 익숙하지 않은 변호사, 관리자 또는 개발자에게 유용하다.  
 
----
 p.12
 
 ## FOSS Licenses
@@ -23,7 +21,6 @@ p.12
 Notes : This slide provides the “big picture” about what FOSS licenses do. It also explains a resource where you can find out more about some FOSS licenses.
 > 이 Slide는 FOSS License에 대한 "큰 그림"을 제공한다. 또한, FOSS License에 대해 어디서 더 찾아볼 수 있는지에 대해서도 설명한다. 
 
----
 p.13
 
 ## Permissive FOSS Licenses
@@ -79,14 +76,19 @@ p.15
 - A proprietary software license (or commercial license or EULA) has restrictions on the usage, modification or distribution of the software
 - Proprietary licenses often involve payment or a license fee 
 - Proprietary licenses are unique to each vendor - there are as many variations of proprietary licenses as there are vendors and each must be evaluated individually
-- FOSS developers often use the term "proprietary license" to describe a commercial non-FOSS license
+- FOSS developers often use the term "proprietary" to describe a commercial non-FOSS license even though both FOSS and proprietary licenses are based on intellectual property and provide a license grant to that property
 
 > Proprietary License
-- Proprietary Software License (or 상용 License or EULA)는 Software의 사용, 수정, 배포에 대한 제한을 갖고 있다. 
-- Proprietary License에는 비용 지급, License 금액 등에 대한 내용이 포함되기도 한다. 
-- Proprietary License는 Vendor 별로 고유하다.  Vendor의 수만큼 다른 Proprietary License가 있을 것이고, 이를 사용하기 위해서는 각각 개별 검토가 필요하다. 
-- FOSS 개발자들은 상업적 non-FOSS License를 설명하기 위해 "Proprietary License"라는 용어를 사용하기도 한다. 
+- Proprietary Software License (or 상용 License or EULA)는 Software의 사용, 수정, 배포에 대한 제한이 있다. 
+- Proprietary License는 대개 지급 금액 혹은 License 비용을 포함한다. 
+- Proprietary License는 Vendor 별로 고유하다.  Vendor의 수만큼 다른 Proprietary License가 있으며, 이를 사용하기 위해서는 각각 개별 검토가 필요하다. 
+- FOSS 및 Proprietary License 모두가 지적 재산권에 기반을 두고 있고, 해당 자산에 대한 License 부여를 제공함에도, FOSS 개발자들은 종종 상업적 non-FOSS License를 설명하기 위해 "Proprietary"라는 용어를 사용한다. 
 
+---
+Notes : This slide explains proprietary or closed source licenses. These licenses often have very different requirements and rules compared to FOSS licenses.
+> 이 Slide는 Proprietary 혹은 Closed Source License에 대해 설명한다. 이러한 License들은 종종 FOSS License에 비해 매우 다른 요구사항과 규칙을 갖는다. 
+
+p.16
 
 ## Other Licensing Situations
 - Freeware - software distributed under a proprietary license at no or very low cost
@@ -99,14 +101,21 @@ p.15
 - Freeware and Shareware are not FOSS
 
 > 다른 형태의 License
-- Freeware - Proprietary License이지만, 무료 혹은 아주 저렴하게 배포된 Software
-  - 일반적으로 소스 코드는 공개되지 않고, 파생저작물의 생성을 금지한다. 
-  - Freeware Software는 대개 모든 기능이 동작하고 (사용 불가 기능 없음), 기한 제한 없이 사용할 수 있다.
+- Freeware - Proprietary License이지만, 무료 혹은 매우 저렴한 비용으로 제공되는 Software
+  - Source Code는 공개되거나 공개되지 않을 수 있으며, 파생저작물의 생성은 일반적으로 제한된다. 
+  - Freeware Software는 대개 모든 기능이 동작하고 (사용 불가 기능 없음), 기한 제한 없이 사용할 수 있다 (사용 일수 제한 없음).
   - Freeware Software는 복사, 배포, 파생저작물 생성에 대해서 뿐만 아니라 사용 형태 (개인, 상용, 학업 등)에 대해서도 제한을 부과한다. 
-- Shareware - 시험판으로 사용자에게 제공되는 Proprietary Software로써, 사용 기간에 제한이 있고, 제한된 기능을 무료로 사용할 수 있게 한다. 
-  - Shareware의 목적은 잠재적인 고객에게 Program 사용 기회를 제공하여 full version software의 구매를 결정할 수 있게 하는 것이다. 
+- Shareware - 시험판으로 사용자에게 제공되는 Proprietary Software로써, 제한된 기간 동안 무료로 제한된 기능을 시범적으로 제공한다.  
+  - Shareware의 목적은 잠재적인 구매자에게 Full version software에 대한 License를 구입하기 전에 Program을 사용하고 유용성을 판단할 수 있는 기회를 제공하는 것이다.  
   - 일부 Shareware vendor들은 일단 무료로 사용하게 하여 확산을 시킨 후 고비용의 License 금액을 청구하는 경우가 있으므로 대부분 기업은 Shareware를 상당히 경계한다. 
 - Freewware와 Shareware는 FOSS가 아니다. 
+
+---
+Notes : There are other types of license used. Sometimes these are confused with FOSS but their requirements are actually different. Freeware or Shareware licensing should not be regarded as the same or compatible with FOSS licensing.
+
+> 다른 형태의 License도 사용되는데, 때때로 이들은 FOSS와 혼동되지만, 이들의 요구사항은 실제로 다르다. Freeware 또는 Shareware License는 FOSS License와 동일하거나 호환되는 것으로 간주되어서는 안된다. 
+
+
 
 
 ## Public Domain
