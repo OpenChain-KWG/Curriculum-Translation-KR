@@ -1,12 +1,10 @@
 p.11
-
 # Chapter 2. Introduction to FOSS Licenses
 
 Notes : This chapter is useful for lawyers, managers or developers who may not be familiar with FOSS licenses.
 > 이 Chapter는 FOSS License에 익숙하지 않은 변호사, 관리자 또는 개발자에게 유용하다.  
 
 p.12
-
 ## FOSS Licenses
 - Free and FOSS Software licenses generally make source code available under terms that allow for modification and redistribution
 - FOSS licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available
@@ -22,7 +20,6 @@ Notes : This slide provides the “big picture” about what FOSS licenses do. I
 > 이 Slide는 FOSS License에 대한 "큰 그림"을 제공한다. 또한, FOSS License에 대해 어디서 더 찾아볼 수 있는지에 대해서도 설명한다. 
 
 p.13
-
 ## Permissive FOSS Licenses
 - Permissive FOSS license - a term used often to describe minimally restrictive FOSS licenses
 - Example: BSD-3-Clause
@@ -42,7 +39,6 @@ Notes : This slide explains ”permissive” FOSS licenses, the most basic type 
 > 이 Slide는 일반적으로 최소한의 요구 사항을 갖는, 가장 기본적인 유형의 FOSS License인 "Permissive" FOSS License를 설명한다. 가장 기본적인 요구 사항은 저작권 고지를 포함하는 것이다. 
 
 p.14
-
 ## License Reciprocity & Copyleft Licenses
 - Some licenses require the distribution of derivative works (or software in the same file, same program or other boundary) under the same terms as the original work
   - This is referred to as a ”Copyleft", "reciprocal", or "hereditary" effect
@@ -69,9 +65,8 @@ Notes : This slide explains reciprocity and Copyleft, a more complex type of FOS
 
 > 이 Slide는 Permissive License 이상으로 추가 요구 사항이 있는 더욱 복잡한 유형의 FOSS License인 상호주의 및 Copyleft에 대해 설명한다. 이들은 원본 저작물과 파생 저작물을 배포 시, 원본 저작물과 같은 조건으로 배포할 것을 요구한다. 
 
----
-p.15
 
+p.15
 ## Proprietary License
 - A proprietary software license (or commercial license or EULA) has restrictions on the usage, modification or distribution of the software
 - Proprietary licenses often involve payment or a license fee 
@@ -89,7 +84,6 @@ Notes : This slide explains proprietary or closed source licenses. These license
 > 이 Slide는 Proprietary 혹은 Closed Source License에 대해 설명한다. 이러한 License들은 종종 FOSS License에 비해 매우 다른 요구사항과 규칙을 갖는다. 
 
 p.16
-
 ## Other Licensing Situations
 - Freeware - software distributed under a proprietary license at no or very low cost
   - The source code may or may not be available, and creation of derivative works is usually restricted
@@ -115,15 +109,13 @@ Notes : There are other types of license used. Sometimes these are confused with
 
 > 다른 형태의 License도 사용되는데, 때때로 이들은 FOSS와 혼동되지만, 이들의 요구사항은 실제로 다르다. Freeware 또는 Shareware License는 FOSS License와 동일하거나 호환되는 것으로 간주되어서는 안된다. 
 
-
-
-
+p.17
 ## Public Domain
 - The term public domain refers to intellectual property not protected by law and therefore usable by the public without requiring a license 
 - Developers may include a public domain declaration with their software 
   - E. g., "All of the code and documentation in this software has been dedicated to the public domain by the authors."
   - The public domain declaration is not the same as a FOSS license
-- The enforceability of these public domain declarations is subject to dispute within the FOSS community
+- A public domain declaration attempts to waive or eliminate any intellectual property rights that the developers may have in the software to make it clear that it can be used without restriction, but the enforceability of these declarations is subject to dispute within the FOSS community
 - Often the public domain declaration is accompanied by other terms, such as warranty disclaimers. In such cases, the software may be viewed as being under a license rather than being in the public domain
 
 > Public Domain
