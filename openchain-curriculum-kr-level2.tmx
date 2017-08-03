@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><ph x="0">&lt;&lt;&lt;t0/&gt;</ph>This is a placeholder slide to identify where your FOSS policy can be found (OpenChain Specification 1.1, section 1.1.1)<ph x="1">&lt;t1/&gt;</ph>&gt;&gt;</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145813Z" creationid="Jang" creationdate="20170803T145702Z">
+        <seg><ph x="0">&lt;&lt;&lt;t0/&gt;</ph>이것은 당신의 FOSS 정책이 어디서 발견될 수 있는지 에 대해 알려주기 위한 견본용 슬라이드 입니다. (OpenChain 설명서 1.1, 1.1.1절)<ph x="1">&lt;t1/&gt;</ph>&gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Avoiding Compliance Pitfalls</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145248Z" creationid="Jang" creationdate="20170803T145248Z">
+        <seg>Compliance 함정 피하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CHAPTER 1</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145905Z" creationid="Jang" creationdate="20170803T145905Z">
+        <seg>1장</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CURRICULUM</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T143027Z" creationid="Jang" creationdate="20170803T143027Z">
+        <seg>교육과정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Consumer and brand protection; avoid consumer confusion and brand dilution</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T151108Z" creationid="Jang" creationdate="20170803T151108Z">
+        <seg>소비자 및 브랜드 보호; 소비자 혼란과 브랜드 가치 저하 방지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144829Z" creationid="Jang" creationdate="20170803T144829Z">
+        <seg>목차</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Copyright: protects original works of authorship</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150501Z" creationid="Jang" creationdate="20170803T150140Z">
+        <seg>저작권: 저자의 원본 저작물을 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Developer Guidelines</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145318Z" creationid="Jang" creationdate="20170803T145318Z">
+        <seg>개발자 가이드라인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Different legal jurisdictions may have different legal requirements.<ph x="0">&lt;t0/&gt;</ph>This should be taken into account when using these slides as part of a compliance training program.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T143450Z" creationid="Jang" creationdate="20170803T143450Z">
+        <seg>법적인 관할권에 따라 법적 요구 사항이 달라질 수 있습니다.<ph x="0">&lt;t0/&gt;</ph>이 슬라이드를 Compliance 교육 프로그램의 일부로 사용할 때는이 점을 고려해야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>End to End Compliance Management<ph x="0">&lt;t0/&gt;</ph>(Example Process)</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145202Z" creationid="Jang" creationdate="20170803T145202Z">
+        <seg>종단간 Compliance 관리<ph x="0">&lt;t0/&gt;</ph>(사례 프로세스)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOSS Policy</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145333Z" creationid="Jang" creationdate="20170803T145333Z">
+        <seg>FOSS 정책</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOSS Training Reference Slides for the OpenChain Specification 1.1</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T142913Z" creationid="Jang" creationdate="20170803T142913Z">
+        <seg>OpenChain 설명서 1.1을 위한 FOSS 교육 참조 슬라이드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Introduction to FOSS Compliance</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145034Z" creationid="Jang" creationdate="20170803T145034Z">
+        <seg>FOSS Compliance 소개</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Introduction to FOSS Licenses</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145028Z" creationid="Jang" creationdate="20170803T145028Z">
+        <seg>FOSS 라이선스 소개</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It covers software, books, and similar works</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150517Z" creationid="Jang" creationdate="20170803T150300Z">
+        <seg>소프트웨어, 서적 및 이와 유사한 저작물을 다룸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Key Software Concepts<ph x="0">&lt;t0/&gt;</ph>for FOSS Review</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145116Z" creationid="Jang" creationdate="20170803T145116Z">
+        <seg>FOSS 검토를 위한 주요 소프트웨어 개념</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Learn more at: <ph x="0">&lt;t0/&gt;</ph>https://www.openchainproject.org</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144822Z" creationid="Jang" creationdate="20170803T144822Z">
+        <seg>자세한 내용은 다음을 참조하십시오: <ph x="0">&lt;t0/&gt;</ph>https://www.openchainproject.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Limited monopoly to incentivize innovation</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150418Z" creationid="Jang" creationdate="20170803T150418Z">
+        <seg>혁신을 장려하기위한 제한된 독점</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Patents: useful inventions that are novel and non-obvious</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150357Z" creationid="Jang" creationdate="20170803T150357Z">
+        <seg>특허: 새롭고 너무 뻔하지 않은 유용한 발명품</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Protects expression (not the underlying idea)</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150509Z" creationid="Jang" creationdate="20170803T150213Z">
+        <seg>표현을 보호(기본 아이디어가 아님)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Released under CC0-1.0.<ph x="0">&lt;t0/&gt;</ph>You may use, modify, and share these slides without restriction.<ph x="1">&lt;t1/&gt;</ph>They also come with no warranty.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T143546Z" creationid="Jang" creationdate="20170803T143229Z">
+        <seg>CC0-1.0에 따라 배포되었습니다.<ph x="0">&lt;t0/&gt;</ph>제한없이 이 슬라이드를 사용, 수정 및 공유할 수 있습니다.<ph x="1">&lt;t1/&gt;</ph>또한 보증이 적용되지 않습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Running a FOSS Review</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145125Z" creationid="Jang" creationdate="20170803T145125Z">
+        <seg>FOSS 검토 실행</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The OpenChain <ph x="0">&lt;t0/&gt;</ph>Curriculum<ph x="1">&lt;t1/&gt;</ph> supports the Specification by providing<ph x="2">&lt;t2/&gt;</ph>freely available training material.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144544Z" creationid="Jang" creationdate="20170803T144544Z">
+        <seg>OpenChain <ph x="0">&lt;t0/&gt;</ph>교육과정<ph x="1">&lt;t1/&gt;</ph>은 자유롭게 사용할 수있는 교육 자료를 제공함으로 설명서를 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The OpenChain Project helps to identify and share the core components<ph x="0">&lt;t0/&gt;</ph>of a Free and Open Source Software (FOSS) compliance program.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144120Z" creationid="Jang" creationdate="20170803T144120Z">
+        <seg>OpenChain 프로젝트는 FOSS(Free and Open Source Software) Compliance 프로그램의 핵심 구성 요소를 식별하고 공유하는데 도움이됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The core of the OpenChain Project is the <ph x="0">&lt;t0/&gt;</ph>Specification<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144151Z" creationid="Jang" creationdate="20170803T144151Z">
+        <seg>OpenChain 프로젝트의 핵심은 <ph x="0">&lt;t0/&gt;</ph>설명서<ph x="1">&lt;t1/&gt;</ph>입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These slides follow US law.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T143248Z" creationid="Jang" creationdate="20170803T143248Z">
+        <seg>이 슬라이드는 미국 법률을 따릅니다..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These slides help companies satisfy the requirements of the Specification Section 1.2.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144733Z" creationid="Jang" creationdate="20170803T144733Z">
+        <seg>이 슬라이드는 회사들이 설명서 1.2의 요구 사항을 충족하는 데 도움이됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They can also be used for general compliance training.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144758Z" creationid="Jang" creationdate="20170803T144758Z">
+        <seg>또한, 일반 Compliance 교육에도 사용할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This chapter will focus on copyright and patents,<ph x="0">&lt;t0/&gt;</ph>the areas most relevant to FOSS compliance.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T151238Z" creationid="Jang" creationdate="20170803T151238Z">
+        <seg>이 장에서는 FOSS Compliance와 가장 관련이있는 분야인,<ph x="0">&lt;t0/&gt;</ph>저작권 및 특허권에 초점을 맞추어 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This identifies and publishes the core requirements a FOSS compliance program should satisfy.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144339Z" creationid="Jang" creationdate="20170803T144339Z">
+        <seg>이는 FOSS Compliance 프로그램이 만족해야하는 핵심 요구 사항을 식별하고 공개합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Trade secrets: protects valuable confidential information</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150536Z" creationid="Jang" creationdate="20170803T150536Z">
+        <seg>영업 비밀: 중요한 기밀 정보 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Trademarks: protects marks (word, logos, slogans, color, etc.) that identify<ph x="0">&lt;t0/&gt;</ph>the source of the product</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150649Z" creationid="Jang" creationdate="20170803T150649Z">
+        <seg>상표 : 제품의 출처를 식별하는 표시(단어, 로고, 슬로건, 색상 등)를 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is Intellectual Property?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145018Z" creationid="Jang" creationdate="20170803T145018Z">
+        <seg>지적 재산권이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the OpenChain Curriculum?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T143910Z" creationid="Jang" creationdate="20170803T143910Z">
+        <seg>OpenChain 교육과정이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is “Intellectual Property”?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145922Z" creationid="Jang" creationdate="20170803T145922Z">
+        <seg>"지적 재산권"이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can get an example FOSS policy via the Linux Foundation<ph x="0">&lt;t0/&gt;</ph>Open Compliance Program at:<ph x="1">&lt;t1/&gt;</ph>https://www.linux.com/publications/generic-foss-policy</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145900Z" creationid="Jang" creationdate="20170803T145900Z">
+        <seg>Linux Foundation Open Compliance Program에서 예제 FOSS 정책을 얻을 수 있습니다. :<ph x="1">&lt;t1/&gt;</ph>https://www.linux.com/publications/generic-foss-policy</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
