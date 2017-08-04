@@ -78,3 +78,9 @@ authorship	저자
 Patent	특허
 Trade secret	영업 비밀
 Trademark	상표
+Binary Code	바이너리 코드
+copyright owner	저작권 소유자
+derivative work	파생 저작물
+US Copyright Act	미국 저작권법
+Distribution	배포
+entity	엔터티
