@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Basic rule: copyright protects creative works</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141230Z" creationid="Jang" creationdate="20170804T141202Z">
+        <seg>기본 규칙 : 저작권은 창작물을 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>CHAPTER 1</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145905Z" creationid="Jang" creationdate="20170803T145905Z">
@@ -54,6 +62,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Copyright Concepts in Software</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141137Z" creationid="Jang" creationdate="20170804T141137Z">
+        <seg>소프트웨어의 저작권 개념</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Copyright Rights Most Relevant to Software</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141725Z" creationid="Jang" creationdate="20170804T141725Z">
+        <seg>소프트웨어와 가장 관련이있는 저작권상의 권리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Copyright generally applies to literary works, such as books, movies, pictures, music, maps</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141227Z" creationid="Jang" creationdate="20170804T141227Z">
+        <seg>저작권은 일반적으로 책, 영화, 그림, 음악, 지도와 같은 문학 작품에 적용</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Copyright: protects original works of authorship</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150501Z" creationid="Jang" creationdate="20170803T150140Z">
@@ -74,6 +106,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T143450Z" creationid="Jang" creationdate="20170803T143450Z">
         <seg>법적인 관할권에 따라 법적 요구 사항이 달라질 수 있습니다.<ph x="0">&lt;t0/&gt;</ph>이 슬라이드를 Compliance 교육 프로그램의 일부로 사용할 때는이 점을 고려해야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Distribution is generally viewed as the provision of a copy of a piece of software,<ph x="0">&lt;t0/&gt;</ph>in binary or source code form, to another entity (an individual or organization outside<ph x="1">&lt;t1/&gt;</ph>your company or organization)</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T143040Z" creationid="Jang" creationdate="20170804T143040Z">
+        <seg>배포는 일반적으로 바이너리 또는 소스 코드 형식의 소프트웨어 사본을 다른 엔터티 (회사 또는 조직 외부의 개인 또는 조직)에게 제공하는 것으로 간주됨</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +142,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>In general it refers to a new work based upon an original work to which enough original creative work has been added so that the new work represents an original work of authorship rather than a copy</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T142653Z" creationid="Jang" creationdate="20170804T142653Z">
+        <seg>일반적으로 충분한 저작 활동이 추가된 독창적인 저작물을 기반으로 한 새로운 저작물을 말하며, 이는 새로운 저작물이 사본이 아닌 원본 저작물을 나타내는 것임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Includes Binary Code and Source Code</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141458Z" creationid="Jang" creationdate="20170804T141458Z">
+        <seg>바이너리 코드 및 소스 코드 포함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Infringement may occur if copying without the permission of the author</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141630Z" creationid="Jang" creationdate="20170804T141630Z">
+        <seg>저자의 허락없이 복사하는 경우 저작권 침해가 발생할 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Introduction to FOSS Compliance</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145034Z" creationid="Jang" creationdate="20170803T145034Z">
@@ -126,6 +190,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>It is a “term of art” meaning that it has a particular meaning based on the statute and not the dictionary definition</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T142151Z" creationid="Jang" creationdate="20170804T142151Z">
+        <seg>사전 정의가 아닌 법령에 근거한 특별한 의미를 갖는 "예술 용어"임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Key Software Concepts<ph x="0">&lt;t0/&gt;</ph>for FOSS Review</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145116Z" creationid="Jang" creationdate="20170803T145116Z">
@@ -146,6 +218,22 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150418Z" creationid="Jang" creationdate="20170803T150418Z">
         <seg>혁신을 장려하기위한 제한된 독점</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not the functionality (that’s protected by patents) but the expression (creativity in implementation details)</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141435Z" creationid="Jang" creationdate="20170804T141435Z">
+        <seg>기능(특허로 보호됨)이 아니라 표현(구현 세부 사항의 창의성)이 보호를 받음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note: The interpretation of what constitutes a “derivative work” or a “distribution”<ph x="0">&lt;t0/&gt;</ph>is subject to debate in the FOSS community and within FOSS legal circles</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T143157Z" creationid="Jang" creationdate="20170804T143157Z">
+        <seg>참고 : "파생 저작물"또는 "배포"을 구성하는 내용에 대한 해석은 FOSS 커뮤니티 및 FOSS 법률 집단 내의 토론 대상이 됨</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +270,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Software is protected by copyright</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141257Z" creationid="Jang" creationdate="20170804T141257Z">
+        <seg>소프트웨어는 저작권의 보호를 받음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The OpenChain <ph x="0">&lt;t0/&gt;</ph>Curriculum<ph x="1">&lt;t1/&gt;</ph> supports the Specification by providing<ph x="2">&lt;t2/&gt;</ph>freely available training material.</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144544Z" creationid="Jang" creationdate="20170803T144544Z">
@@ -198,10 +294,50 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The copyright owner only has control over the work that he or she created, not someone else’s independent creation</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141605Z" creationid="Jang" creationdate="20170804T141605Z">
+        <seg>저작권 소유자는 자신이 만든 저작물에 대해서만 통제권을 가지며, 타인의 독립적인 저작물은 해당하지 않음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The core of the OpenChain Project is the <ph x="0">&lt;t0/&gt;</ph>Specification<ph x="1">&lt;t1/&gt;</ph>.</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144151Z" creationid="Jang" creationdate="20170803T144151Z">
         <seg>OpenChain 프로젝트의 핵심은 <ph x="0">&lt;t0/&gt;</ph>설명서<ph x="1">&lt;t1/&gt;</ph>입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The right to <ph x="0">&lt;t0/&gt;</ph>distribute</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T142837Z" creationid="Jang" creationdate="20170804T142744Z">
+        <seg>배포할 권리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The right to <ph x="0">&lt;t0/&gt;</ph>reproduce <ph x="1">&lt;t1/&gt;</ph>the software – making copies</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141914Z" creationid="Jang" creationdate="20170804T141833Z">
+        <seg>소프트웨어를 <ph x="0">&lt;t0/&gt;</ph>복제 <ph x="1">&lt;t1/&gt;</ph> 할 권리 – 복사하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The right to create “<ph x="0">&lt;t0/&gt;</ph>derivative works<ph x="1">&lt;t1/&gt;</ph>” – making modifications</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T142000Z" creationid="Jang" creationdate="20170804T142000Z">
+        <seg>“<ph x="0">&lt;t0/&gt;</ph> 파생 저작물<ph x="1">&lt;t1/&gt;</ph>”을 만들 권리 – 수정하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The term derivative work comes from the US Copyright Act</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170804T142046Z" creationid="Jang" creationdate="20170804T142046Z">
+        <seg>파생 저작물이라는 용어는 미국 저작권법에서 비롯됨</seg>
       </tuv>
     </tu>
     <tu>
