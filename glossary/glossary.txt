@@ -84,3 +84,5 @@ derivative work	파생 저작물
 US Copyright Act	미국 저작권법
 Distribution	배포
 entity	엔터티
+functionality	기능
+copyright law	저작권법
