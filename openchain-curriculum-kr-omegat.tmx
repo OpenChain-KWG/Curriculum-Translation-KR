@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A patent application must be made in a specific jurisdiction in order to obtain a patent in that country. If a patent is awarded, the owner has the right to stop anybody from exercising its functionality, regardless of independent creation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150101Z" creationid="Jang" creationdate="20170804T150101Z">
+        <seg>해당 국가에서 특허를 얻기 위해서는 특정 관할 지역에서 특허 신청을해야함. 특허가 수여되면 소유자는 독립적인 창작과 상관없이 누구나 그 기능을 행사할 수 없도록 제한할 권리가 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A “license” is the way a copyright or patent holder gives permission or rights to someone else</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150543Z" creationid="Jang" creationdate="20170804T150543Z">
+        <seg>"라이선스"는 저작권 또는 특허권 소유자가 다른 사람에게 허가 또는 권리를 부여하는 방식임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoiding Compliance Pitfalls</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T145248Z" creationid="Jang" creationdate="20170803T145248Z">
@@ -42,6 +58,22 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T143027Z" creationid="Jang" creationdate="20170803T143027Z">
         <seg>교육과정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can software be subject to a patent?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151224Z" creationid="Jang" creationdate="20170804T151224Z">
+        <seg>소프트웨어가 특허 대상이 될 수 있습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Your Understanding</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151134Z" creationid="Jang" creationdate="20170804T151134Z">
+        <seg>이해하였는지 확인하라</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +150,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Does not protect abstract ideas, laws of nature</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T145857Z" creationid="Jang" creationdate="20170804T145857Z">
+        <seg>추상적인 아이디어, 자연의 법칙을 보호하지는 않음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E.g, provide attribution, or give a reciprocal license</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150957Z" creationid="Jang" creationdate="20170804T150957Z">
+        <seg>예: 저작자 표시 또는 상호 라이선스 제공</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End to End Compliance Management&lt;t0/&gt;(Example Process)</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T145202Z" creationid="Jang" creationdate="20170803T145202Z">
         <seg>종단간 Compliance 관리&lt;t0/&gt;(사례 프로세스)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusive or non-exclusive terms</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150705Z" creationid="Jang" creationdate="20170804T150705Z">
+        <seg>배타적 또는 비배타적인 조건</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Geographical scope</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150816Z" creationid="Jang" creationdate="20170804T150816Z">
+        <seg>지리적 범위</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you independently develop your own software, is it possible that&lt;t0/&gt;you might need a copyright license from a third party for that software?&lt;t1/&gt;A patent license?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151338Z" creationid="Jang" creationdate="20170804T151321Z">
+        <seg>자신의 소프트웨어를 독자적으로 개발하는 경우, &lt;t0/&gt;해당 소프트웨어에 대한 제3자의 저작권 라이선스가 필요할 수 있습니까? &lt;t1/&gt;특허 라이선스는 어떻습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general it refers to a new work based upon an original work to which enough original creative work has been added so that the new work represents an original work of authorship rather than a copy</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142653Z" creationid="Jang" creationdate="20170804T142653Z">
@@ -154,6 +226,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T141458Z" creationid="Jang" creationdate="20170804T141458Z">
         <seg>바이너리 코드 및 소스 코드 포함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infringement may occur even if other parties independently create the same invention</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150401Z" creationid="Jang" creationdate="20170804T150352Z">
+        <seg>다른 당사자가 독자적으로 동일한 발명을 독자적으로 창작하더라도 침해가 발생할 수 있음</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +294,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150414Z" creationid="Jang" creationdate="20170804T150414Z">
+        <seg>라이선스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Limited monopoly to incentivize innovation</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T150418Z" creationid="Jang" creationdate="20170803T150418Z">
         <seg>혁신을 장려하기위한 제한된 독점</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May also include contractual terms regarding warranties, indemnification, support, upgrade, maintenance</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151028Z" creationid="Jang" creationdate="20170804T151028Z">
+        <seg>보증, 배상, 지원, 업그레이드, 유지 보수와 관련된 계약 조건도 포함될 수 있음</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +334,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other parties who want to use the technology may seek a patent license (which may grant rights to use, make, have made, sell, offer for sale, and import the technology)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150225Z" creationid="Jang" creationdate="20170804T150225Z">
+        <seg>그 기술을 사용하고자하는 다른 당사자는 특허 라이선스(사용, 제작, 판매, 판매 제안 및 기술 도입 권한을 부여 할 수 있음)를 요청할 수 있음.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patent Concepts in Software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T145641Z" creationid="Jang" creationdate="20170804T145641Z">
+        <seg>소프트웨어의 특허 개념</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patents protect functionality – this can include a method of operation,&lt;t0/&gt;such as a computer program</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T145832Z" creationid="Jang" creationdate="20170804T145832Z">
+        <seg>특허는 기능을 보호함 – 컴퓨터 프로그램과 같은 작동 방법을 포함 할 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patents: useful inventions that are novel and non-obvious</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T150357Z" creationid="Jang" creationdate="20170803T150357Z">
         <seg>특허: 새롭고 너무 뻔하지 않은 유용한 발명품</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perpetual or time limited duration</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150829Z" creationid="Jang" creationdate="20170804T150829Z">
+        <seg>영구적 또는 시간 제한 기간</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +434,22 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T144151Z" creationid="Jang" creationdate="20170803T144151Z">
         <seg>OpenChain 프로젝트의 핵심은 &lt;t0/&gt;설명서&lt;t1/&gt;입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The license can be limited to:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150759Z" creationid="Jang" creationdate="20170804T150602Z">
+        <seg>라이선스는 다음 사항에 제한될 수 있음:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The license can have conditions on the grants, meaning you only get&lt;t0/&gt;the license if you comply with certain obligations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150936Z" creationid="Jang" creationdate="20170804T150936Z">
+        <seg>라이센스에는 부여를 위한 조건이 있을 수 있음&lt;t0/&gt;이는 특정 의무를 준수하는 경우에만 라이선스를 취득한다는 의미임</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +542,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Types of use allowed (commercial / non-commercial, distribution, derivative works / to make, have made, manufacture)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150650Z" creationid="Jang" creationdate="20170804T150650Z">
+        <seg>허용된 사용 유형 (상업적 / 비상업적, 배포, 파생 저작물 / 제조, 제조?, 제조?))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What copyright rights are most important for software?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151218Z" creationid="Jang" creationdate="20170804T151218Z">
+        <seg>소프트웨어에 대해 가장 중요한 저작권 권한은 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is Intellectual Property?</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T145018Z" creationid="Jang" creationdate="20170803T145018Z">
@@ -418,6 +578,22 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T145922Z" creationid="Jang" creationdate="20170803T145922Z">
         <seg>"지적 재산권"이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What rights does a patent give to the patent owner?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151237Z" creationid="Jang" creationdate="20170804T151237Z">
+        <seg>특허가 특허 소유자에게 부여하는 권리는 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What type of material does copyright law protect?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151158Z" creationid="Jang" creationdate="20170804T151158Z">
+        <seg>저작권법은 어떤 유형의 자료를 보호합니까?</seg>
       </tuv>
     </tu>
     <tu>
