@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A complete list of OSI-approved licenses is available at &lt;t0/&gt;http://www.opensource.org/licenses/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143053Z" creationid="Jang" creationdate="20170806T143053Z">
+        <seg>OSI 승인 전체 라이선스 목록은 다음에서 볼 수 있음 : &lt;t0/&gt;http://www.opensource.org/licenses/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A patent application must be made in a specific jurisdiction in order to obtain a patent in that country. If a patent is awarded, the owner has the right to stop anybody from exercising its functionality, regardless of independent creation</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150101Z" creationid="Jang" creationdate="20170804T150101Z">
         <seg>해당 국가에서 특허를 얻기 위해서는 특정 관할 지역에서 특허 신청을해야함. 특허가 수여되면 소유자는 독립적인 창작과 상관없이 누구나 그 기능을 행사할 수 없도록 제한할 권리가 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A proprietary software license (or commercial license or EULA) has restrictions on the usage, modification and/or distribution of the software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144538Z" creationid="Jang" creationdate="20170806T144538Z">
+        <seg>독점 소프트웨어 라이선스 (또는 상업용 라이선스 또는 EULA)는 소프트웨어의 사용, 수정 및 배포에 대한 제한을 가짐.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHAPTER 2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T141944Z" creationid="Jang" creationdate="20170806T141944Z">
+        <seg>2장</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CURRICULUM</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T143027Z" creationid="Jang" creationdate="20170803T143027Z">
@@ -72,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>Check Your Understanding</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170804T151134Z" creationid="Jang" creationdate="20170804T151134Z">
-        <seg>이해하였는지 확인하라</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151432Z" creationid="Jang" creationdate="20170804T151134Z">
+        <seg>확인해보세요</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +198,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example of license reciprocity from the GPL version 2.0:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143959Z" creationid="Jang" creationdate="20170806T143959Z">
+        <seg>GPL-2.0의 라이선스 상호주의 예:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: BSD-3-Clause</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143328Z" creationid="Jang" creationdate="20170806T143328Z">
+        <seg>예: BSD-3-Clause</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exclusive or non-exclusive terms</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150705Z" creationid="Jang" creationdate="20170804T150705Z">
         <seg>배타적 또는 비배타적인 조건</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T141954Z" creationid="Jang" creationdate="20170806T141954Z">
+        <seg>FOSS 라이선스</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +242,54 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T142913Z" creationid="Jang" creationdate="20170803T142913Z">
         <seg>OpenChain 설명서 1.1을 위한 FOSS 교육 참조 슬라이드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS developers often use the term “proprietary” to describe a commercial non-FOSS license, even though both FOSS and proprietary licenses are based on intellectual property and provide a license grant to that property</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145102Z" creationid="Jang" creationdate="20170806T145102Z">
+        <seg>FOSS 개발자는 FOSS 및 독점 라이선스가 모두 지적 재산을 기반으로하고 해당 자산에 라이센스 부여를 제공함에도, 상업적 비 FOSS 라이선스를 설명하기 위해 종종 "독점"이라는 용어를 사용함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licenses by definition make source code available under terms that allow for modification and redistribution</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T142433Z" creationid="Jang" creationdate="20170806T142326Z">
+        <seg>정의에 따르면 FOSS 라이선스는 수정 및 재배포를 허용하는 조건하에서 소스 코드를 사용할 수 있게함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T142829Z" creationid="Jang" creationdate="20170806T142829Z">
+        <seg>FOSS 라이선스는 귀속에 관한 고지 제공, 저작권 표시 보존 또는 소스 코드 제공을 위한 서면 약정과 관련된 조건을 가지고 있을 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware software is usually fully functional (no locked features) and available for unlimited use (no locking on days of usage)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145747Z" creationid="Jang" creationdate="20170806T145747Z">
+        <seg>프리웨어 소프트웨어는 일반적으로 완벽하게 작동하며 (기능 제한 없음) 무제한으로 사용할 수 있음 (사용일수 제한 없음).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware software licenses usually impose restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T150639Z" creationid="Jang" creationdate="20170806T150639Z">
+        <seg>프리웨어 소프트웨어 라이선스는 일반적으로 사용 유형 (개인, 상업, 학업 등)에 대한 제한 뿐만 아니라 소프트웨어의 복제, 배포 및 파생 저작물 제작과 관련하여 제한을 부과함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware – software distributed under a proprietary license at no&lt;t0/&gt;or very low cost</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145546Z" creationid="Jang" creationdate="20170806T145546Z">
+        <seg>프리웨어 – 독점 라이선스 하에서 무료 또는 매우 저렴한 비용으로 배포되는 소프트웨어</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,10 +390,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>License Reciprocity &amp; Copyleft Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143739Z" creationid="Jang" creationdate="20170806T143739Z">
+        <seg>라이선스 상호주의 및 Copyleft 라이선스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Licenses</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150414Z" creationid="Jang" creationdate="20170804T150414Z">
         <seg>라이선스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Licenses that include reciprocity or Copyleft clauses include all versions of the GPL, LGPL, AGPL, MPL and CDDL</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144337Z" creationid="Jang" creationdate="20170806T144337Z">
+        <seg>상호주의 또는 Copyleft 절을 포함하는 라이선스에는 GPL, LGPL, AGPL, MPL 및 CDDL의 모든 버전이 포함됨</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most companies are very leery of Shareware, because Shareware vendors often approach companies for large license payments after the software has freely propagated within their organizations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T151421Z" creationid="Jang" creationdate="20170806T151421Z">
+        <seg>셰어웨어 공급 업체는 소프트웨어가 조직 내에서 자유롭게 전파 된 후 대규모 라이슨서 지불을 위해 회사에 접근하기 때문에 대부분의 회사는 셰어웨어를 매우 경계함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not the functionality (that’s protected by patents) but the expression (creativity in implementation details)</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T141435Z" creationid="Jang" creationdate="20170804T141435Z">
@@ -330,6 +450,30 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T143157Z" creationid="Jang" creationdate="20170804T143157Z">
         <seg>참고 : "파생 저작물"또는 "배포"을 구성하는 내용에 대한 해석은 FOSS 커뮤니티 및 FOSS 법률 집단 내의 토론 대상이 됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One popular set of licenses are those approved by the FOSS Initiative (OSI) based on their FOSS Definition (OSD).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143006Z" creationid="Jang" creationdate="20170806T143006Z">
+        <seg>하나의 인기있는 라이선스 집합은 FOSS 정의 (OSD)를 기반으로 FOSS Initiative (OSI)에서 승인한 라이선스 집합임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Non-FOSS Licensing Situations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145321Z" creationid="Jang" creationdate="20170806T145321Z">
+        <seg>기타 비 FOSS 라이선스 상황</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other examples: MIT, Apache-2.0</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143630Z" creationid="Jang" creationdate="20170806T143630Z">
+        <seg>다른 예: MIT, Apache-2.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,10 +510,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permissive FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143217Z" creationid="Jang" creationdate="20170806T143217Z">
+        <seg>Permissive FOSS 라이선스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permissive FOSS license: a term used often to describe minimally restrictive FOSS licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143307Z" creationid="Jang" creationdate="20170806T143307Z">
+        <seg>Permissive FOSS 라이선스: 제한이 최소한인 FOSS 라이선스를 설명하기 위해 자주 사용되는 용어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perpetual or time limited duration</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150829Z" creationid="Jang" creationdate="20170804T150829Z">
         <seg>영구적 또는 시간 제한 기간</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proprietary License or Closed Source</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144452Z" creationid="Jang" creationdate="20170806T144452Z">
+        <seg>독점 라이선스 또는 폐쇄 소스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proprietary licenses are unique to each vendor – there are as many variations of proprietary licenses as there are vendors and each must be evaluated individually</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144654Z" creationid="Jang" creationdate="20170806T144654Z">
+        <seg>독점 라이선스는 각 공급 업체마다 고유함 – 공급 업체와 동일한 수의 다양한 독점 라이선스가 존재하며 각각은 개별적으로 평가되어야함</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,10 +574,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shareware – proprietary software provided to users on a trial basis,&lt;t0/&gt;for a limited time, free of charge and with limited functionalities or features</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T150955Z" creationid="Jang" creationdate="20170806T150955Z">
+        <seg>셰어웨어 –  제한된 시간 동안 제한된 기능을 사용자에게 시범적으로 무료 제공하는 독점 소프트웨어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Software is protected by copyright</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T141257Z" creationid="Jang" creationdate="20170804T141257Z">
         <seg>소프트웨어는 저작권의 보호를 받음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some licenses require that if derivative works (or software in the same file, same program or other boundary) are distributed, the distribution is under the same terms as the original work</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143909Z" creationid="Jang" creationdate="20170806T143909Z">
+        <seg>일부 라이선스는 파생 저작물(또는 동일한 파일, 동일한 프로그램 또는 다른 경계의 소프트웨어)이 배포되는 경우 원본 저작물과 동일한 조건으로 배포 할 것을 요구</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose in source or object code form as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143502Z" creationid="Jang" creationdate="20170806T143502Z">
+        <seg>BSD 라이선스는 저작권 표시 및 라이선스 면책 조항이 유지되는한 어떠한 목적으로든 소스 코드 또는 오브젝트 코드 형식으로 무제한 재배포를 허용하는 Permissive 라이선스의 한 예임</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The goal of shareware is to give potential buyers the opportunity to use the program and judge its usefulness before purchasing a license for the full version of the software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T151040Z" creationid="Jang" creationdate="20170806T151040Z">
+        <seg>셰어웨어의 목표는 잠재적인 구매자에게 프로그램의 전체 버전에 대한 라이선스를 구입하기 전에 프로그램을 사용하고 그 유용성을 판단 할 기회를 제공하는 것</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The license can be limited to:</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150759Z" creationid="Jang" creationdate="20170804T150602Z">
@@ -450,6 +658,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150936Z" creationid="Jang" creationdate="20170804T150936Z">
         <seg>라이센스에는 부여를 위한 조건이 있을 수 있음&lt;t0/&gt;이는 특정 의무를 준수하는 경우에만 라이선스를 취득한다는 의미임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The license contains a clause restricting use of the names of contributors for endorsement of a derived work without specific permission</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143618Z" creationid="Jang" creationdate="20170806T143618Z">
+        <seg>특정 허가 없이 파생 저작물을 추천하기 위해 기여자 이름의 사용을 제한하는 조항이 포함되어 있음</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +690,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142000Z" creationid="Jang" creationdate="20170804T142000Z">
         <seg>“&lt;t0/&gt; 파생 저작물&lt;t1/&gt;”을 만들 권리 – 수정하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source code may or may not be available, and creation of derivative works is usually restricted</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145611Z" creationid="Jang" creationdate="20170806T145611Z">
+        <seg>소스 코드가 사용 가능하거나 사용 가능하지 않을 수 있으며, 파생 저작물 생성은 일반적으로 제한됨</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +746,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T144339Z" creationid="Jang" creationdate="20170803T144339Z">
         <seg>이는 FOSS Compliance 프로그램이 만족해야하는 핵심 요구 사항을 식별하고 공개합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is referred to as a “copyleft” or “reciprocal” effect</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143934Z" creationid="Jang" creationdate="20170806T143934Z">
+        <seg>이를 "Copyleft" 또는 "상호주의" 효과라고 함</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +834,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T145900Z" creationid="Jang" creationdate="20170803T145900Z">
         <seg>Linux Foundation Open Compliance Program에서 예제 FOSS 정책을 얻을 수 있습니다. :&lt;t1/&gt;https://www.linux.com/publications/generic-foss-policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must cause any work that you distribute or publish, that in whole or in part contains&lt;t0/&gt;or is derived from the Program or any part thereof, to be licensed […] under the terms&lt;t1/&gt;of this License.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144255Z" creationid="Jang" creationdate="20170806T144255Z">
+        <seg>배포하거나 공표하려는 저작물의 전부 또는 일부가 양도 받은 프로그램의 일부를 포함하거나 프로그램으로부터 파생된 것이라면, 저작물에 대한 사용권리를 본 라이선스의 규정에 따라 […] 허용해야 한다.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

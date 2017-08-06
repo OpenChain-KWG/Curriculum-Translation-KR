@@ -42,7 +42,7 @@ source form	소스 형태
 source code	소스 코드
 build	빌드
 script	스크립트
-written offer	서면 약정서
+written offer	서면 약정
 Contribution	기여
 Community	커뮤니티
 Specification	설명서
@@ -86,3 +86,15 @@ Distribution	배포
 entity	엔터티
 functionality	기능
 copyright law	저작권법
+CHAPTER	장
+modification	수정
+redistribution	재배포
+attributions	귀속에 관한 고지
+copyright statement	저작권 표시
+set	집합
+Example	예
+Reciprocity	상호주의
+Proprietary License	독점 라이선스
+Closed Source	폐쇄 소스
+Freeware	프리웨어
+Shareware	셰어웨어	Shareware
