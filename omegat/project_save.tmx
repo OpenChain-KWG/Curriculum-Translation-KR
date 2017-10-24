@@ -102,14 +102,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Common scenarios include:</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171024T150028Z" creationid="Jang" creationdate="20171024T150028Z">
-        <seg>일반적인 시나리오는 다음과 같습니다:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Consumer and brand protection; avoid consumer confusion and brand dilution</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T151108Z" creationid="Jang" creationdate="20170803T151108Z">
@@ -306,14 +298,6 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150816Z" creationid="Jang" creationdate="20170804T150816Z">
         <seg>지리적 범위</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>How do you want to use a FOSS component?</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171024T145957Z" creationid="Jang" creationdate="20171024T145913Z">
-        <seg>FOSS 컴포넌트를 어떻게 사용하려고 합니까?</seg>
       </tuv>
     </tu>
     <tu>
