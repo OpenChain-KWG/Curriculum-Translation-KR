@@ -98,3 +98,28 @@ Proprietary License	독점 라이선스
 Closed Source	폐쇄 소스
 Freeware	프리웨어
 Shareware	셰어웨어	Shareware
+component	컴포넌트
+Incorporation	결합
+Linking	링킹	Linking
+Modification	변경
+Translation	번역
+Integrating	통합
+Merging	병합
+Pasting	붙여넣기
+Adapting	개작	Adapting
+Inserting	삽입
+Pairing	페어링
+Combining	결합
+Utilizing	활용
+Packaging	패키징
+interdependency	상호의존성
+Adding	추가
+Injecting	주입
+Deleting	삭제
+binary	바이너리
+Compiling	컴파일
+Development	개발
+Tools	도구
+material	자료
+distribution	배포
+hardware	하드웨어

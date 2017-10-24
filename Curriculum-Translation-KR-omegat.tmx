@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;&lt;&lt;t0/&gt;This is a placeholder slide to identify where your FOSS policy can be found (OpenChain Specification 1.1, section 1.1.1)&lt;t1/&gt;&gt;&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145813Z" creationid="Jang" creationdate="20170803T145702Z">
+        <seg>&lt;&lt;&lt;t0/&gt;이것은 당신의 FOSS 정책이 어디서 발견될 수 있는지 에 대해 알려주기 위한 견본용 슬라이드 입니다. (OpenChain 설명서 1.1, 1.1.1절)&lt;t1/&gt;&gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A complete list of OSI-approved licenses is available at &lt;t0/&gt;http://www.opensource.org/licenses/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143053Z" creationid="Jang" creationdate="20170806T143053Z">
+        <seg>OSI 승인 전체 라이선스 목록은 다음에서 볼 수 있음 : &lt;t0/&gt;http://www.opensource.org/licenses/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A developer may copy portions of a FOSS component into your software product.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150326Z" creationid="Jang" creationdate="20171024T150326Z">
+        <seg>개발자는 FOSS 컴포넌트의 일부를 소프트웨어 제품에 복사할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A developer may link or join a FOSS component with your software product.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150720Z" creationid="Jang" creationdate="20171024T150720Z">
+        <seg>개발자는 FOSS 컴포넌트를 소프트웨어 제품과 링크하거나 연결할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A developer may make changes to a FOSS component, including:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150932Z" creationid="Jang" creationdate="20171024T150932Z">
+        <seg>개발자는 다음을 포함하여 FOSS 컴포넌트를 변경할 수 있습니다.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A developer may transform the code from one state to another.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151303Z" creationid="Jang" creationdate="20171024T151303Z">
+        <seg>개발자는 코드를 한 상태에서 다른 상태로 변환 할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A patent application must be made in a specific jurisdiction in order to obtain a patent in that country. If a patent is awarded, the owner has the right to stop anybody from exercising its functionality, regardless of independent creation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150101Z" creationid="Jang" creationdate="20170804T150101Z">
+        <seg>해당 국가에서 특허를 얻기 위해서는 특정 관할 지역에서 특허 신청을해야함. 특허가 수여되면 소유자는 독립적인 창작과 상관없이 누구나 그 기능을 행사할 수 없도록 제한할 권리가 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A proprietary software license (or commercial license or EULA) has restrictions on the usage, modification and/or distribution of the software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144538Z" creationid="Jang" creationdate="20170806T144538Z">
+        <seg>독점 소프트웨어 라이선스 (또는 상업용 라이선스 또는 EULA)는 소프트웨어의 사용, 수정 및 배포에 대한 제한을 가짐.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A “license” is the way a copyright or patent holder gives permission or rights to someone else</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150543Z" creationid="Jang" creationdate="20170804T150543Z">
+        <seg>"라이선스"는 저작권 또는 특허권 소유자가 다른 사람에게 허가 또는 권리를 부여하는 방식임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adapting</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150630Z" creationid="Jang" creationdate="20171024T150445Z">
+        <seg>개작</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151142Z" creationid="Jang" creationdate="20171024T151142Z">
+        <seg>추가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding/injecting new code into the FOSS component</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150944Z" creationid="Jang" creationdate="20171024T150944Z">
+        <seg>FOSS 컴포넌트에 새로운 코드 추가 / 주입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another legal entity within the business group (this may count as distribution)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151842Z" creationid="Jang" creationdate="20171024T151842Z">
+        <seg>비지니스 그룹 내 다른 법인 (이는 배포로 간주될 수 있음)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoiding Compliance Pitfalls</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145248Z" creationid="Jang" creationdate="20170803T145248Z">
+        <seg>Compliance 함정 피하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic rule: copyright protects creative works</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141230Z" creationid="Jang" creationdate="20170804T141202Z">
+        <seg>기본 규칙 : 저작권은 창작물을 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Binary delivery</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151916Z" creationid="Jang" creationdate="20171024T151916Z">
+        <seg>바이너리 전달</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER 1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145905Z" creationid="Jang" creationdate="20170803T145905Z">
+        <seg>1장</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER 2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T141944Z" creationid="Jang" creationdate="20170806T141944Z">
+        <seg>2장</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CURRICULUM</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T143027Z" creationid="Jang" creationdate="20170803T143027Z">
+        <seg>교육과정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can software be subject to a patent?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151224Z" creationid="Jang" creationdate="20170804T151224Z">
+        <seg>소프트웨어가 특허 대상이 될 수 있습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151124Z" creationid="Jang" creationdate="20171024T151124Z">
+        <seg>변경</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Your Understanding</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151432Z" creationid="Jang" creationdate="20170804T151134Z">
+        <seg>확인해보세요</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combining</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150813Z" creationid="Jang" creationdate="20171024T150813Z">
+        <seg>결합</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common scenarios include:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150028Z" creationid="Jang" creationdate="20171024T150028Z">
+        <seg>일반적인 시나리오는 다음과 같습니다:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Community project</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151806Z" creationid="Jang" creationdate="20171024T151806Z">
+        <seg>커뮤니티 프로젝트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiling into binary</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151348Z" creationid="Jang" creationdate="20171024T151348Z">
+        <seg>바이너리로 컴파일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consumer and brand protection; avoid consumer confusion and brand dilution</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T151108Z" creationid="Jang" creationdate="20170803T151108Z">
+        <seg>소비자 및 브랜드 보호; 소비자 혼란과 브랜드 가치 저하 방지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T144829Z" creationid="Jang" creationdate="20170803T144829Z">
+        <seg>목차</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting C++ to Java</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151323Z" creationid="Jang" creationdate="20171024T151323Z">
+        <seg>C++에서 Java로 변환</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright Concepts in Software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141137Z" creationid="Jang" creationdate="20170804T141137Z">
+        <seg>소프트웨어의 저작권 개념</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright Rights Most Relevant to Software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141725Z" creationid="Jang" creationdate="20170804T141725Z">
+        <seg>소프트웨어와 가장 관련이있는 저작권상의 권리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright generally applies to literary works, such as books, movies, pictures, music, maps</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141227Z" creationid="Jang" creationdate="20170804T141227Z">
+        <seg>저작권은 일반적으로 책, 영화, 그림, 음악, 지도와 같은 문학 작품에 적용</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright: protects original works of authorship</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T150501Z" creationid="Jang" creationdate="20170803T150140Z">
+        <seg>저작권: 저자의 원본 저작물을 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating interdependency</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150916Z" creationid="Jang" creationdate="20171024T150916Z">
+        <seg>상호의존성 생성</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer/Partner</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151801Z" creationid="Jang" creationdate="20171024T151801Z">
+        <seg>고객/파트너</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151225Z" creationid="Jang" creationdate="20171024T151225Z">
+        <seg>삭제</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting or removing code</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151009Z" creationid="Jang" creationdate="20171024T151009Z">
+        <seg>코드 삭제 또는 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Developer Guidelines</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145318Z" creationid="Jang" creationdate="20170803T145318Z">
+        <seg>개발자 가이드라인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development Tools</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151422Z" creationid="Jang" creationdate="20171024T151422Z">
+        <seg>개발 도구</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development tools may perform some of these operations behind the scenes.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151526Z" creationid="Jang" creationdate="20171024T151526Z">
+        <seg>개발 도구가 이러한 작업 중 일부를 뒤에서 수행할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different legal jurisdictions may have different legal requirements.&lt;t0/&gt;This should be taken into account when using these slides as part of a compliance training program.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T143450Z" creationid="Jang" creationdate="20170803T143450Z">
+        <seg>법적인 관할권에 따라 법적 요구 사항이 달라질 수 있습니다.&lt;t0/&gt;이 슬라이드를 Compliance 교육 프로그램의 일부로 사용할 때는이 점을 고려해야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution is generally viewed as the provision of a copy of a piece of software,&lt;t0/&gt;in binary or source code form, to another entity (an individual or organization outside&lt;t1/&gt;your company or organization)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T143040Z" creationid="Jang" creationdate="20170804T143040Z">
+        <seg>배포는 일반적으로 바이너리 또는 소스 코드 형식의 소프트웨어 사본을 다른 엔터티 (회사 또는 조직 외부의 개인 또는 조직)에게 제공하는 것으로 간주됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does not protect abstract ideas, laws of nature</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T145857Z" creationid="Jang" creationdate="20170804T145857Z">
+        <seg>추상적인 아이디어, 자연의 법칙을 보호하지는 않음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E.g, provide attribution, or give a reciprocal license</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150957Z" creationid="Jang" creationdate="20170804T150957Z">
+        <seg>예: 저작자 표시 또는 상호 라이선스 제공</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End to End Compliance Management&lt;t0/&gt;(Example Process)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145202Z" creationid="Jang" creationdate="20170803T145202Z">
+        <seg>종단간 Compliance 관리&lt;t0/&gt;(사례 프로세스)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example of license reciprocity from the GPL version 2.0:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143959Z" creationid="Jang" creationdate="20170806T143959Z">
+        <seg>GPL-2.0의 라이선스 상호주의 예:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: BSD-3-Clause</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143328Z" creationid="Jang" creationdate="20170806T143328Z">
+        <seg>예: BSD-3-Clause</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples include:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151308Z" creationid="Jang" creationdate="20171024T151308Z">
+        <seg>예:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusive or non-exclusive terms</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150705Z" creationid="Jang" creationdate="20170804T150705Z">
+        <seg>배타적 또는 비배타적인 조건</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T141954Z" creationid="Jang" creationdate="20170806T141954Z">
+        <seg>FOSS 라이선스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Policy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145333Z" creationid="Jang" creationdate="20170803T145333Z">
+        <seg>FOSS 정책</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Training Reference Slides for the OpenChain Specification 1.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T142913Z" creationid="Jang" creationdate="20170803T142913Z">
+        <seg>OpenChain 설명서 1.1을 위한 FOSS 교육 참조 슬라이드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS developers often use the term “proprietary” to describe a commercial non-FOSS license, even though both FOSS and proprietary licenses are based on intellectual property and provide a license grant to that property</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145102Z" creationid="Jang" creationdate="20170806T145102Z">
+        <seg>FOSS 개발자는 FOSS 및 독점 라이선스가 모두 지적 재산을 기반으로하고 해당 자산에 라이센스 부여를 제공함에도, 상업적 비 FOSS 라이선스를 설명하기 위해 종종 "독점"이라는 용어를 사용함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licenses by definition make source code available under terms that allow for modification and redistribution</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T142433Z" creationid="Jang" creationdate="20170806T142326Z">
+        <seg>정의에 따르면 FOSS 라이선스는 수정 및 재배포를 허용하는 조건하에서 소스 코드를 사용할 수 있게함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T142829Z" creationid="Jang" creationdate="20170806T142829Z">
+        <seg>FOSS 라이선스는 귀속에 관한 고지 제공, 저작권 표시 보존 또는 소스 코드 제공을 위한 서면 약정과 관련된 조건을 가지고 있을 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151111Z" creationid="Jang" creationdate="20171024T151111Z">
+        <seg>조정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixing, optimizing or making changes to the FOSS component</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151003Z" creationid="Jang" creationdate="20171024T151003Z">
+        <seg>FOSS 컴포넌트의 수정, 최적화 또는 변경</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, a tool may inject portions of its own code into output of the tool.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151619Z" creationid="Jang" creationdate="20171024T151549Z">
+        <seg>예를 들어, 어떤 도구는 출력물에 자체 코드의 일부를 주입할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware software is usually fully functional (no locked features) and available for unlimited use (no locking on days of usage)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145747Z" creationid="Jang" creationdate="20170806T145747Z">
+        <seg>프리웨어 소프트웨어는 일반적으로 완벽하게 작동하며 (기능 제한 없음) 무제한으로 사용할 수 있음 (사용일수 제한 없음).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware software licenses usually impose restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T150639Z" creationid="Jang" creationdate="20170806T150639Z">
+        <seg>프리웨어 소프트웨어 라이선스는 일반적으로 사용 유형 (개인, 상업, 학업 등)에 대한 제한 뿐만 아니라 소프트웨어의 복제, 배포 및 파생 저작물 제작과 관련하여 제한을 부과함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware – software distributed under a proprietary license at no&lt;t0/&gt;or very low cost</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145546Z" creationid="Jang" creationdate="20170806T145546Z">
+        <seg>프리웨어 – 독점 라이선스 하에서 무료 또는 매우 저렴한 비용으로 배포되는 소프트웨어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Geographical scope</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150816Z" creationid="Jang" creationdate="20170804T150816Z">
+        <seg>지리적 범위</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do you want to use a FOSS component?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T145957Z" creationid="Jang" creationdate="20171024T145913Z">
+        <seg>FOSS 컴포넌트를 어떻게 사용하려고 합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How is the FOSS component distributed?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151745Z" creationid="Jang" creationdate="20171024T151745Z">
+        <seg>FOSS 컴포넌트는 어떻게 배포됩니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you independently develop your own software, is it possible that&lt;t0/&gt;you might need a copyright license from a third party for that software?&lt;t1/&gt;A patent license?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151338Z" creationid="Jang" creationdate="20170804T151321Z">
+        <seg>자신의 소프트웨어를 독자적으로 개발하는 경우, &lt;t0/&gt;해당 소프트웨어에 대한 제3자의 저작권 라이선스가 필요할 수 있습니까? &lt;t1/&gt;특허 라이선스는 어떻습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general it refers to a new work based upon an original work to which enough original creative work has been added so that the new work represents an original work of authorship rather than a copy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T142653Z" creationid="Jang" creationdate="20170804T142653Z">
+        <seg>일반적으로 충분한 저작 활동이 추가된 독창적인 저작물을 기반으로 한 새로운 저작물을 말하며, 이는 새로운 저작물이 사본이 아닌 원본 저작물을 나타내는 것임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes Binary Code and Source Code</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141458Z" creationid="Jang" creationdate="20170804T141458Z">
+        <seg>바이너리 코드 및 소스 코드 포함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incorporation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150222Z" creationid="Jang" creationdate="20171024T150222Z">
+        <seg>결합</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infringement may occur even if other parties independently create the same invention</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150401Z" creationid="Jang" creationdate="20170804T150352Z">
+        <seg>다른 당사자가 독자적으로 동일한 발명을 독자적으로 창작하더라도 침해가 발생할 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infringement may occur if copying without the permission of the author</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141630Z" creationid="Jang" creationdate="20170804T141630Z">
+        <seg>저자의 허락없이 복사하는 경우 저작권 침해가 발생할 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inject material</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151702Z" creationid="Jang" creationdate="20171024T151702Z">
+        <seg>자료 주입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Injecting</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151204Z" creationid="Jang" creationdate="20171024T151204Z">
+        <seg>주입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150457Z" creationid="Jang" creationdate="20171024T150457Z">
+        <seg>삽입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrating</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150338Z" creationid="Jang" creationdate="20171024T150338Z">
+        <seg>통합</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction to FOSS Compliance</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145034Z" creationid="Jang" creationdate="20170803T145034Z">
+        <seg>FOSS Compliance 소개</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction to FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145028Z" creationid="Jang" creationdate="20170803T145028Z">
+        <seg>FOSS 라이선스 소개</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It covers software, books, and similar works</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T150517Z" creationid="Jang" creationdate="20170803T150300Z">
+        <seg>소프트웨어, 서적 및 이와 유사한 저작물을 다룸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a “term of art” meaning that it has a particular meaning based on the statute and not the dictionary definition</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T142151Z" creationid="Jang" creationdate="20170804T142151Z">
+        <seg>사전 정의가 아닌 법령에 근거한 특별한 의미를 갖는 "예술 용어"임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Software Concepts&lt;t0/&gt;for FOSS Review</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145116Z" creationid="Jang" creationdate="20170803T145116Z">
+        <seg>FOSS 검토를 위한 주요 소프트웨어 개념</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn more at: &lt;t0/&gt;https://www.openchainproject.org</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T144822Z" creationid="Jang" creationdate="20170803T144822Z">
+        <seg>자세한 내용은 다음을 참조하십시오: &lt;t0/&gt;https://www.openchainproject.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Reciprocity &amp; Copyleft Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143739Z" creationid="Jang" creationdate="20170806T143739Z">
+        <seg>라이선스 상호주의 및 Copyleft 라이선스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150414Z" creationid="Jang" creationdate="20170804T150414Z">
+        <seg>라이선스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Licenses that include reciprocity or Copyleft clauses include all versions of the GPL, LGPL, AGPL, MPL and CDDL</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144337Z" creationid="Jang" creationdate="20170806T144337Z">
+        <seg>상호주의 또는 Copyleft 절을 포함하는 라이선스에는 GPL, LGPL, AGPL, MPL 및 CDDL의 모든 버전이 포함됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limited monopoly to incentivize innovation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T150418Z" creationid="Jang" creationdate="20170803T150418Z">
+        <seg>혁신을 장려하기위한 제한된 독점</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linking</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150227Z" creationid="Jang" creationdate="20171024T150227Z">
+        <seg>링킹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May also include contractual terms regarding warranties, indemnification, support, upgrade, maintenance</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151028Z" creationid="Jang" creationdate="20170804T151028Z">
+        <seg>보증, 배상, 지원, 업그레이드, 유지 보수와 관련된 계약 조건도 포함될 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merging</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150352Z" creationid="Jang" creationdate="20171024T150352Z">
+        <seg>병합</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150229Z" creationid="Jang" creationdate="20171024T150229Z">
+        <seg>수정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify the material</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151706Z" creationid="Jang" creationdate="20171024T151706Z">
+        <seg>자료 수정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most companies are very leery of Shareware, because Shareware vendors often approach companies for large license payments after the software has freely propagated within their organizations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T151421Z" creationid="Jang" creationdate="20170806T151421Z">
+        <seg>셰어웨어 공급 업체는 소프트웨어가 조직 내에서 자유롭게 전파 된 후 대규모 라이슨서 지불을 위해 회사에 접근하기 때문에 대부분의 회사는 셰어웨어를 매우 경계함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not the functionality (that’s protected by patents) but the expression (creativity in implementation details)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141435Z" creationid="Jang" creationdate="20170804T141435Z">
+        <seg>기능(특허로 보호됨)이 아니라 표현(구현 세부 사항의 창의성)이 보호를 받음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: The interpretation of what constitutes a “derivative work” or a “distribution”&lt;t0/&gt;is subject to debate in the FOSS community and within FOSS legal circles</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T143157Z" creationid="Jang" creationdate="20170804T143157Z">
+        <seg>참고 : "파생 저작물"또는 "배포"을 구성하는 내용에 대한 해석은 FOSS 커뮤니티 및 FOSS 법률 집단 내의 토론 대상이 됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One popular set of licenses are those approved by the FOSS Initiative (OSI) based on their FOSS Definition (OSD).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143006Z" creationid="Jang" creationdate="20170806T143006Z">
+        <seg>하나의 인기있는 라이선스 집합은 FOSS 정의 (OSD)를 기반으로 FOSS Initiative (OSI)에서 승인한 라이선스 집합임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimizing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151114Z" creationid="Jang" creationdate="20171024T151114Z">
+        <seg>최적화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Non-FOSS Licensing Situations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145321Z" creationid="Jang" creationdate="20170806T145321Z">
+        <seg>기타 비 FOSS 라이선스 상황</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other examples: MIT, Apache-2.0</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143630Z" creationid="Jang" creationdate="20170806T143630Z">
+        <seg>다른 예: MIT, Apache-2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other parties who want to use the technology may seek a patent license (which may grant rights to use, make, have made, sell, offer for sale, and import the technology)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150225Z" creationid="Jang" creationdate="20170804T150225Z">
+        <seg>그 기술을 사용하고자하는 다른 당사자는 특허 라이선스(사용, 제작, 판매, 판매 제안 및 기술 도입 권한을 부여 할 수 있음)를 요청할 수 있음.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packaging</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150843Z" creationid="Jang" creationdate="20171024T150843Z">
+        <seg>패키징</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pairing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150753Z" creationid="Jang" creationdate="20171024T150753Z">
+        <seg>페어링</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pasting</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150356Z" creationid="Jang" creationdate="20171024T150356Z">
+        <seg>붙여넣기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patent Concepts in Software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T145641Z" creationid="Jang" creationdate="20170804T145641Z">
+        <seg>소프트웨어의 특허 개념</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patents protect functionality – this can include a method of operation,&lt;t0/&gt;such as a computer program</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T145832Z" creationid="Jang" creationdate="20170804T145832Z">
+        <seg>특허는 기능을 보호함 – 컴퓨터 프로그램과 같은 작동 방법을 포함 할 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patents: useful inventions that are novel and non-obvious</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T150357Z" creationid="Jang" creationdate="20170803T150357Z">
+        <seg>특허: 새롭고 너무 뻔하지 않은 유용한 발명품</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permissive FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143217Z" creationid="Jang" creationdate="20170806T143217Z">
+        <seg>Permissive FOSS 라이선스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permissive FOSS license: a term used often to describe minimally restrictive FOSS licenses</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143307Z" creationid="Jang" creationdate="20170806T143307Z">
+        <seg>Permissive FOSS 라이선스: 제한이 최소한인 FOSS 라이선스를 설명하기 위해 자주 사용되는 용어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perpetual or time limited duration</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150829Z" creationid="Jang" creationdate="20170804T150829Z">
+        <seg>영구적 또는 시간 제한 기간</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-loaded onto hardware</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151940Z" creationid="Jang" creationdate="20171024T151940Z">
+        <seg>하드웨어에 프리로드됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proprietary License or Closed Source</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144452Z" creationid="Jang" creationdate="20170806T144452Z">
+        <seg>독점 라이선스 또는 폐쇄 소스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proprietary licenses are unique to each vendor – there are as many variations of proprietary licenses as there are vendors and each must be evaluated individually</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144654Z" creationid="Jang" creationdate="20170806T144654Z">
+        <seg>독점 라이선스는 각 공급 업체마다 고유함 – 공급 업체와 동일한 수의 다양한 독점 라이선스가 존재하며 각각은 개별적으로 평가되어야함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protects expression (not the underlying idea)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T150509Z" creationid="Jang" creationdate="20170803T150213Z">
+        <seg>표현을 보호(기본 아이디어가 아님)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Released under CC0-1.0.&lt;t0/&gt;You may use, modify, and share these slides without restriction.&lt;t1/&gt;They also come with no warranty.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T143546Z" creationid="Jang" creationdate="20170803T143229Z">
+        <seg>CC0-1.0에 따라 배포되었습니다.&lt;t0/&gt;제한없이 이 슬라이드를 사용, 수정 및 공유할 수 있습니다.&lt;t1/&gt;또한 보증이 적용되지 않습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relevant terms include:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150334Z" creationid="Jang" creationdate="20171024T150334Z">
+        <seg>관련 용어는 다음과 같습니다.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running a FOSS Review</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145125Z" creationid="Jang" creationdate="20170803T145125Z">
+        <seg>FOSS 검토 실행</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shareware – proprietary software provided to users on a trial basis,&lt;t0/&gt;for a limited time, free of charge and with limited functionalities or features</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T150955Z" creationid="Jang" creationdate="20170806T150955Z">
+        <seg>셰어웨어 –  제한된 시간 동안 제한된 기능을 사용자에게 시범적으로 무료 제공하는 독점 소프트웨어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Software is protected by copyright</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141257Z" creationid="Jang" creationdate="20170804T141257Z">
+        <seg>소프트웨어는 저작권의 보호를 받음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some licenses require that if derivative works (or software in the same file, same program or other boundary) are distributed, the distribution is under the same terms as the original work</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143909Z" creationid="Jang" creationdate="20170806T143909Z">
+        <seg>일부 라이선스는 파생 저작물(또는 동일한 파일, 동일한 프로그램 또는 다른 경계의 소프트웨어)이 배포되는 경우 원본 저작물과 동일한 조건으로 배포 할 것을 요구</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source code delivery</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151913Z" creationid="Jang" creationdate="20171024T151913Z">
+        <seg>소스 코드 전달</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static/Dynamic Linking</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150730Z" creationid="Jang" creationdate="20171024T150730Z">
+        <seg>정적/동적 링킹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose in source or object code form as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143502Z" creationid="Jang" creationdate="20170806T143502Z">
+        <seg>BSD 라이선스는 저작권 표시 및 라이선스 면책 조항이 유지되는한 어떠한 목적으로든 소스 코드 또는 오브젝트 코드 형식으로 무제한 재배포를 허용하는 Permissive 라이선스의 한 예임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OpenChain &lt;t0/&gt;Curriculum&lt;t1/&gt; supports the Specification by providing&lt;t2/&gt;freely available training material.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T144544Z" creationid="Jang" creationdate="20170803T144544Z">
+        <seg>OpenChain &lt;t0/&gt;교육과정&lt;t1/&gt;은 자유롭게 사용할 수있는 교육 자료를 제공함으로 설명서를 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OpenChain Project helps to identify and share the core components&lt;t0/&gt;of a Free and Open Source Software (FOSS) compliance program.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T144120Z" creationid="Jang" creationdate="20170803T144120Z">
+        <seg>OpenChain 프로젝트는 FOSS(Free and Open Source Software) Compliance 프로그램의 핵심 구성 요소를 식별하고 공유하는데 도움이됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The copyright owner only has control over the work that he or she created, not someone else’s independent creation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141605Z" creationid="Jang" creationdate="20170804T141605Z">
+        <seg>저작권 소유자는 자신이 만든 저작물에 대해서만 통제권을 가지며, 타인의 독립적인 저작물은 해당하지 않음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The core of the OpenChain Project is the &lt;t0/&gt;Specification&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T144151Z" creationid="Jang" creationdate="20170803T144151Z">
+        <seg>OpenChain 프로젝트의 핵심은 &lt;t0/&gt;설명서&lt;t1/&gt;입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The goal of shareware is to give potential buyers the opportunity to use the program and judge its usefulness before purchasing a license for the full version of the software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T151040Z" creationid="Jang" creationdate="20170806T151040Z">
+        <seg>셰어웨어의 목표는 잠재적인 구매자에게 프로그램의 전체 버전에 대한 라이선스를 구입하기 전에 프로그램을 사용하고 그 유용성을 판단 할 기회를 제공하는 것</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The license can be limited to:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150759Z" creationid="Jang" creationdate="20170804T150602Z">
+        <seg>라이선스는 다음 사항에 제한될 수 있음:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The license can have conditions on the grants, meaning you only get&lt;t0/&gt;the license if you comply with certain obligations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150936Z" creationid="Jang" creationdate="20170804T150936Z">
+        <seg>라이센스에는 부여를 위한 조건이 있을 수 있음&lt;t0/&gt;이는 특정 의무를 준수하는 경우에만 라이선스를 취득한다는 의미임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The license contains a clause restricting use of the names of contributors for endorsement of a derived work without specific permission</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143618Z" creationid="Jang" creationdate="20170806T143618Z">
+        <seg>특정 허가 없이 파생 저작물을 추천하기 위해 기여자 이름의 사용을 제한하는 조항이 포함되어 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right to &lt;t0/&gt;distribute</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T142837Z" creationid="Jang" creationdate="20170804T142744Z">
+        <seg>배포할 권리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right to &lt;t0/&gt;reproduce &lt;t1/&gt;the software – making copies</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T141914Z" creationid="Jang" creationdate="20170804T141833Z">
+        <seg>소프트웨어를 &lt;t0/&gt;복제 &lt;t1/&gt; 할 권리 – 복사하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right to create “&lt;t0/&gt;derivative works&lt;t1/&gt;” – making modifications</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T142000Z" creationid="Jang" creationdate="20170804T142000Z">
+        <seg>“&lt;t0/&gt; 파생 저작물&lt;t1/&gt;”을 만들 권리 – 수정하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source code may or may not be available, and creation of derivative works is usually restricted</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T145611Z" creationid="Jang" creationdate="20170806T145611Z">
+        <seg>소스 코드가 사용 가능하거나 사용 가능하지 않을 수 있으며, 파생 저작물 생성은 일반적으로 제한됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The term derivative work comes from the US Copyright Act</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T142046Z" creationid="Jang" creationdate="20170804T142046Z">
+        <seg>파생 저작물이라는 용어는 미국 저작권법에서 비롯됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These slides follow US law.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T143248Z" creationid="Jang" creationdate="20170803T143248Z">
+        <seg>이 슬라이드는 미국 법률을 따릅니다..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These slides help companies satisfy the requirements of the Specification Section 1.2.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T144733Z" creationid="Jang" creationdate="20170803T144733Z">
+        <seg>이 슬라이드는 회사들이 설명서 1.2의 요구 사항을 충족하는 데 도움이됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They can also be used for general compliance training.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T144758Z" creationid="Jang" creationdate="20170803T144758Z">
+        <seg>또한, 일반 Compliance 교육에도 사용할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter will focus on copyright and patents,&lt;t0/&gt;the areas most relevant to FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T151238Z" creationid="Jang" creationdate="20170803T151238Z">
+        <seg>이 장에서는 FOSS Compliance와 가장 관련이있는 분야인,&lt;t0/&gt;저작권 및 특허권에 초점을 맞추어 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This identifies and publishes the core requirements a FOSS compliance program should satisfy.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T144339Z" creationid="Jang" creationdate="20170803T144339Z">
+        <seg>이는 FOSS Compliance 프로그램이 만족해야하는 핵심 요구 사항을 식별하고 공개합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is referred to as a “copyleft” or “reciprocal” effect</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T143934Z" creationid="Jang" creationdate="20170806T143934Z">
+        <seg>이를 "Copyleft" 또는 "상호주의" 효과라고 함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade secrets: protects valuable confidential information</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T150536Z" creationid="Jang" creationdate="20170803T150536Z">
+        <seg>영업 비밀: 중요한 기밀 정보 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trademarks: protects marks (word, logos, slogans, color, etc.) that identify&lt;t0/&gt;the source of the product</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T150649Z" creationid="Jang" creationdate="20170803T150649Z">
+        <seg>상표 : 제품의 출처를 식별하는 표시(단어, 로고, 슬로건, 색상 등)를 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translate the material</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151715Z" creationid="Jang" creationdate="20171024T151715Z">
+        <seg>자료 번역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translating Chinese to English</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151315Z" creationid="Jang" creationdate="20171024T151315Z">
+        <seg>중국어를 영어로 번역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150232Z" creationid="Jang" creationdate="20171024T150232Z">
+        <seg>번역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Types of use allowed (commercial / non-commercial, distribution, derivative works / to make, have made, manufacture)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T150650Z" creationid="Jang" creationdate="20170804T150650Z">
+        <seg>허용된 사용 유형 (상업적 / 비상업적, 배포, 파생 저작물 / 제조, 제조?, 제조?))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Utilizing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T150828Z" creationid="Jang" creationdate="20171024T150828Z">
+        <seg>활용</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What copyright rights are most important for software?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151218Z" creationid="Jang" creationdate="20170804T151218Z">
+        <seg>소프트웨어에 대해 가장 중요한 저작권 권한은 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What factors are important in assessing a distribution?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T152059Z" creationid="Jang" creationdate="20171024T152059Z">
+        <seg>배포인지를 평가하는데 중요한 요소는 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What format for delivery?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151909Z" creationid="Jang" creationdate="20171024T151858Z">
+        <seg>어떤 형태로 전달됩니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is Intellectual Property?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145018Z" creationid="Jang" creationdate="20170803T145018Z">
+        <seg>지적 재산권이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is incorporation?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T152004Z" creationid="Jang" creationdate="20171024T152004Z">
+        <seg>결합이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is linking?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T152011Z" creationid="Jang" creationdate="20171024T152011Z">
+        <seg>링킹이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is modification?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T152017Z" creationid="Jang" creationdate="20171024T152017Z">
+        <seg>수정이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the OpenChain Curriculum?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T143910Z" creationid="Jang" creationdate="20170803T143910Z">
+        <seg>OpenChain 교육과정이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is translation?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T152022Z" creationid="Jang" creationdate="20171024T152022Z">
+        <seg>번역이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is “Intellectual Property”?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145922Z" creationid="Jang" creationdate="20170803T145922Z">
+        <seg>"지적 재산권"이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What rights does a patent give to the patent owner?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151237Z" creationid="Jang" creationdate="20170804T151237Z">
+        <seg>특허가 특허 소유자에게 부여하는 권리는 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What type of material does copyright law protect?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170804T151158Z" creationid="Jang" creationdate="20170804T151158Z">
+        <seg>저작권법은 어떤 유형의 자료를 보호합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who receives the software?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171024T151753Z" creationid="Jang" creationdate="20171024T151753Z">
+        <seg>누가 소프트웨어를 받습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can get an example FOSS policy via the Linux Foundation&lt;t0/&gt;Open Compliance Program at:&lt;t1/&gt;https://www.linux.com/publications/generic-foss-policy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170803T145900Z" creationid="Jang" creationdate="20170803T145900Z">
+        <seg>Linux Foundation Open Compliance Program에서 예제 FOSS 정책을 얻을 수 있습니다. :&lt;t1/&gt;https://www.linux.com/publications/generic-foss-policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must cause any work that you distribute or publish, that in whole or in part contains&lt;t0/&gt;or is derived from the Program or any part thereof, to be licensed […] under the terms&lt;t1/&gt;of this License.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20170806T144255Z" creationid="Jang" creationdate="20170806T144255Z">
+        <seg>배포하거나 공표하려는 저작물의 전부 또는 일부가 양도 받은 프로그램의 일부를 포함하거나 프로그램으로부터 파생된 것이라면, 저작물에 대한 사용권리를 본 라이선스의 규정에 따라 […] 허용해야 한다.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
