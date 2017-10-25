@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because FOSS licenses usually apply during distribution, this is a key point to consider in a compliance program.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134700Z" creationid="Jang" creationdate="20171025T134700Z">
+        <seg>FOSS 라이선스는 일반적으로 배포할때 적용되므로 컴플라이언스 프로그램에서 고려해야할 핵심 사항입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Binary delivery</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T131201Z" creationid="Jang" creationdate="20171025T131201Z">
@@ -320,8 +328,8 @@
       <tuv lang="EN-US">
         <seg>Development tools may perform some of these operations behind the scenes.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171025T131046Z" creationid="Jang" creationdate="20171025T131046Z">
-        <seg>개발 도구가 이러한 작업 중 일부를 뒤에서 수행할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134517Z" creationid="Jang" creationdate="20171025T131046Z">
+        <seg>개발 도구가 이러한 작업 중 일부를 내부적으로 수행할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T143450Z" creationid="Jang" creationdate="20170803T143450Z">
         <seg>법적인 관할권에 따라 법적 요구 사항이 달라질 수 있습니다.&lt;t0/&gt;이 슬라이드를 Compliance 교육 프로그램의 일부로 사용할 때는이 점을 고려해야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different use cases will have different legal effects.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T133951Z" creationid="Jang" creationdate="20171025T133951Z">
+        <seg>사용 사례가 다르면 법적 효력이 달라집니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incorporation is when you copy portions of a FOSS component into your software product.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134859Z" creationid="Jang" creationdate="20171025T134744Z">
+        <seg>결합은 FOSS 컴포넌트의 일부를 소프트웨어 제품에 복사하는 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Infringement may occur even if other parties independently create the same invention</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150401Z" creationid="Jang" creationdate="20170804T150352Z">
@@ -686,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linking is when you link or join a FOSS component with your software product.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134904Z" creationid="Jang" creationdate="20171025T134812Z">
+        <seg>링킹은 소프트웨어 제품과 FOSS 컴포넌트를 링크하거나 연결하는 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>May also include contractual terms regarding warranties, indemnification, support, upgrade, maintenance</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T151028Z" creationid="Jang" creationdate="20170804T151028Z">
@@ -706,6 +738,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T130205Z" creationid="Jang" creationdate="20171025T130205Z">
         <seg>수정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification is when you make changes to a FOSS component.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134846Z" creationid="Jang" creationdate="20171025T134846Z">
+        <seg>수정은 FOSS 컴포넌트를 변경하는 것입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The next few slides explain these concepts in more detail.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134009Z" creationid="Jang" creationdate="20171025T134009Z">
+        <seg>다음 슬라이드에서는 이러한 개념을 보다 자세히 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The right to &lt;t0/&gt;distribute</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142837Z" creationid="Jang" creationdate="20170804T142744Z">
@@ -1110,6 +1158,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide explains some of the concepts behind distribution.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134559Z" creationid="Jang" creationdate="20171025T134559Z">
+        <seg>이 슬라이드는 배포의 기본 개념을 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide is about how the use of FOSS components is a consideration for your compliance.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T133931Z" creationid="Jang" creationdate="20171025T133931Z">
+        <seg>이 슬라이드는 FOSS 컴포넌트를 사용하면서 컴플라이언스를 위해 고려해야 할 사항에 관한 것입니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides explains that development tools may do some of these actions “behind the scene”, and this is an area that companies should be aware of.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134502Z" creationid="Jang" creationdate="20171025T134502Z">
+        <seg>이 슬라이드는 개발 도구가 "내부적으로" 이러한 작업 중 일부를 수행할 수 있음을 설명합니다. 이것은 기업이 알아야 할 영역입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides outlines what incorporation means when using FOSS.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134210Z" creationid="Jang" creationdate="20171025T134049Z">
+        <seg>이 슬라이드는 FOSS를 사용할 때 결합의 의미를 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides outlines what linking means when using FOSS.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134205Z" creationid="Jang" creationdate="20171025T134113Z">
+        <seg>이 슬라이드는 FOSS를 사용할 때 링킹의 의미를 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides outlines what modification means when using FOSS.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134159Z" creationid="Jang" creationdate="20171025T134159Z">
+        <seg>이 슬라이드는 FOSS를 사용할 때 수정의 의미를 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides outlines what translation means when using FOSS.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134239Z" creationid="Jang" creationdate="20171025T134239Z">
+        <seg>이 슬라이드는 FOSS를 사용할 때 번역의 의미를 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trade secrets: protects valuable confidential information</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T150536Z" creationid="Jang" creationdate="20170803T150536Z">
@@ -1146,6 +1250,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T130438Z" creationid="Jang" creationdate="20171025T130438Z">
         <seg>번역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation is when you transform the code from one state to another.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134918Z" creationid="Jang" creationdate="20171025T134918Z">
+        <seg>번역은 코드를 한 상태에서 다른 상태로 변환하는 것입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What is the format for delivery?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134959Z" creationid="Jang" creationdate="20171025T134959Z">
+        <seg>전달하는 형태는 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is translation?</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T131224Z" creationid="Jang" creationdate="20171025T131224Z">
@@ -1258,6 +1378,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T151158Z" creationid="Jang" creationdate="20170804T151158Z">
         <seg>저작권법은 어떤 유형의 자료를 보호합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When thinking about distribution of Open Source you should consider to things:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171025T134942Z" creationid="Jang" creationdate="20171025T134942Z">
+        <seg>오픈소스의 배포에 대해 생각할때 다음 사항을 고려해야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
