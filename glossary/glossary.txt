@@ -124,3 +124,8 @@ distribution	배포
 hardware	하드웨어
 Changing	변경
 compliance	컴플라이언스
+Manager	관리자
+identity	정체
+origin	출처
+Package	패키지
+responsiveness	반응성
