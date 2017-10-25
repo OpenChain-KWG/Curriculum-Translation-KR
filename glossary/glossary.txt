@@ -123,3 +123,4 @@ material	자료
 distribution	배포
 hardware	하드웨어
 Changing	변경
+compliance	컴플라이언스
