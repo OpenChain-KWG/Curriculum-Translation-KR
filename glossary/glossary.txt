@@ -101,7 +101,6 @@ Shareware	셰어웨어	Shareware
 component	컴포넌트
 Incorporation	결합
 Linking	링킹	Linking
-Modification	변경
 Translation	번역
 Integrating	통합
 Merging	병합
@@ -123,3 +122,4 @@ Tools	도구
 material	자료
 distribution	배포
 hardware	하드웨어
+Changing	변경

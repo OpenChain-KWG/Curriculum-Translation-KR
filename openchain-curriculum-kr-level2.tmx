@@ -22,6 +22,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A developer may copy portions of a FOSS component into your software product.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130553Z" creationid="Jang" creationdate="20171025T130553Z">
+        <seg>개발자는 FOSS 컴포넌트의 일부를 소프트웨어 제품에 복사할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A developer may link or join a FOSS component with your software product.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130700Z" creationid="Jang" creationdate="20171025T130700Z">
+        <seg>개발자는 FOSS 컴포넌트를 소프트웨어 제품과 링크하거나 연결할 수 있습니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A developer may make changes to a FOSS component, including:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130744Z" creationid="Jang" creationdate="20171025T130744Z">
+        <seg>개발자는 다음을 포함하여 FOSS 컴포넌트를 변경할 수 있습니다.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A developer may transform the code from one state to another.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131009Z" creationid="Jang" creationdate="20171025T131009Z">
+        <seg>개발자는 코드를 한 상태에서 다른 상태로 변환 할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A patent application must be made in a specific jurisdiction in order to obtain a patent in that country. If a patent is awarded, the owner has the right to stop anybody from exercising its functionality, regardless of independent creation</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T150101Z" creationid="Jang" creationdate="20170804T150101Z">
@@ -46,6 +78,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Adapting</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130613Z" creationid="Jang" creationdate="20171025T130613Z">
+        <seg>개작</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Adding</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130900Z" creationid="Jang" creationdate="20171025T130900Z">
+        <seg>추가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Adding/injecting new code into the FOSS component</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130753Z" creationid="Jang" creationdate="20171025T130753Z">
+        <seg>FOSS 컴포넌트에 새로운 코드 추가 / 주입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Another legal entity within the business group (this may count as distribution)</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131147Z" creationid="Jang" creationdate="20171025T131147Z">
+        <seg>비지니스 그룹 내 다른 법인 (이는 배포로 간주될 수 있음)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Avoiding Compliance Pitfalls</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145248Z" creationid="Jang" creationdate="20170803T145248Z">
@@ -58,6 +122,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141230Z" creationid="Jang" creationdate="20170804T141202Z">
         <seg>기본 규칙 : 저작권은 창작물을 보호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Binary delivery</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131201Z" creationid="Jang" creationdate="20171025T131201Z">
+        <seg>바이너리 전달</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +166,50 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Changing</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130853Z" creationid="Jang" creationdate="20171025T130853Z">
+        <seg>변경</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Check Your Understanding</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T151432Z" creationid="Jang" creationdate="20170804T151134Z">
         <seg>확인해보세요</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Combining</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130722Z" creationid="Jang" creationdate="20171025T130722Z">
+        <seg>결합</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common scenarios include:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130149Z" creationid="Jang" creationdate="20171025T130149Z">
+        <seg>일반적인 시나리오는 다음과 같습니다:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Community project</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131138Z" creationid="Jang" creationdate="20171025T131138Z">
+        <seg>커뮤니티 프로젝트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Compiling into binary</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131031Z" creationid="Jang" creationdate="20171025T131031Z">
+        <seg>바이너리로 컴파일</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +226,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144829Z" creationid="Jang" creationdate="20170803T144829Z">
         <seg>목차</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Converting C++ to Java</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131026Z" creationid="Jang" creationdate="20171025T131026Z">
+        <seg>C++에서 Java로 변환</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +270,58 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Creating interdependency</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130731Z" creationid="Jang" creationdate="20171025T130731Z">
+        <seg>상호의존성 생성</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Customer/Partner</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131134Z" creationid="Jang" creationdate="20171025T131134Z">
+        <seg>고객/파트너</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deleting</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130955Z" creationid="Jang" creationdate="20171025T130955Z">
+        <seg>삭제</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deleting or removing code</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130805Z" creationid="Jang" creationdate="20171025T130805Z">
+        <seg>코드 삭제 또는 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Developer Guidelines</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145318Z" creationid="Jang" creationdate="20170803T145318Z">
         <seg>개발자 가이드라인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Development Tools</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131038Z" creationid="Jang" creationdate="20171025T131038Z">
+        <seg>개발 도구</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Development tools may perform some of these operations behind the scenes.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131046Z" creationid="Jang" creationdate="20171025T131046Z">
+        <seg>개발 도구가 이러한 작업 중 일부를 뒤에서 수행할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +382,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Examples include:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131014Z" creationid="Jang" creationdate="20171025T131014Z">
+        <seg>예:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Exclusive or non-exclusive terms</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T150705Z" creationid="Jang" creationdate="20170804T150705Z">
@@ -270,6 +446,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Fixing</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130820Z" creationid="Jang" creationdate="20171025T130808Z">
+        <seg>조정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fixing, optimizing or making changes to the FOSS component</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130800Z" creationid="Jang" creationdate="20171025T130800Z">
+        <seg>FOSS 컴포넌트의 수정, 최적화 또는 변경</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, a tool may inject portions of its own code into output of the tool.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131055Z" creationid="Jang" creationdate="20171025T131055Z">
+        <seg>예를 들어, 어떤 도구는 출력물에 자체 코드의 일부를 주입할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Freeware software is usually fully functional (no locked features) and available for unlimited use (no locking on days of usage)</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170806T145747Z" creationid="Jang" creationdate="20170806T145747Z">
@@ -302,6 +502,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>How do you want to use a FOSS component?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130141Z" creationid="Jang" creationdate="20171025T130141Z">
+        <seg>FOSS 컴포넌트를 어떻게 사용하려고 합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How is the FOSS component distributed?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131121Z" creationid="Jang" creationdate="20171025T131121Z">
+        <seg>FOSS 컴포넌트가 어떻게 배포됩니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If you independently develop your own software, is it possible that<ph x="0">&lt;t0/&gt;</ph>you might need a copyright license from a third party for that software?<ph x="1">&lt;t1/&gt;</ph>A patent license?</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T151338Z" creationid="Jang" creationdate="20170804T151321Z">
@@ -326,6 +542,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Incorporation</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130153Z" creationid="Jang" creationdate="20171025T130153Z">
+        <seg>결합</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Infringement may occur even if other parties independently create the same invention</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T150401Z" creationid="Jang" creationdate="20170804T150352Z">
@@ -338,6 +562,38 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T141630Z" creationid="Jang" creationdate="20170804T141630Z">
         <seg>저자의 허락없이 복사하는 경우 저작권 침해가 발생할 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inject material</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131058Z" creationid="Jang" creationdate="20171025T131058Z">
+        <seg>자료 주입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Injecting</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130953Z" creationid="Jang" creationdate="20171025T130953Z">
+        <seg>주입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inserting</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130649Z" creationid="Jang" creationdate="20171025T130649Z">
+        <seg>삽입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Integrating</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130604Z" creationid="Jang" creationdate="20171025T130604Z">
+        <seg>통합</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,10 +678,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Linking</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130157Z" creationid="Jang" creationdate="20171025T130157Z">
+        <seg>링킹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>May also include contractual terms regarding warranties, indemnification, support, upgrade, maintenance</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T151028Z" creationid="Jang" creationdate="20170804T151028Z">
         <seg>보증, 배상, 지원, 업그레이드, 유지 보수와 관련된 계약 조건도 포함될 수 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Merging</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130607Z" creationid="Jang" creationdate="20171025T130607Z">
+        <seg>병합</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Modification</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130205Z" creationid="Jang" creationdate="20171025T130205Z">
+        <seg>수정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Modify the material</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131105Z" creationid="Jang" creationdate="20171025T131105Z">
+        <seg>자료 수정</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +750,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Optimizing</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130841Z" creationid="Jang" creationdate="20171025T130841Z">
+        <seg>최적화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Other Non-FOSS Licensing Situations</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170806T145321Z" creationid="Jang" creationdate="20170806T145321Z">
@@ -482,6 +778,30 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T150225Z" creationid="Jang" creationdate="20170804T150225Z">
         <seg>그 기술을 사용하고자하는 다른 당사자는 특허 라이선스(사용, 제작, 판매, 판매 제안 및 기술 도입 권한을 부여 할 수 있음)를 요청할 수 있음.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Packaging</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130727Z" creationid="Jang" creationdate="20171025T130727Z">
+        <seg>패키징</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pairing</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130718Z" creationid="Jang" creationdate="20171025T130718Z">
+        <seg>페어링</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pasting</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130611Z" creationid="Jang" creationdate="20171025T130611Z">
+        <seg>붙여넣기</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +854,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Pre-loaded onto hardware</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131205Z" creationid="Jang" creationdate="20171025T131205Z">
+        <seg>하드웨어에 프리로드됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Proprietary License or Closed Source</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170806T144452Z" creationid="Jang" creationdate="20170806T144452Z">
@@ -566,6 +894,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Relevant terms include:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130559Z" creationid="Jang" creationdate="20171025T130559Z">
+        <seg>관련 용어는 다음과 같습니다.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Running a FOSS Review</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145125Z" creationid="Jang" creationdate="20170803T145125Z">
@@ -594,6 +930,22 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170806T143909Z" creationid="Jang" creationdate="20170806T143909Z">
         <seg>일부 라이선스는 파생 저작물(또는 동일한 파일, 동일한 프로그램 또는 다른 경계의 소프트웨어)이 배포되는 경우 원본 저작물과 동일한 조건으로 배포 할 것을 요구</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Source code delivery</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131157Z" creationid="Jang" creationdate="20171025T131157Z">
+        <seg>소스 코드 전달</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Static/Dynamic Linking</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130716Z" creationid="Jang" creationdate="20171025T130716Z">
+        <seg>정적/동적 링킹</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,10 +1126,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Translate the material</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131108Z" creationid="Jang" creationdate="20171025T131108Z">
+        <seg>자료 번역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Translating Chinese to English</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131019Z" creationid="Jang" creationdate="20171025T131019Z">
+        <seg>중국어를 영어로 번역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130438Z" creationid="Jang" creationdate="20171025T130438Z">
+        <seg>번역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Types of use allowed (commercial / non-commercial, distribution, derivative works / to make, have made, manufacture)</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T150650Z" creationid="Jang" creationdate="20170804T150650Z">
         <seg>허용된 사용 유형 (상업적 / 비상업적, 배포, 파생 저작물 / 제조, 제조?, 제조?))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Utilizing</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130724Z" creationid="Jang" creationdate="20171025T130724Z">
+        <seg>활용</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +1174,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>What factors are important in assessing a distribution?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131258Z" creationid="Jang" creationdate="20171025T131258Z">
+        <seg>배포인지를 평가하는데 중요한 요소는 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What format for delivery?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131152Z" creationid="Jang" creationdate="20171025T131152Z">
+        <seg>어떤 형태로 전달됩니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>What is Intellectual Property?</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145018Z" creationid="Jang" creationdate="20170803T145018Z">
@@ -798,10 +1198,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>What is incorporation?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131213Z" creationid="Jang" creationdate="20171025T131213Z">
+        <seg>결합이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is linking?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131217Z" creationid="Jang" creationdate="20171025T131217Z">
+        <seg>링킹이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is modification?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131221Z" creationid="Jang" creationdate="20171025T131221Z">
+        <seg>수정이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>What is the OpenChain Curriculum?</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T143910Z" creationid="Jang" creationdate="20170803T143910Z">
         <seg>OpenChain 교육과정이란 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is translation?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131224Z" creationid="Jang" creationdate="20171025T131224Z">
+        <seg>번역이란 무엇입니까?</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +1258,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T151158Z" creationid="Jang" creationdate="20170804T151158Z">
         <seg>저작권법은 어떤 유형의 자료를 보호합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Who receives the software?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131130Z" creationid="Jang" creationdate="20171025T131130Z">
+        <seg>누가 소프트웨어를 받습니까?</seg>
       </tuv>
     </tu>
     <tu>
