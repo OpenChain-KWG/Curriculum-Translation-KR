@@ -1,6 +1,6 @@
 Requirement	요구사항
 Responsibility	책임
-Review	검토
+Review	리뷰
 Approve	승인
 Copyright	저작권
 License	라이선스
@@ -129,3 +129,6 @@ identity	정체
 origin	출처
 Package	패키지
 responsiveness	반응성
+representative	대표자
+Legal	법률가
+Scanning	스캐닝
