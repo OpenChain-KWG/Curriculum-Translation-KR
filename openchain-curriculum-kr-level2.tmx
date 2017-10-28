@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A FOSS Review can be the meeting point for engineering, business and legal teams, and can require planning and organization to successfully conduct on a large scale.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150221Z" creationid="Jang" creationdate="20171028T150221Z">
+        <seg>FOSS 리뷰는 엔지니어링, 비즈니스 및 법률 팀의 미팅 포인트가 될 수 있으며, 큰규모에서도 성공적으로 수행하기 위한 계획과 조직이 필요할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A FOSS Review team includes the company representatives that support, guide, coordinate and review the use of FOSS.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144840Z" creationid="Jang" creationdate="20171028T140525Z">
+        <seg>FOSS 리뷰 팀에는 FOSS 사용을 지원, 안내, 조정 및 검토하는 회사 대표자가 포함됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A complete list of OSI-approved licenses is available at <ph x="0">&lt;t0/&gt;</ph>http://www.opensource.org/licenses/</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170806T143053Z" creationid="Jang" creationdate="20170806T143053Z">
@@ -54,10 +70,18 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A good example of freely available source code scanning tool is FOSSology,<ph x="0">&lt;t0/&gt;</ph>a project hosted by the Linux Foundation:<ph x="1">&lt;t1/&gt;</ph>https://www.fossology.org</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144110Z" creationid="Jang" creationdate="20171028T144110Z">
+        <seg>무료로 사용할 수 있는 소스 코드 스캐닝 도구의 좋은 예는 Linux Foundatoin에서 호스팅하는 프로젝트인 FOSSology입니다. : http://fossology.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A key element to a FOSS Compliance Program is a <ph x="0">&lt;t0/&gt;</ph>FOSS Review <ph x="1">&lt;t1/&gt;</ph>process.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T141009Z" creationid="Jang" creationdate="20171025T140948Z">
-        <seg>FOSS 컴플라이언스 프로그램의 핵심 요소는 FOSS 검토 프로세스입니다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144801Z" creationid="Jang" creationdate="20171025T140948Z">
+        <seg>FOSS 컴플라이언스 프로그램의 핵심 요소는 FOSS 리뷰 프로세스입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +142,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>All of the solutions address specific needs and - for that reason - none will solve all possible challenges</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143900Z" creationid="Jang" creationdate="20171028T143900Z">
+        <seg>모든 솔루션은 특정 요구 사항들을 처리하기 때문에 모든 원인을 해결할 수있는 솔루션은 없습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Analyze and understand license obligations</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T141047Z" creationid="Jang" creationdate="20171025T141047Z">
         <seg>라이선스 의무 분석 및 이해</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Analyzing Proposed FOSS Usage</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143250Z" creationid="Jang" creationdate="20171028T143250Z">
+        <seg>제안된 FOSS 사용 분석</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +176,8 @@
       <tuv xml:lang="EN-US">
         <seg>Anyone working with FOSS in the company should be able to initiate a FOSS Review, including Program or Product Managers, Engineers, and Legal.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T141420Z" creationid="Jang" creationdate="20171025T141420Z">
-        <seg>프로그램 또는 제품 관리자, 엔지니어, 법률가를 포함하여 회사내에서 FOSS 관련 일을 하는 사람은 누구든지 FOSS 검토를 시작할 수 있어야 합니다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144821Z" creationid="Jang" creationdate="20171025T141420Z">
+        <seg>프로그램 또는 제품 관리자, 엔지니어, 법률가를 포함하여 회사내에서 FOSS 관련 일을 하는 사람은 누구든지 FOSS 리뷰를 시작할 수 있어야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +218,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131201Z" creationid="Jang" creationdate="20171025T131201Z">
         <seg>바이너리 전달</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Business and engineering teams may receive and implement guidance</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150354Z" creationid="Jang" creationdate="20171028T150354Z">
+        <seg>비즈니스 및 엔지니어링 팀은 지침을 받아 이행할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +298,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131138Z" creationid="Jang" creationdate="20171025T131138Z">
         <seg>커뮤니티 프로젝트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Companies pick the solution most suited to their specific market area and product</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144019Z" creationid="Jang" creationdate="20171028T143953Z">
+        <seg>회사들은 특정 시장 영역 및 제품에 가장 적합한 솔루션을 선택해야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +494,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Does the declared license match what is in the code files?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143534Z" creationid="Jang" creationdate="20171028T143534Z">
+        <seg>선언된 라이선스가 코드 파일에 있는 것과 일치합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Does the license permit use with other components of the software?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143652Z" creationid="Jang" creationdate="20171028T143652Z">
+        <seg>라이선스는 소프트웨어의 다른 컴포넌트와 사용을 허용합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Download or source code URL</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T142239Z" creationid="Jang" creationdate="20171025T142239Z">
@@ -466,6 +538,30 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T141625Z" creationid="Jang" creationdate="20171025T141625Z">
         <seg>엔지니어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Engineering Specialists working with business interests, commercial licensing, export compliance, etc., who may be impacted by FOSS usage</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143136Z" creationid="Jang" creationdate="20171028T143136Z">
+        <seg>사업 수익, 상용 라이선싱, 수출 컴플라이언스를 담당하는 엔지니어링 전문가 (FOSS 사용의 영향을 받을 수 있음)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Engineering or developer teams may participate in gathering relevant information</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150242Z" creationid="Jang" creationdate="20171028T150242Z">
+        <seg>엔지니어링 팀 또는 개발자 팀이 관련 정보 수집에 참여할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ensure you have the notices and source code as needed to meet these obligations.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T151319Z" creationid="Jang" creationdate="20171028T151319Z">
+        <seg>이러한 의무를 충족하기 위해 필요한 고지문과 소스 코드가 있는지 확인합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +598,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Executive Review Committee</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145123Z" creationid="Jang" creationdate="20171028T145123Z">
+        <seg>경영진 리뷰 위원회</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>FOSS Licenses</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170806T141954Z" creationid="Jang" creationdate="20170806T141954Z">
@@ -520,8 +624,24 @@
       <tuv xml:lang="EN-US">
         <seg>FOSS Review</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T135528Z" creationid="Jang" creationdate="20171025T135528Z">
-        <seg>FOSS 검토</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144754Z" creationid="Jang" creationdate="20171025T135528Z">
+        <seg>FOSS 리뷰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOSS Review Oversight</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145017Z" creationid="Jang" creationdate="20171028T144641Z">
+        <seg>FOSS 리뷰 감독</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOSS Review Team</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144834Z" creationid="Jang" creationdate="20171028T140433Z">
+        <seg>FOSS 리뷰 팀</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +682,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T142526Z" creationid="Jang" creationdate="20171025T142526Z">
         <seg>패키지를 포함하는 첫번째 제품의 배포</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First, you may need to follow up with the vendor if FOSS issues arise in the future, and having a reliable point of contact is important. You may also need to meet FOSS license obligations for FOSS delivered from the vendor.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T151233Z" creationid="Jang" creationdate="20171028T151104Z">
+        <seg>첫째, 미래에 FOSS 문제가 발생할 경우 공급 업체와 후속 조치를 취해야 할 수 있있으며, 신뢰할 수 있는 연락처를 갖고 있는 것은 중요합니다. 또한 공급 업체가 제공한 FOSS에 대한 FOSS 라이선스 의무를 준수해야 할 수도 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +758,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Guidance</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144526Z" creationid="Jang" creationdate="20171028T144526Z">
+        <seg>지침</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How can they raise questions about FOSS usage?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150629Z" creationid="Jang" creationdate="20171028T150629Z">
+        <seg>FOSS 사용에 대해 어떻게 질문 할 수 있습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>How do you want to use a FOSS component?</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T130141Z" creationid="Jang" creationdate="20171025T130141Z">
@@ -646,6 +790,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>However, the amount of information required depends on the size of your company and what you intend to do with the FOSS code.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150841Z" creationid="Jang" creationdate="20171028T150841Z">
+        <seg>그러나 필요한 정보의 양은 회사의 규모와 FOSS 코드로 하려는 의도에 따라 달라집니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If from an external vendor:</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T142646Z" creationid="Jang" creationdate="20171025T142646Z">
@@ -658,6 +810,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T151338Z" creationid="Jang" creationdate="20170804T151321Z">
         <seg>자신의 소프트웨어를 독자적으로 개발하는 경우, <ph x="0">&lt;t0/&gt;</ph>해당 소프트웨어에 대한 제3자의 저작권 라이선스가 필요할 수 있습니까? <ph x="1">&lt;t1/&gt;</ph>특허 라이선스는 어떻습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Important questions to ask include:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150524Z" creationid="Jang" creationdate="20171028T150524Z">
+        <seg>중요한 질문은 다음과 같습니다.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,16 +872,16 @@
       <tuv xml:lang="EN-US">
         <seg>Initiate a FOSS Review</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T141553Z" creationid="Jang" creationdate="20171025T141553Z">
-        <seg>FOSS 검토를 시작하세요</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144827Z" creationid="Jang" creationdate="20171025T141553Z">
+        <seg>FOSS 리뷰를 시작하세요</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Initiating a FOSS Review</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T141152Z" creationid="Jang" creationdate="20171025T141152Z">
-        <seg>FOSS 검토 시작하기</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144814Z" creationid="Jang" creationdate="20171025T141152Z">
+        <seg>FOSS 리뷰 시작하기</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +942,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Is the code and associated information complete, consistent and accurate?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143425Z" creationid="Jang" creationdate="20171028T143425Z">
+        <seg>코드 및 관련 정보가 완전하고 일관되며 정확한 것입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Is there a regular point in your development process where FOSS Reviews can begin?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150710Z" creationid="Jang" creationdate="20171028T150710Z">
+        <seg>개발 프로세스에 FOSS 리뷰가 시작될 수 있는 정규 지점이 있습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>It covers software, books, and similar works</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T150517Z" creationid="Jang" creationdate="20170803T150300Z">
@@ -798,10 +974,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>It should be interactive to ensure all those groups correctly understand the issues and can create clear, shared guidance.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144503Z" creationid="Jang" creationdate="20171028T144503Z">
+        <seg>모든 그룹이 문제를 정확히 이해하고 명확하고 공유된 지침을 만들 수 있도록 상호 작용해야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It should be noted that this list of information looks quite large.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150807Z" creationid="Jang" creationdate="20171028T150807Z">
+        <seg>이 정보 목록은 상당히 커 보인다는 점에 유의해야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Key Software Concepts<ph x="0">&lt;t0/&gt;</ph>for FOSS Review</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145116Z" creationid="Jang" creationdate="20170803T145116Z">
-        <seg>FOSS 검토를 위한 주요 소프트웨어 개념</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144741Z" creationid="Jang" creationdate="20170803T145116Z">
+        <seg>FOSS 리뷰를 위한 주요 소프트웨어 개념</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Large entities tend to require more information than small entities.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150900Z" creationid="Jang" creationdate="20171028T150900Z">
+        <seg>대기업은 작은 기업보다 더 많은 정보를 요구하는 경향이 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +1010,30 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144822Z" creationid="Jang" creationdate="20170803T144822Z">
         <seg>자세한 내용은 다음을 참조하십시오: <ph x="0">&lt;t0/&gt;</ph>https://www.openchainproject.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Legal</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143143Z" creationid="Jang" creationdate="20171028T143143Z">
+        <seg>법률가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Legal teams analyze and determine license obligations and provide guidance</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150321Z" creationid="Jang" creationdate="20171028T150321Z">
+        <seg>법률 팀은 라이선스 의무를 분석 및 결정하고 지침을 제공합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Legal to identify and evaluate license obligations</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T140806Z" creationid="Jang" creationdate="20171028T140806Z">
+        <seg>라이선스 의무를 확인하고 평가하는 법률가</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +1106,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T142536Z" creationid="Jang" creationdate="20171025T142536Z">
         <seg>소스 코드가 유지될 위치</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Many companies use both an automated tool and manual review</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144034Z" creationid="Jang" creationdate="20171028T144007Z">
+        <seg>많은 회사들은 자동화된 도구와 수동 검토를 모두 사용합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,8 +1392,16 @@
       <tuv xml:lang="EN-US">
         <seg>Running a FOSS Review</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170803T145125Z" creationid="Jang" creationdate="20170803T145125Z">
-        <seg>FOSS 검토 실행</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144748Z" creationid="Jang" creationdate="20170803T145125Z">
+        <seg>FOSS 리뷰 실행</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Scanning</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143157Z" creationid="Jang" creationdate="20171028T143157Z">
+        <seg>스캐닝</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,10 +1430,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Source Code Scanning Tools</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143703Z" creationid="Jang" creationdate="20171028T143703Z">
+        <seg>소스 코드 스캐닝 도구</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Source code delivery</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131157Z" creationid="Jang" creationdate="20171025T131157Z">
         <seg>소스 코드 전달</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Source code scanning and tooling support to help identify and track FOSS usage</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T141009Z" creationid="Jang" creationdate="20171028T141009Z">
+        <seg>FOSS 사용을 식별하고 추적할 수 있는 소스 코드 스캐닝 및 도구 지원</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Specialists</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143215Z" creationid="Jang" creationdate="20171028T143210Z">
+        <seg>전문가</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,10 +1486,50 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The FOSS Review is a basic building block of a FOSS Compliance Program.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145926Z" creationid="Jang" creationdate="20171028T145926Z">
+        <seg>FOSS 리뷰는 FOSS 컴플라이언스 프로그램의 기본 구성 요소입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The FOSS Review process crosses disciplines, including engineering, business, and legal teams.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144902Z" creationid="Jang" creationdate="20171028T144341Z">
+        <seg>FOSS 리뷰 프로세스는 엔지니어링, 비지니스, 법률팀을 비롯한 여러 분야를 포함합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The FOSS Review process includes the following steps:</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20171025T141027Z" creationid="Jang" creationdate="20171025T141027Z">
-        <seg>FOSS 검토 프로세스에는 다음 단계가 포함됩니다:</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144809Z" creationid="Jang" creationdate="20171025T141027Z">
+        <seg>FOSS 리뷰 프로세스에는 다음 단계가 포함됩니다:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The FOSS Review process should have executive oversight to resolve disagreements and approve the most important decisions.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145014Z" creationid="Jang" creationdate="20171028T144713Z">
+        <seg>FOSS 리뷰 프로세스는 의견 불일치를 해결하고 가장 중요한 결정을 승인할 수 있는 경령진의 감독을 받아야 합니다..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The FOSS Review team should assess the information it has gathered before providing guidance for issues.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144845Z" creationid="Jang" creationdate="20171028T143331Z">
+        <seg>FOSS 리뷰 팀은 문제에 대한 지침을 제공하기 전에 수집한 정보를 평가해야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The FOSS Review team should consider:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144852Z" creationid="Jang" creationdate="20171028T143404Z">
+        <seg>FOSS 리뷰 팀은 다음을 고려해야합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1562,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T144151Z" creationid="Jang" creationdate="20170803T144151Z">
         <seg>OpenChain 프로젝트의 핵심은 <ph x="0">&lt;t0/&gt;</ph>설명서<ph x="1">&lt;t1/&gt;</ph>입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first step is to identify the proper parties to initiate a FOSS Review</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150449Z" creationid="Jang" creationdate="20171028T150449Z">
+        <seg>첫 번째 단계는 FOSS 리뷰를 시작하기에 적합한 당사자를 식별하는 것입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +1654,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>There are a couple additional issues in the case of external vendors.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150912Z" creationid="Jang" creationdate="20171028T150912Z">
+        <seg>외부 공급 업체의 경우 몇 가지 추가 문제가 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are many different automated source code scanning tools.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143729Z" creationid="Jang" creationdate="20171028T143729Z">
+        <seg>다양한 자동화된 소스 코드 스캐닝 도구가 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These representatives may include:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T140733Z" creationid="Jang" creationdate="20171028T140733Z">
+        <seg>대표자에는 다음이 포함 될 수 있습니다 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>These slides follow US law.</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T143248Z" creationid="Jang" creationdate="20170803T143248Z">
@@ -1366,6 +1702,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This chapter describes a “FOSS Review” process in which FOSS usage is analyzed and the relevant obligations are determined</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145838Z" creationid="Jang" creationdate="20171028T145838Z">
+        <seg>이 장에서는 FOSS 사용을 분석하고 관련 의무를 결정하는 "FOSS 리뷰" 프로세스에 대해 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This chapter will focus on copyright and patents,<ph x="0">&lt;t0/&gt;</ph>the areas most relevant to FOSS compliance.</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170803T151238Z" creationid="Jang" creationdate="20170803T151238Z">
@@ -1386,6 +1730,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170806T143934Z" creationid="Jang" creationdate="20170806T143934Z">
         <seg>이를 "Copyleft" 또는 "상호주의" 효과라고 함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This may include scanning the code to confirm the accuracy of the information.</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T143354Z" creationid="Jang" creationdate="20171028T143354Z">
+        <seg>여기에는 정보의 정확성을 확인하기 위해 코드를 스캔하는 작업이 포함될 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1886,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>What additional information is important when reviewing a FOSS component from an outside vendor?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145439Z" creationid="Jang" creationdate="20171028T145439Z">
+        <seg>외부 공급 업체로부터의 FOSS 구성 요소를 검토 할 때 중요한 추가 정보는 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>What copyright rights are most important for software?</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T151218Z" creationid="Jang" creationdate="20170804T151218Z">
@@ -1562,6 +1922,14 @@
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T141707Z" creationid="Jang" creationdate="20171025T141707Z">
         <seg>어떤 정보를 수집해야합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What information helps identify who is licensing the software?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145358Z" creationid="Jang" creationdate="20171028T145358Z">
+        <seg>누가 소프트웨어 라이선스를 부여했는지 식별하는데 도움이되는 정보는 무엇입니까?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,10 +1974,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>What is the first action you should take if you want to use FOSS components?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145227Z" creationid="Jang" creationdate="20171028T145227Z">
+        <seg>FOSS 컴포넌트를 사용하고자 할 때 취해야 할 첫 번째 액션은 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>What is the format for delivery?</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T134959Z" creationid="Jang" creationdate="20171025T134959Z">
         <seg>전달하는 형태는 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the purpose of a FOSS Review?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145209Z" creationid="Jang" creationdate="20171028T145209Z">
+        <seg>FOSS 리뷰의 목적은 무엇입니까?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,10 +2014,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>What kinds of information might you collect for a FOSS review?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145310Z" creationid="Jang" creationdate="20171028T145310Z">
+        <seg>FOSS 리뷰를 위해 어떤 종류의 정보를 수집할 수 있습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>What rights does a patent give to the patent owner?</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20170804T151237Z" creationid="Jang" creationdate="20170804T151237Z">
         <seg>특허가 특허 소유자에게 부여하는 권리는 무엇입니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What should you do if you have a question about using FOSS?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145240Z" creationid="Jang" creationdate="20171028T145240Z">
+        <seg>FOSS 사용에 관한 질문이 있으면 무엇을 해야합니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What steps can be taken to assess the quality of information collected in a FOSS Review?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T145523Z" creationid="Jang" creationdate="20171028T145523Z">
+        <seg>FOSS 리뷰에서 수집한 정보의 품질을 평가하기 위해 어떤 단계를 수행할 수 있습니까?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,10 +2070,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Who are the decision makers about FOSS usage (managers, architects, individual engineers, etc.)?</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T150552Z" creationid="Jang" creationdate="20171028T150552Z">
+        <seg>FOSS 사용에 대한 의사 결정자는 누구입니까 (관리자, 아키텍트, 개별 엔지니어 등)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Who receives the software?</seg>
       </tuv>
       <tuv xml:lang="KO" changeid="Jang" changedate="20171025T131130Z" creationid="Jang" creationdate="20171025T131130Z">
         <seg>누가 소프트웨어를 받습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Work</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144520Z" creationid="Jang" creationdate="20171028T144520Z">
+        <seg>작업</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Working through the FOSS Review</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20171028T144856Z" creationid="Jang" creationdate="20171028T144142Z">
+        <seg>FOSS 리뷰를 통한 작업</seg>
       </tuv>
     </tu>
     <tu>
