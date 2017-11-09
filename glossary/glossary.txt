@@ -130,5 +130,6 @@ origin	출처
 Package	패키지
 responsiveness	반응성
 representative	대표자
-Legal	법률가
+Legal	법무팀
 Scanning	스캐닝
+guidance	가이드
