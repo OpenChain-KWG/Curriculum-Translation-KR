@@ -42,7 +42,7 @@ source form	소스 형태
 source code	소스 코드
 build	빌드
 script	스크립트
-written offer	서면 약정
+written offer	서면 청약
 Contribution	기여
 Community	커뮤니티
 Specification	설명서
@@ -133,3 +133,9 @@ representative	대표자
 Legal	법무팀
 Scanning	스캐닝
 guidance	가이드
+Identification	식별
+Audit	검사
+Registration	등록
+Notice	고지
+Verification	확인
+Outcome	결과
