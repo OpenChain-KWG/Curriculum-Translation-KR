@@ -139,3 +139,11 @@ Registration	등록
 Notice	고지
 Verification	확인
 Outcome	결과
+issue	문제
+template	템플릿
+report	보고서
+Proprietary	독점
+Legend	범례
+User Space	사용자 영역
+Kernel Space	커널 영역
+Architecture	아키텍처
