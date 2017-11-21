@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>3rd Party Commercial</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143304Z" creationid="Jang" creationdate="20171121T143304Z">
+        <seg>제3자 상용</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3rd Party Software</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T140844Z" creationid="Jang" creationdate="20171114T140844Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T144538Z" creationid="Jang" creationdate="20170806T144538Z">
         <seg>독점 소프트웨어 라이선스 (또는 상업용 라이선스 또는 EULA)는 소프트웨어의 사용, 수정 및 배포에 대한 제한을 가짐.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A resolution for each of the flagged files in the report and a resolution for any flagged license conflict</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143006Z" creationid="Jang" creationdate="20171121T143006Z">
+        <seg>보고서 내 플래그가 지정된 각 파일에 대한 해결 방법 및 플래그가 지정된 라이선스 충돌에 대한 해결 방법</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approvals should be made at appropriate authority levels</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T144758Z" creationid="Jang" creationdate="20171121T144758Z">
+        <seg>승인은 적절할 수준의 권한에서 이루어져야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Architecture Review (Example Template)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143657Z" creationid="Jang" creationdate="20171121T143657Z">
+        <seg>아키텍처 리뷰 (예제 템플릿)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attribution and other notices and URLs</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T142328Z" creationid="Jang" creationdate="20171025T142328Z">
@@ -266,6 +298,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T145248Z" creationid="Jang" creationdate="20170803T145248Z">
         <seg>Compliance 함정 피하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on the results of the software audit and review in previous steps, software may or may not be approved for use</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T144514Z" creationid="Jang" creationdate="20171121T144514Z">
+        <seg>이전 단계의 소프트웨어 검사 및 리뷰 결과에 따라 소프트웨어 사용이 승인되거나 승인되지 않을 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +466,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T134631Z" creationid="Jang" creationdate="20171114T134631Z">
         <seg>컴플라이언스 관리는 제품에 사용되는 FOSS 컴포넌트를 관리하는 일련의 작업입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conduct review with reference to your FOSS policy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T144017Z" creationid="Jang" creationdate="20171121T144017Z">
+        <seg>FOSS 정책을 참고하여 리뷰를 수행합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure the software in the audit report conforms with FOSS policies</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T144147Z" creationid="Jang" creationdate="20171121T144147Z">
+        <seg>검사 보고서 내의 소프트웨어가 FOSS 정책을 준수하는지 확인하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensure you have the notices and source code as needed to meet these obligations.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171028T151319Z" creationid="Jang" creationdate="20171028T151319Z">
@@ -982,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hardware</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143339Z" creationid="Jang" creationdate="20171121T143339Z">
+        <seg>하드웨어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have training on the organization’s FOSS policy available to everyone</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T140131Z" creationid="Jang" creationdate="20171114T140131Z">
@@ -1106,6 +1170,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142653Z" creationid="Jang" creationdate="20170804T142653Z">
         <seg>일반적으로 충분한 저작 활동이 추가된 독창적인 저작물을 기반으로 한 새로운 저작물을 말하며, 이는 새로운 저작물이 사본이 아닌 원본 저작물을 나타내는 것임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include appropriate authority levels in review staff</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143955Z" creationid="Jang" creationdate="20171121T143955Z">
+        <seg>리뷰 직원에게 적절한 수준의 권한을 부여합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kernel Space</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143334Z" creationid="Jang" creationdate="20171121T143334Z">
+        <seg>커널 영역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Software Conceptsfor FOSS Review</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T144133Z" creationid="Jang" creationdate="20170803T145116Z">
@@ -1370,6 +1450,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T150740Z" creationid="Jang" creationdate="20171028T140806Z">
         <seg>라이선스 의무를 확인하고 평가하는 법무팀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legend</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143223Z" creationid="Jang" creationdate="20171121T143223Z">
+        <seg>범례</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once a FOSS component has been approved for usage in a product, it should be added to the software inventory for that product</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T145436Z" creationid="Jang" creationdate="20171121T145436Z">
+        <seg>제품 사용에 대한 FOSS 컴포넌트가 승인되면 해당 제품의 소프트웨어 목록에 추가해야합니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the proposed FOSS usage has been fully assessed, the legal team will then have the necessary information on which to make its judgments.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T150730Z" creationid="Jang" creationdate="20171109T150730Z">
@@ -1718,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Performing Reviews</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143729Z" creationid="Jang" creationdate="20171121T143729Z">
+        <seg>리뷰 수행</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permissive FOSS Licenses</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T143217Z" creationid="Jang" creationdate="20170806T143217Z">
@@ -1766,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preserve audit report findings and mark resolved issues as ready for the next step (i.e. Approval)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T144305Z" creationid="Jang" creationdate="20171121T144305Z">
+        <seg>검사 보고서 결과를 보존하고 해결된 문제에 다음 단계(승인)를 위해 준비가 되었다고 표시합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product Manager</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T141559Z" creationid="Jang" creationdate="20171025T141559Z">
@@ -1778,6 +1890,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T141620Z" creationid="Jang" creationdate="20171025T141620Z">
         <seg>프로그램 관리자</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proprietary</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143133Z" creationid="Jang" creationdate="20171121T143133Z">
+        <seg>독점</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +1922,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T150509Z" creationid="Jang" creationdate="20170803T150213Z">
         <seg>표현을 보호(기본 아이디어가 아님)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide feedback to the appropriate engineers to resolve issues in the audit report that conflict with your FOSS policy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T142632Z" creationid="Jang" creationdate="20171121T142632Z">
+        <seg>FOSS 정책과 충돌하는 검사 보고서내의 문제를 해결하기 위해 적절한 엔지니어에게 피드백을 제공하십시오.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Registration / Approval Tracking</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T145300Z" creationid="Jang" creationdate="20171121T145300Z">
+        <seg>등록 / 승인 추적</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Released under CC0-1.0.You may use, modify, and share these slides without restriction.They also come with no warranty.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T143546Z" creationid="Jang" creationdate="20170803T143229Z">
@@ -1870,10 +2006,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolve all issues identified in the audit</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T142551Z" creationid="Jang" creationdate="20171121T142551Z">
+        <seg>검사에서 확인된 모든 문제를 해결하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resolve any</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T141539Z" creationid="Jang" creationdate="20171114T141539Z">
         <seg>회사 FOSS 정책에 따라 검사 문제 해결</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resolving Issues</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143029Z" creationid="Jang" creationdate="20171121T143029Z">
+        <seg>문제 해결</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,6 +2050,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T135956Z" creationid="Jang" creationdate="20171114T135721Z">
         <seg>FOSS 프로젝트로의 기여에 대해 리뷰 및 승인합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review the resolved issues to confirm it matches your FOSS policy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143821Z" creationid="Jang" creationdate="20171121T143821Z">
+        <seg>해결된 문제를 리뷰하여 FOSS 정책과 일치하는지 확인합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2342,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The appropriate engineers then conduct FOSS Reviews on the relevant source code (see next slide for template)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T142744Z" creationid="Jang" creationdate="20171121T142744Z">
+        <seg>그러면 엔지니어는 관련 소스 코드에 대한 FOSS 리뷰를 수행합니다. (다음 슬라이드의 템플릿 참조)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The approval and its conditions should be registered in a tracking system</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T145529Z" creationid="Jang" creationdate="20171121T145529Z">
+        <seg>승인 및 이에 대한 조건은 추적 시스템에 등록해야 합니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The approval should specify versions of approved FOSS components, the approved usage model for the component, and any other applicable obligations under the FOSS license</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T144721Z" creationid="Jang" creationdate="20171121T144721Z">
+        <seg>승인에서는 승인된 FOSS 컴포넌트의 버전, 컴포넌트의 승인된 사용 모델 및 FOSS 라이선스 하의 기타 해당되는 모든 의무 사항을 명시해야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The copyright notices, attribution and source code normally helps to identify who is licensing the FOSS software.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T152336Z" creationid="Jang" creationdate="20171109T152336Z">
@@ -2370,6 +2554,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142046Z" creationid="Jang" creationdate="20170804T142046Z">
         <seg>파생 저작물이라는 용어는 미국 저작권법에서 비롯됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tracking system should make it clear that a new approval is needed for a new version of a FOSS component or if a new usage model is proposed</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T145806Z" creationid="Jang" creationdate="20171121T145806Z">
+        <seg>추적 시스템은 새로운 버전의 FOSS 컴포넌트이거나 새로운 사용 모델이 제안되는 경우는 새로운 승인이 필요하다는 점을 명확히 해야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2626,6 +2818,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T150650Z" creationid="Jang" creationdate="20170804T150650Z">
         <seg>허용된 사용 유형 (상업적 / 비상업적, 배포, 파생 저작물 / 제조, 제조?, 제조?))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Space</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143331Z" creationid="Jang" creationdate="20171121T143331Z">
+        <seg>사용자 영역</seg>
       </tuv>
     </tu>
     <tu>
@@ -2930,6 +3130,22 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T144255Z" creationid="Jang" creationdate="20170806T144255Z">
         <seg>배포하거나 공표하려는 저작물의 전부 또는 일부가 양도 받은 프로그램의 일부를 포함하거나 프로그램으로부터 파생된 것이라면, 저작물에 대한 사용권리를 본 라이선스의 규정에 따라 […] 허용해야 한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Insert Components]</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143416Z" creationid="Jang" creationdate="20171121T143416Z">
+        <seg>[컴포넌트 추가]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Insert interaction method]</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171121T143439Z" creationid="Jang" creationdate="20171121T143439Z">
+        <seg>[상호작용 방법 추가]</seg>
       </tuv>
     </tu>
     <tu>
