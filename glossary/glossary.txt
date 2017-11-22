@@ -64,7 +64,7 @@ upstream	상위
 standard	표준적
 Vision	비전
 Mission	사명
-release	배포
+release	출시
 curriculum	교육과정
 US law	미국 법률
 jurisdiction	관할권
@@ -147,3 +147,4 @@ Legend	범례
 User Space	사용자 영역
 Kernel Space	커널 영역
 Architecture	아키텍처
+accompanying	수반되는
