@@ -147,4 +147,7 @@ Legend	범례
 User Space	사용자 영역
 Kernel Space	커널 영역
 Architecture	아키텍처
-accompanying	수반되는
+accompanying	동반하는
+Avoidance	방지
+staff	직원
+verification	확인
