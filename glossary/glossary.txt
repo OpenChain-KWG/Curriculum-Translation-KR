@@ -151,3 +151,7 @@ accompanying	동반하는
 Avoidance	방지
 staff	직원
 verification	확인
+end to end	엔드 투 엔드
+usage	사용
+prerequisite	전제조건
+branche	브랜치
