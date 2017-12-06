@@ -174,6 +174,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accompanying Source Code Distribution</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T145540Z" creationid="Jang" creationdate="20171206T145540Z">
+        <seg>동반하는 소스 코드 배포</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accompanying Source Code Distribution – Make source code available as needed.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T145207Z" creationid="Jang" creationdate="20171206T145207Z">
+        <seg>동반하는 소스 코드 배포 - 필요에 따라 소스 코드를 제공합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accompanying source code distribution</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171205T130949Z" creationid="Jang" creationdate="20171122T144749Z">
@@ -342,10 +358,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approval information from the previous step should be tracked or registered so that anyone releasing the software can understand and comply with the relevant license obligations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T142855Z" creationid="Jang" creationdate="20171206T142855Z">
+        <seg>소프트웨어를 출시하는 모든 사람이 관련 라이선스 의무를 이해하고 준수할 수 있도록 이전 단계의 승인 정보는 추척되거나 등록되어야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Approvals</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T140654Z" creationid="Jang" creationdate="20171114T140654Z">
         <seg>승인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Approvals - Communicate approval conditions and license obligations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144926Z" creationid="Jang" creationdate="20171206T144926Z">
+        <seg>승인 - 승인 조건과 라이선스 의무를 전달합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +394,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171121T143657Z" creationid="Jang" creationdate="20171121T143657Z">
         <seg>아키텍처 리뷰 (예제 템플릿)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Architecture reviews examine the relationships between FOSS components and company software.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T145256Z" creationid="Jang" creationdate="20171206T145256Z">
+        <seg>아키텍처 리뷰는 FOSS 컴포넌트와 회사 소프트웨어 간의 관계를 리뷰합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +442,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T143952Z" creationid="Jang" creationdate="20171114T143952Z">
         <seg>소스 코드 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auditing source code - Review identified FOSS components for license and origin information.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144846Z" creationid="Jang" creationdate="20171206T144846Z">
+        <seg>소스 코드 검사 - 라이선스 및 출처 정보에 대해 식별된 FOSS 컴포넌트를 리뷰합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,10 +1470,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, how are FOSS and company components linked together?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141935Z" creationid="Jang" creationdate="20171206T141935Z">
+        <seg>예를 들어, FOSS와 회사 컴포넌트는 어떻게 서로 연결되어 있습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the earlier steps may have identified a FOSS component that contains other FOSS code under an incompatible license.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141641Z" creationid="Jang" creationdate="20171206T141641Z">
+        <seg>예를 들어, 이전 단계에서 호환되지 않는 라이선스 하의 다른 FOSS 코드가 포함된 FOSS 컴포넌트를 식별했을 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, code scanning may be used to locate undisclosed FOSS usage.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T150623Z" creationid="Jang" creationdate="20171109T150623Z">
         <seg>예를 들어, 코드 스캐닝은 공개되지 않은 FOSS의 사용을 찾기 위해 사용될 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, how are FOSS and company components linked together?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T145313Z" creationid="Jang" creationdate="20171206T145313Z">
+        <seg>예를 들어, FOSS와 회사 컴포넌트는 어떻게 함께 연결되어 있습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For our example process, the steps include:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144604Z" creationid="Jang" creationdate="20171206T144604Z">
+        <seg>예제 프로세스에서는 다음 단계가 포함됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For some licenses, you may also need to include a full copy of the license text.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T143119Z" creationid="Jang" creationdate="20171206T143119Z">
+        <seg>일부 라이선스의 경우, 라이선스 텍스트의 전체 사본을 포함해야 할 수도 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identification - Identify and track FOSS usage. This may take place through engineer requests, third party disclosures, or code scanning.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144822Z" creationid="Jang" creationdate="20171206T144822Z">
+        <seg>식별 - FOSS 사용을 식별하고 추적합니다. 이는 엔지니어 요청, 제3자 정보 공개 또는 코드 스캐닝을 통해 발생할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify FOSS components</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T143438Z" creationid="Jang" creationdate="20171114T143438Z">
@@ -1646,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If required by a FOSS license, appropriate notices should be prepared (often in a text file that accompanies the release).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T143012Z" creationid="Jang" creationdate="20171206T143012Z">
+        <seg>FOSS 라이선스에 의해 요구가 된다면, 적절한 고지가 준비되어야 합니다. (주로 텍스트 파일을 출시와 함께 제공)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you independently develop your own software, is it possible that&lt;t0/&gt;you might need a copyright license from a third party for that software?&lt;t1/&gt;A patent license?</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T151338Z" creationid="Jang" creationdate="20170804T151321Z">
@@ -1670,10 +1774,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In cases where source code must be made available, the company provides the accompanying source code through the mechanisms permitted under the FOSS license.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144151Z" creationid="Jang" creationdate="20171206T144151Z">
+        <seg>소스 코드를 제공해야 하는 경우, 회사는 FOSS 라이선스에서 허용하는 매커니즘을 통해 동반하는 소스 코드를 제공합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In cases where source code must be made available, the company verifies that the source code matches the binary files being distributed.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144123Z" creationid="Jang" creationdate="20171206T143322Z">
+        <seg>소스 코드를 제공해야 하는 경우, 회사는 소스 코드가 배포되는 바이너리 파일과 일치하는지 확인합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general it refers to a new work based upon an original work to which enough original creative work has been added so that the new work represents an original work of authorship rather than a copy</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142653Z" creationid="Jang" creationdate="20170804T142653Z">
         <seg>일반적으로 충분한 저작 활동이 추가된 독창적인 저작물을 기반으로 한 새로운 저작물을 말하며, 이는 새로운 저작물이 사본이 아닌 원본 저작물을 나타내는 것임</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our example, the company may conduct research into the identified FOSS component (e.g., review declared licenses, research origins of the FOSS component).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141226Z" creationid="Jang" creationdate="20171206T141226Z">
+        <seg>이 예에서 회사는 식별된 FOSS 컴포넌트에 댛나 연구를 수행할 수 있습니다.(예: 선언된 라이선스 리뷰, FOSS 컴포넌트의 출처 연구)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the approval step of our example process, the review team communicates whether it approves of the FOSS usage in question, along with any associated conditions or obligations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T142705Z" creationid="Jang" creationdate="20171206T142705Z">
+        <seg>예제 프로세스의 승인 단계에서, 리뷰팀은 문제가 되는 FOSS에 대해 관련 조건 또는 의무에 따라 사용을 승인할지 여부에 대해 전달합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the previous step we removed FOSS usage that did not conform to company policy.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T142340Z" creationid="Jang" creationdate="20171206T142340Z">
+        <seg>이전 단계에서 회사 정책을 준수하지 않은 FOSS 사용을 제거했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this example, the FOSS review team may identify FOSS usage through review requests from engineers, from performing scans of internally-developed and third-party software, or reviewing code checked into development branches.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141029Z" creationid="Jang" creationdate="20171206T141029Z">
+        <seg>이 예에서 FOSS 리뷰팀은 엔지니어의 리뷰 요청, 내부 개발 및 제3자 소프트웨어의 스캔 수행  또는 개발 브랜치에 추가된 코드의 리뷰를 통해 FOSS 사용을 식별할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this slide of our example process, the company verifies that it has met its FOSS license obligations before release.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T143250Z" creationid="Jang" creationdate="20171206T143250Z">
+        <seg>이 예제 프로세스의 슬라이드에서, 회사는 출시 전에 FOSS 라이선스 의무를 충족했는지 확인합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this step, the FOSS review team reviews the facts collected in the previous steps and identifies the company’s obligations under the FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T142243Z" creationid="Jang" creationdate="20171206T142243Z">
+        <seg>이 단계에서 FOSS 리뷰팀은 이전 단계에서 수집된 사실을 리뷰하고 FOSS 라이선스에 의한 회사의 의무를 식별합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this step, the company verifies that its distribution complies with its FOSS license obligations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144319Z" creationid="Jang" creationdate="20171206T144319Z">
+        <seg>이 단계에서 회사는 배포가 FOSS 라이선스 의무를 준수하는지 확인합니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this step, we evaluate and identify the license obligations for FOSS usage that is retained.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T142403Z" creationid="Jang" creationdate="20171206T142403Z">
+        <seg>이 단계에서 FOSS 사용에 대한 라이선스 의무를 평가하고 식별합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that this section provides a detailed example of what may take place in a large enterprise.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T135335Z" creationid="Jang" creationdate="20171206T135335Z">
+        <seg>이 섹션에서는 대기업에서 발생할 수 있는 일에 대한 세부 예를 제공합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The interpretation of what constitutes a “derivative work” or a “distribution”&lt;t0/&gt;is subject to debate in the FOSS community and within FOSS legal circles</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T143157Z" creationid="Jang" creationdate="20170804T143157Z">
@@ -2258,6 +2450,22 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T141040Z" creationid="Jang" creationdate="20171114T141040Z">
         <seg>고지 &amp; 귀속에 관한 고지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notices - Prepare notices as required by FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T145048Z" creationid="Jang" creationdate="20171206T145048Z">
+        <seg>고지 - FOSS 라이선스에서 요구하는대로 고지를 준비합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notices may include attribution notices, modification notices, or offers for source code.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T143103Z" creationid="Jang" creationdate="20171206T143103Z">
+        <seg>고지에는 저작자 고지, 수정 고지, 또는 소스 코드에 대한 약정이 포함될 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2530,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171121T145436Z" creationid="Jang" creationdate="20171121T145436Z">
         <seg>제품 사용에 대한 FOSS 컴포넌트가 승인되면 해당 제품의 소프트웨어 목록에 추가해야합니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once an audit report is produced that confirms the origin and licensing of source code, the review team should flag and review any issues under the company FOSS policy.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141549Z" creationid="Jang" creationdate="20171206T141549Z">
+        <seg>소스 코드의 출처와 라이선스를 확인하는 검사 보고서가 작성되면, 리뷰팀은 회사 FOSS 정책에 따라 문제가 되는 것을 표시하고 리뷰해야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Performing reviews - Assess and determine obligations for FOSS usage.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144914Z" creationid="Jang" creationdate="20171206T144914Z">
+        <seg>리뷰 수행 - FOSS 사용에 대한 의무를 평가하고 결정합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permissive FOSS Licenses</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T143217Z" creationid="Jang" creationdate="20170806T143217Z">
@@ -2546,6 +2770,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171122T144743Z" creationid="Jang" creationdate="20171122T144743Z">
         <seg>배포 전 확인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-distribution verifications – Review distributions for compliance before release.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T145149Z" creationid="Jang" creationdate="20171206T145137Z">
+        <seg>배포 전 확인 - 출시 전에 컴플라이언스를 위한 배포를 리뷰합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Registration/approval tracking – Track approval conditions and license obligations for later compliance steps.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T145030Z" creationid="Jang" creationdate="20171206T145030Z">
+        <seg>등록/승인 추적 - 추후 컴플라이언스 단계를 위해 승인 조건 및 라이선스 의무를 추적합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Released under CC0-1.0.&lt;t0/&gt;You may use, modify, and share these slides without restriction.&lt;t1/&gt;They also come with no warranty.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171122T141238Z" creationid="Jang" creationdate="20170803T143229Z">
@@ -2818,6 +3058,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171122T144710Z" creationid="Jang" creationdate="20171122T144710Z">
         <seg>문제 해결</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resolving issues - Remove FOSS usage that is incompatible with FOSS policies.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144901Z" creationid="Jang" creationdate="20171206T144901Z">
+        <seg>문제 해결 - FOSS 정책과 호환되지 않는 FOSS 사용을 제거합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2946,6 +3194,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T135924Z" creationid="Jang" creationdate="20171114T135153Z">
         <seg>소규모 업체는 간단한 체크리스트를, 기업들은 상세한 절차를 사용할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smaller companies may wish to approach the process in a more streamlined way.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T135427Z" creationid="Jang" creationdate="20171206T135412Z">
+        <seg>소규모 기업은 보다 간소화된 방식으로 프로세스에 접근하고자 할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3086,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Templates such as these may be created by engineering teams to help educate the FOSS review team about planned FOSS usage.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T142132Z" creationid="Jang" creationdate="20171206T142132Z">
+        <seg>이러한 템플릿은 계획된 FOSS 사용에 대해 FOSS 리뷰팀을 교육하는데 도움을 주기 위해 엔지니어링팀에서 만들 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose in source or object code form as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T143502Z" creationid="Jang" creationdate="20170806T143502Z">
@@ -3206,10 +3470,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The approval should also include important details such as version numbers of FOSS components and the approved usage scenario.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T142737Z" creationid="Jang" creationdate="20171206T142737Z">
+        <seg>승인에는 FOSS 컴포넌트의 버전 번호 및 승인된 사용 시나리오와 같은 중요한 세부 사항도 포함되어야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The approval should specify versions of approved FOSS components, the approved usage model for the component, and any other applicable obligations under the FOSS license</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171121T144721Z" creationid="Jang" creationdate="20171121T144721Z">
         <seg>승인에서는 승인된 FOSS 컴포넌트의 버전, 컴포넌트의 승인된 사용 모델 및 FOSS 라이선스 하의 기타 해당되는 모든 의무 사항을 명시해야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The company also verifies that notices are properly produced and included in distribution packages as needed.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T143346Z" creationid="Jang" creationdate="20171206T143346Z">
+        <seg>회사는 또한 고지가 적절히 제작되고 필요에 따라 배포 패키지에 포함되는지 확인합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The company may also scan the source code to verify the origin and composition of the code.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141258Z" creationid="Jang" creationdate="20171206T141258Z">
+        <seg>회사는 출처 및 코드의 구성을 확인하기 위해 소스 코드를 스캔할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,6 +3538,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T151129Z" creationid="Jang" creationdate="20171109T151129Z">
         <seg>엔지니어 팀은 더 많은 정보를 제공 할 수있는 능력이 필요할 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first step in our example process is to identify FOSS usage.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T135809Z" creationid="Jang" creationdate="20171206T135809Z">
+        <seg>예제 프로세스의 첫번째 단계는 FOSS 사용을 식별하는 것입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3334,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The next step is auditing source code identified in the previous step.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141129Z" creationid="Jang" creationdate="20171206T141129Z">
+        <seg>다음 단계는 이전 단계에서 식별된 소스 코드를 검사하는 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The origins and licenses of the source code</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T143915Z" creationid="Jang" creationdate="20171114T143915Z">
@@ -3374,6 +3678,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The review team may then produce an audit report with its conclusions regarding the origin and licensing of the source code.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141342Z" creationid="Jang" creationdate="20171206T141342Z">
+        <seg>리뷰팀은 소스 코드의 출처와 라이선스에 관한 결론과 함께 검사 보고서를 작성할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The review team should provide appropriate feedback to the engineering team to resolve the issues.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141711Z" creationid="Jang" creationdate="20171206T141711Z">
+        <seg>리뷰팀은 문제 해결을 위해 엔지니어링팀에 적절한 피드백을 제공해야 합니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The review team will then create a record of the review, then move to the next step (“Audit”).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141058Z" creationid="Jang" creationdate="20171206T141058Z">
+        <seg>리뷰팀은 리뷰 기록을 작성한 후 다음 단계 ("검사")로 이동합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The right to &lt;t0/&gt;distribute</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142837Z" creationid="Jang" creationdate="20170804T142744Z">
@@ -3402,6 +3730,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T145611Z" creationid="Jang" creationdate="20170806T145611Z">
         <seg>소스 코드가 사용 가능하거나 사용 가능하지 않을 수 있으며, 파생 저작물 생성은 일반적으로 제한됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The step may also begin if the review team discovers or is notified that FOSS is being used in a software release or in third party software used by the company, and that a proper review needs to take place.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T140714Z" creationid="Jang" creationdate="20171206T140714Z">
+        <seg>이 단계는 리뷰팀이 FOSS가 소프트웨어 출시 또는 회사에서 사용하는 제3자 소프트웨어에서 사용되고 있는 것과 적절한 리뷰가 필요함을 발견하거나 통보받으면 시작할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3486,10 +3822,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter contains an example of a detailed end to end compliance management process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T135048Z" creationid="Jang" creationdate="20171206T135048Z">
+        <seg>이 장에는  엔드 투 엔드 컴플라이언스 관리 프로세스의 상세한 예가 포함되어 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This chapter describes a “FOSS Review” process in which FOSS usage is analyzed and the relevant obligations are determined</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171028T145838Z" creationid="Jang" creationdate="20171028T145838Z">
         <seg>이 장에서는 FOSS 사용을 분석하고 관련 의무를 결정하는 "FOSS 리뷰" 프로세스에 대해 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter describes some fundamental concepts in understanding FOSS usage</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T135837Z" creationid="Jang" creationdate="20171206T134914Z">
+        <seg>이 장에서는 FOSS 사용을 이해하는데 있어 몇가지 기본 개념을 설명합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This may mean providing the source code along with the software distribution, making it available through a written offer, or posting a source code archive on a website.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144246Z" creationid="Jang" creationdate="20171206T144246Z">
+        <seg>이는 소프트웨어 배포와 함께 소스 코드를 제공하거나, 서명 청약을 통해 제공하거나, 또는 웹사이트에 소스 코드 아카이브를 게시하는 것을 의미할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This process is where a company can analyze the FOSS software it uses and understand its rights and obligations</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T141011Z" creationid="Jang" creationdate="20171025T141011Z">
@@ -3554,6 +3914,30 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T152858Z" creationid="Jang" creationdate="20171109T152858Z">
         <seg>이 프로세스는 코드 스캐닝 도구를 실행하여 알려지지 않은 FOSS 사용을 검색하는 팀을 포함하는 지원팀의 도움을 받을 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide contains a template that may be used to illustrate FOSS usage and its relationship with company software.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T141830Z" creationid="Jang" creationdate="20171206T141830Z">
+        <seg>이 슬라이드는 FOSS 사용과 회사 소프트웨어와의 관계를 설명하기 위해 사용할 수 있는 템플릿이 들어 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide describes the definition of compliance management and its end goals.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T135233Z" creationid="Jang" creationdate="20171206T135233Z">
+        <seg>이 슬라이드에서는 컴플라일언스 관리의 정의와 최종 목표에 대해 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide describes what a Small to Medium Enterprise (SME)might need to do to build and deploy an effective compliance program.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T135539Z" creationid="Jang" creationdate="20171206T135539Z">
+        <seg>이 슬라이드는 효과적인 컴플라이언스 프로그램을 구축하고 배포하기 위해 중소기업 (SME)이 해야할 일이 무엇인지 설명합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,6 +3962,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T133931Z" creationid="Jang" creationdate="20171025T133931Z">
         <seg>이 슬라이드는 FOSS 컴포넌트를 사용하면서 컴플라이언스를 위해 고려해야 할 사항에 관한 것입니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide is an overview of the steps that a larger enterprise might use for their process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T135654Z" creationid="Jang" creationdate="20171206T135654Z">
+        <seg>이 슬라이드는 대기업이 프로세스에 사용할 수 있는 단계에 대한 개요입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,6 +4010,30 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T134239Z" creationid="Jang" creationdate="20171025T134239Z">
         <seg>이 슬라이드는 FOSS를 사용할 때 번역의 의미를 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This step could be a function of an entity providing oversight for the overall FOSS review process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T144541Z" creationid="Jang" creationdate="20171206T144541Z">
+        <seg>이 단계는 전체 FOSS 리뷰 프로세스에 대한 감독을 제공하는 하나의 실체(entity) 기능일 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This step may be closely linked with the previous step (Resolving Audit Issues).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T142318Z" creationid="Jang" creationdate="20171206T142318Z">
+        <seg>이 단계는 이전 단계 (검사 문제 해결)와 밀접하게 연관될 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This step may have been initiated by one of the events listed in “prerequisites.” For example, a development team may have initiated a request (or initiated a FOSS Review).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T140145Z" creationid="Jang" creationdate="20171206T140145Z">
+        <seg>이 단계는 "전제조건(prerequisites)"에 나열된 이벤트 중 하나에 의해 시작되었을 수 있습니다. 예를 들어 개발팀이 요청을 시작하였거나 FOSS 리뷰를 시작했을 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3818,6 +4234,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171122T144751Z" creationid="Jang" creationdate="20171122T144751Z">
         <seg>확인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification – Provide oversight for compliance process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171206T145223Z" creationid="Jang" creationdate="20171206T145223Z">
+        <seg>확인 - 컴플라이언스 프로세스에 대한 감독을 제공합니다.</seg>
       </tuv>
     </tu>
     <tu>
