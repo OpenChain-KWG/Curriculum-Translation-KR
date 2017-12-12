@@ -1470,10 +1470,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, an engineering team making modifications to a FOSS component may include proprietary code in the modifications.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151049Z" creationid="Jang" creationdate="20171212T151040Z">
+        <seg>예를 들어, FOSS 컴포넌트를 수정하는 엔지니어링팀이 수정 사항에 독점 코드를 포함시킬 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, how are FOSS and company components linked together?</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171206T141935Z" creationid="Jang" creationdate="20171206T141935Z">
         <seg>예를 들어, FOSS와 회사 컴포넌트는 어떻게 서로 연결되어 있습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, source code for released binaries should be captured and stored along with the binary version.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151713Z" creationid="Jang" creationdate="20171212T151713Z">
+        <seg>예를 들어, 출시된 바이너리의 소스 코드는 캡쳐되어 바이너리 버전과 함께 저장되야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In each case, the failures may be prevented by properly applying steps in the compliance process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151554Z" creationid="Jang" creationdate="20171212T151554Z">
+        <seg>각각의 경우, 컴플라이언스 프로세스의 단계를 적절하게 적용함으로 실패를 방지할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general it refers to a new work based upon an original work to which enough original creative work has been added so that the new work represents an original work of authorship rather than a copy</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142653Z" creationid="Jang" creationdate="20170804T142653Z">
@@ -1818,6 +1842,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171206T142340Z" creationid="Jang" creationdate="20171206T142340Z">
         <seg>이전 단계에서 회사 정책을 준수하지 않은 FOSS 사용을 제거했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this chapter, we will describe some common pitfalls to avoid in the FOSS compliance process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T143854Z" creationid="Jang" creationdate="20171212T143854Z">
+        <seg>이 장에서는 FOSS 컴플라이언스 프로세스에서 피할 수 있는 몇가지 일반적인 함정들을 설명합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2814,6 +2846,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preventative measures include training of engineering staff and building regular audits into the development process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151201Z" creationid="Jang" creationdate="20171212T151201Z">
+        <seg>예방 조치에는 엔지니어링 직원 교육 및 개발 프로세스 내에 정기적인 검사 추가를 포함합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preventative measures include training of engineering staff, and building architectural reviews into the development process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151212Z" creationid="Jang" creationdate="20171212T150909Z">
+        <seg>예방 조치에는 엔지니어링 직원 교육 및 개발 프로세스 내에 아키텍쳐 검토 추가를 포함합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preventative measures include training of engineering staff, and building regular audits or scans into the development process.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151222Z" creationid="Jang" creationdate="20171212T150644Z">
+        <seg>예방 조치에는 엔지니어링 직원 교육 및 개발 프로세스 내에 정기적인 검사 또는 스캔  추가를 포함합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prevention</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171205T133125Z" creationid="Jang" creationdate="20171205T133125Z">
@@ -3494,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The company instead publishes the source code for the original version of the FOSS component.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151520Z" creationid="Jang" creationdate="20171212T151520Z">
+        <seg>대신 회사는 FOSS 컴포넌트의 원본 버전에 대한 소스 코드를 공개합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The company may also scan the source code to verify the origin and composition of the code.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171206T141258Z" creationid="Jang" creationdate="20171206T141258Z">
@@ -3538,6 +3602,30 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T151129Z" creationid="Jang" creationdate="20171109T151129Z">
         <seg>엔지니어 팀은 더 많은 정보를 제공 할 수있는 능력이 필요할 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first pitfall described in this slide arises where copyleft-style licensed FOSS is inadvertently mixed with proprietary code.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T150106Z" creationid="Jang" creationdate="20171212T150106Z">
+        <seg>이 슬라이드에서 설명하는 첫번째 함정은 Copyleft 스타일 라이선스의 FOSS가 의도하지 않게 독점 코드와 혼용되는 경우에 발생합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first pitfall in this slide arises where a company has an obligation to provide accompanying source code, but fails to do so.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151311Z" creationid="Jang" creationdate="20171212T151311Z">
+        <seg>이 슬라이드의 첫번째 함정은 회사가 동반하는 소스 코드를 제공할 의무가 있지만, 그렇게 하지 않은 경우에 발생합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first pitfall in this slide arises where copyleft-style licensed FOSS is inadvertently linked to proprietary code.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T150738Z" creationid="Jang" creationdate="20171212T150738Z">
+        <seg>이 슬라이드의 첫번째 함정은 Copyleft 스타일 라이선스의 FOSS가 의도하지 않게 독점 코드와 링크되는 경우에 발생합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3726,6 +3814,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second pitfall arises where a company provides accompanying source code, but fails to provide the correct version that matches the distributed binary version.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151340Z" creationid="Jang" creationdate="20171212T151340Z">
+        <seg>두번째 함정은 회사가 동반하는 소스 코드를 제공하지만, 배포된 바이너리 버전과 일치하는 정확한 버전을 제공하지 못하는 경우에 발생합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second pitfall arises where proprietary code is included in copyleft-style licensed FOSS.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T150952Z" creationid="Jang" creationdate="20171212T150952Z">
+        <seg>두번째 함정은 독점 코드가 Copyleft 스타일 라이선스의 FOSS에 포함되는 경우에 발생합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source code may or may not be available, and creation of derivative works is usually restricted</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T145611Z" creationid="Jang" creationdate="20170806T145611Z">
@@ -3754,6 +3858,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T142046Z" creationid="Jang" creationdate="20170804T142046Z">
         <seg>파생 저작물이라는 용어는 미국 저작권법에서 비롯됨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The third pitfall arises where a company modifies a FOSS component, but fails to publish the modified version of the source code.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151518Z" creationid="Jang" creationdate="20171212T151508Z">
+        <seg>세번째 함정은 회사가 FOSS 컴포넌트를 수정하지만, 소스 코드의 수정된 버전을 공개하지 못한 경우에 발생합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter describes some common pitfalls in FOSS compliance processes, and discusses approaches to avoiding these pitfalls</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T143741Z" creationid="Jang" creationdate="20171212T143741Z">
+        <seg>이 장에서는 FOSS 컴플라이언스 프로세스의 몇 가지 일반적인 함정을 설명하고, 이러한 함정을 방지하기 위한 접근 방식을 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This chapter describes some fundamental concepts in understanding FOSS usage</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171206T135837Z" creationid="Jang" creationdate="20171206T134914Z">
@@ -3874,6 +3994,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T143934Z" creationid="Jang" creationdate="20170806T143934Z">
         <seg>이를 "Copyleft" 또는 "상호주의" 효과라고 함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may be discovered through auditing source code for license notices or using code scanning tools.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T150234Z" creationid="Jang" creationdate="20171212T150234Z">
+        <seg>이는 라이선스 고지에 대한 소스 코드 검사 또는 코드 스캐닝 도구를 통해 발견할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +4214,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This type of failure may be detected using dependency tracking tools or reviews of architecture.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T150837Z" creationid="Jang" creationdate="20171212T150837Z">
+        <seg>이런 유형의 실패는 종속성 추적 도구 또는 아키텍처 리뷰를 통해 발견할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This type of failure may be discovered through auditing source code introduced into the FOSS component.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151126Z" creationid="Jang" creationdate="20171212T151126Z">
+        <seg>이런 유형의 실패는 FOSS 컴포넌트에 추가된 소스 코드를 검사함으로 발견 할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This type of failure occurs as</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171205T121657Z" creationid="Jang" creationdate="20171205T121657Z">
@@ -4250,6 +4394,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T140741Z" creationid="Jang" creationdate="20171114T140741Z">
         <seg>확인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verifications prior to release should check to ensure the proper source code is provided with the binary release.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20171212T151848Z" creationid="Jang" creationdate="20171212T151848Z">
+        <seg>출시 전에 확인 단계에서는 바이너리 출시와 함께 적절한 소스 코드가 제공되는지가 보장되도록 확인해야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
