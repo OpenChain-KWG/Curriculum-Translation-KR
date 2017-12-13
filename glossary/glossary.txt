@@ -156,3 +156,5 @@ usage	사용
 prerequisite	전제조건
 branche	브랜치
 failure	실패
+code base	코드 베이스
+in-bound software	입수된 소프트웨어
