@@ -1,6 +1,6 @@
 Requirement	요구사항
 Responsibility	책임
-Review	리뷰
+Review	검토
 Approve	승인
 Copyright	저작권
 License	라이선스
@@ -65,7 +65,7 @@ standard	표준적
 Vision	비전
 Mission	사명
 release	출시
-curriculum	교육과정
+curriculum	교육내용
 US law	미국 법률
 jurisdiction	관할권
 identify	식별하다
@@ -74,16 +74,16 @@ Pitfall	함정
 Developer	개발자
 Guideline	가이드라인
 original work	원본 저작물
-authorship	저자
+authorship	저작자
 Patent	특허
 Trade secret	영업 비밀
 Trademark	상표
 Binary Code	바이너리 코드
 copyright owner	저작권 소유자
-derivative work	파생 저작물
+derivative work	2차적 저작물
 US Copyright Act	미국 저작권법
 Distribution	배포
-entity	엔터티
+entity	주체
 functionality	기능
 copyright law	저작권법
 CHAPTER	장
@@ -95,11 +95,11 @@ set	집합
 Example	예
 Reciprocity	상호주의
 Proprietary License	독점 라이선스
-Closed Source	폐쇄 소스
+Closed Source	비공개 소스
 Freeware	프리웨어
-Shareware	셰어웨어	Shareware
+Shareware	쉐어웨어
 component	컴포넌트
-Incorporation	결합
+Incorporation	편입
 Linking	링킹	Linking
 Translation	번역
 Integrating	통합
@@ -118,7 +118,7 @@ Deleting	삭제
 binary	바이너리
 Compiling	컴파일
 Development	개발
-Tools	도구
+Tools	툴
 material	자료
 distribution	배포
 hardware	하드웨어
@@ -137,7 +137,7 @@ Identification	식별
 Audit	검사
 Registration	등록
 Notice	고지
-Verification	확인
+verification	검증
 Outcome	결과
 issue	문제
 template	템플릿
@@ -147,14 +147,35 @@ Legend	범례
 User Space	사용자 영역
 Kernel Space	커널 영역
 Architecture	아키텍처
-accompanying	동반하는
+accompanying	수반하는
 Avoidance	방지
 staff	직원
-verification	확인
-end to end	엔드 투 엔드
+end to end	전과정
 usage	사용
 prerequisite	전제조건
 branche	브랜치
 failure	실패
 code base	코드 베이스
 in-bound software	입수된 소프트웨어
+creative works	창의적 작품
+time limited duration	제한적 존속 기간
+Exclusive	독점적
+non-exclusive	비독점적
+reciprocal license	상호적 라이선스
+clause	조항
+Public Domain	퍼블릭 도메인
+License Compatibility	라이선스 양립가능성
+module	모듈
+license incompatibility	라이선스 양립불가능
+file	파일
+header	헤더
+comment	커멘트
+credit	크레딧
+Multi-Licensing	다중-라이선싱
+dual license	듀얼 라이선스
+Attribution	출처
+Source code availability	소스 코드 입수 가능성
+Dissemination	전파
+Application	애플리케이션
+mobile device	모바일 기기
+JavaScript	자바스크립트
