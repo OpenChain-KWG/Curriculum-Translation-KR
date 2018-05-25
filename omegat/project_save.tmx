@@ -448,8 +448,8 @@
       <tuv lang="EN-US">
         <seg>Adding source code modification marking as a verification step before releasing the source code</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T132916Z" creationid="Jang" creationdate="20171205T132916Z">
-        <seg>소스 코드를 공개하기 전 확인 단계에 소스 코드 수정 표시 과정을 추가합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123744Z" creationid="Jang" creationdate="20171205T132916Z">
+        <seg>소스 코드를 공개하기 전 확인 단계에 소스 코드 수정 표시 과정을 추가한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +472,8 @@
       <tuv lang="EN-US">
         <seg>All copyright and licensing information is to remain intact in all FOSS components</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141751Z" creationid="Jang" creationdate="20171205T141751Z">
-        <seg>모든 저작권 및 라이선스 정보는 모든 FOSS 컴포넌트에서 그대로 유지합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125026Z" creationid="Jang" creationdate="20171205T141751Z">
+        <seg>모든 저작권 및 라이선스 정보는 모든 FOSS 컴포넌트에서 그대로 유지해야 한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,16 +488,16 @@
       <tuv lang="EN-US">
         <seg>Always audit source code you received from your software providers or alternatively make it a company policy that software providers must deliver you a source code audit report for any source code you receive</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T143343Z" creationid="Jang" creationdate="20171205T143343Z">
-        <seg>항상 소프트웨어 공급 업체로부터 받은 소스 코드를 검사하거나 또는 소프트웨어 공급업체는 제공하는 모든 소스 코드에 대하여 소스 코드 검사 보고서를 제공해야 한다는 회사 정책을 만듭니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125338Z" creationid="Jang" creationdate="20171205T143343Z">
+        <seg>항상 소프트웨어 공급 업체로부터 받은 소스 코드를 검사하거나 또는 소프트웨어 공급업체는 제공하는 모든 소스 코드에 대하여 소스 코드 검사 보고서를 제공해야 한다는 회사 정책을 만든다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Always update compliance verification - for every product</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142456Z" creationid="Jang" creationdate="20171205T142456Z">
-        <seg>모든 제품에 대해 컴플라이언스 확인을 항상 업데이트합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125209Z" creationid="Jang" creationdate="20171205T142456Z">
+        <seg>모든 제품에 대해 컴플라이언스 검증을 항상 업데이트한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="EN-US">
         <seg>Anticipate Compliance Process Requirements</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T144232Z" creationid="Jang" creationdate="20171205T142134Z">
-        <seg>컴플라이언스 프로세스 요구사항을 미리 처리</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125127Z" creationid="Jang" creationdate="20171205T142134Z">
+        <seg>컴플라이언스 프로세스 요구사항을 예측</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>As a company that uses FOSS in a commercial product, it is best to create and maintain a good relationship with the FOSS community - in particular, with the specific communities related to the FOSS projects you use and deploy in your commercial products.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140544Z" creationid="Jang" creationdate="20171205T140544Z">
-        <seg>상용 제품에 FOSS를 사용하는 회사라면 FOSS 커뮤니티(특히 상용 제품에 사용하고 배포하는 FOSS 프로젝트와 관련된 특정 커뮤니티)와 좋은 관계를 만들고 유지하는 것이 가장 좋습니다. </seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124803Z" creationid="Jang" creationdate="20171205T140544Z">
+        <seg>상용 제품에 FOSS를 사용하는 회사라면 FOSS 커뮤니티(특히 상용 제품에 사용하고 배포하는 FOSS 프로젝트와 관련된 특정 커뮤니티)와 좋은 관계를 만들고 유지하는 것이 가장 좋다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +744,8 @@
       <tuv lang="EN-US">
         <seg>Automated source code scanning tools may be used for this purpose</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T120747Z" creationid="Jang" creationdate="20171205T120747Z">
-        <seg>이를 위해 자동화된 소스 코드 스캐닝 도구가 사용될 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123012Z" creationid="Jang" creationdate="20171205T120747Z">
+        <seg>이를 위해 자동화된 소스 코드 스캐닝 도구가 사용될 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +928,8 @@
       <tuv lang="EN-US">
         <seg>Companies must make compliance a priority before any product (in whatever form) ships</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140213Z" creationid="Jang" creationdate="20171205T140213Z">
-        <seg>기업은 제품 (어떤 형태이든지) 출하 전에 컴플라이언스를 우선시 해야 합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124719Z" creationid="Jang" creationdate="20171205T140213Z">
+        <seg>기업은 제품 (어떤 형태이든지) 출하 전에 컴플라이언스를 우선시 해야 한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1024,8 +1024,8 @@
       <tuv lang="EN-US">
         <seg>Conducting periodic full scan for the software platform to detect any “undeclared” FOSS usage</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T133934Z" creationid="Jang" creationdate="20171205T133934Z">
-        <seg>"신고되지 않은" FOSS 사용을 발견하기 위해 소프트웨어 플랫폼에 대해 정기적으로 전체 스캔을 수행합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124009Z" creationid="Jang" creationdate="20171205T133934Z">
+        <seg>"신고되지 않은" FOSS 사용을 발견하기 위해 소프트웨어 플랫폼에 대해 정기적으로 전체 스캔을 수행한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,16 +1040,16 @@
       <tuv lang="EN-US">
         <seg>Conducting regular code audits</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T122746Z" creationid="Jang" creationdate="20171205T122746Z">
-        <seg>정기적인 코드 검사를 수행합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123412Z" creationid="Jang" creationdate="20171205T122746Z">
+        <seg>정기적인 코드 검사를 수행한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Conducting regular source code scans or audits for all the source code in the build environment.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T121049Z" creationid="Jang" creationdate="20171205T121049Z">
-        <seg>빌드 환경 내 모든 소스 코드에 대해 정기적인 소스 코드 스캔 및 검사를 수행합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123025Z" creationid="Jang" creationdate="20171205T121049Z">
+        <seg>빌드 환경 내 모든 소스 코드에 대해 정기적인 소스 코드 스캔 및 검사를 수행한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1088,8 @@
       <tuv lang="EN-US">
         <seg>Continuously running the dependency tracking tool over your build environment</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T122416Z" creationid="Jang" creationdate="20171205T122416Z">
-        <seg>빌드 환경에서 종속성 추적 도구를 지속적으로 실행합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123345Z" creationid="Jang" creationdate="20171205T122416Z">
+        <seg>빌드 환경에서 종속성 추적 도구를 지속적으로 실행한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,24 +1336,24 @@
       <tuv lang="EN-US">
         <seg>Do not check un-reviewed code into any internal source tree</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141613Z" creationid="Jang" creationdate="20171205T141453Z">
-        <seg>리뷰되지 않은 코드를 내부 소스 트리로 포함시키지 않습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124955Z" creationid="Jang" creationdate="20171205T141453Z">
+        <seg>리뷰되지 않은 코드를 내부 소스 트리로 포함시키지 않아야 한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Do not re-name FOSS components unless you are required to under the FOSS license (e.g., required renaming of modified versions)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141850Z" creationid="Jang" creationdate="20171205T141850Z">
-        <seg>FOSS 라이선스에 의해 요구 (예: 수정 버전의 이름 변경 요구)되지 않는한 FOSS 컴포넌트의 이름을 변경하지 않습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125033Z" creationid="Jang" creationdate="20171205T141850Z">
+        <seg>FOSS 라이선스에 의해 요구 (예: 수정 버전의 이름 변경 요구)되지 않는한 FOSS 컴포넌트의 이름을 변경하지 않아야 한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Do not remove or in any way disturb existing FOSS licensing copyrights or other licensing information from any FOSS components that you use.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141722Z" creationid="Jang" creationdate="20171205T141722Z">
-        <seg>사용하는 FOSS 컴포넌트의 기존 FOSS 라이선스 저작권 또는 라이선스 정보를 제거하거나 어떤 식으로든 건드리지 않습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125021Z" creationid="Jang" creationdate="20171205T141722Z">
+        <seg>사용하는 FOSS 컴포넌트의 기존 FOSS 라이선스 저작권 또는 라이선스 정보를 제거하거나 어떤 식으로든 훼손하지 않아야 한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,8 +1472,8 @@
       <tuv lang="EN-US">
         <seg>Engineering staff on the</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T133725Z" creationid="Jang" creationdate="20171205T133725Z">
-        <seg>이러한 유형의 실패는 회사의 FOSS 정책 및 프로세스에 대하여 엔지니어링 직원에게 교육을 제공함으로 방지할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123957Z" creationid="Jang" creationdate="20171205T133725Z">
+        <seg>이러한 유형의 실패는 회사의 FOSS 정책 및 프로세스에 대하여 엔지니어링 직원에게 교육을 제공함으로 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1496,8 @@
       <tuv lang="EN-US">
         <seg>Ensure that each new version of the same FOSS component is reviewed and approved</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142701Z" creationid="Jang" creationdate="20171205T142701Z">
-        <seg>동일한 FOSS 컴포넌트새로운 버전이 모두 검토되고 승인되었는지 확인합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125236Z" creationid="Jang" creationdate="20171205T142701Z">
+        <seg>동일한 FOSS 컴포넌트의 새로운 버전이 모두 검토되고 승인되었는지 확인한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1536,8 +1536,8 @@
       <tuv lang="EN-US">
         <seg>Evaluate your obligations for all of the software that will be included in your products</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T143108Z" creationid="Jang" creationdate="20171205T143108Z">
-        <seg>제품에 포함될 모든 소프트웨어에 대한 의무를 평가합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125331Z" creationid="Jang" creationdate="20171205T143108Z">
+        <seg>제품에 포함될 모든 소프트웨어에 대한 의무를 평가한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1752,8 +1752,8 @@
       <tuv lang="EN-US">
         <seg>FOSS training</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T134048Z" creationid="Jang" creationdate="20171205T134048Z">
-        <seg>FOSS 교육을 받는 것에 실패</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124028Z" creationid="Jang" creationdate="20171205T134048Z">
+        <seg>FOSS 교육의 실패</seg>
       </tuv>
     </tu>
     <tu>
@@ -1776,24 +1776,24 @@
       <tuv lang="EN-US">
         <seg>Failure by developers to seek approval</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T133610Z" creationid="Jang" creationdate="20171205T133610Z">
-        <seg>개발자가 FOSS 사용 승인을 구하지 않음으로 인한 실패</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123945Z" creationid="Jang" creationdate="20171205T133610Z">
+        <seg>개발자의 FOSS 사용 승인 신청 실패</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Failure to Provide Accompanying Source Code for FOSS Component Modifications</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T131736Z" creationid="Jang" creationdate="20171205T131736Z">
-        <seg>FOSS 컴포넌트 수정에 대한 동반하는 소스 코드 제공 실패</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123626Z" creationid="Jang" creationdate="20171205T131736Z">
+        <seg>FOSS 컴포넌트 수정에 대한 수반하는 소스 코드 제공 실패</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Failure to Provide Accompanying Source Code/appropriate license, attribution or notice information</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T130955Z" creationid="Jang" creationdate="20171205T123257Z">
-        <seg>동반하는 소스 코드 / 적절한 라이선스, 귀속에 관한 고지 또는 고지 정보의 제공 실패</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123602Z" creationid="Jang" creationdate="20171205T123257Z">
+        <seg>수반하는 소스 코드 / 적절한 라이선스, 귀속에 관한 고지 또는 고지 정보의 제공 실패</seg>
       </tuv>
     </tu>
     <tu>
@@ -1824,16 +1824,16 @@
       <tuv lang="EN-US">
         <seg>Failure to resolve</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T135453Z" creationid="Jang" creationdate="20171205T135453Z">
-        <seg>검사 결과를 해결하는 것에 실패</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124546Z" creationid="Jang" creationdate="20171205T135453Z">
+        <seg>검사상 발견사항의 해결 실패</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Failure to seek review of FOSS in a timely manner</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T135937Z" creationid="Jang" creationdate="20171205T135937Z">
-        <seg>FOSS에 대한 리뷰를 적절한 시기에 요구하는 것에 대한 실패</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124623Z" creationid="Jang" creationdate="20171205T135937Z">
+        <seg>FOSS리뷰의 적시 요구의 실패</seg>
       </tuv>
     </tu>
     <tu>
@@ -1888,8 +1888,8 @@
       <tuv lang="EN-US">
         <seg>Follow the developer guidelines for using FOSS software, particularly incorporating or linking FOSS code into proprietary or third party source code or vice versa</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142331Z" creationid="Jang" creationdate="20171205T142331Z">
-        <seg>FOSS 소프트웨어 사용에 대한, 특히, FOSS 코드를 독점 소스 코드 또는 제3자 소스 코드에 통합하거나 링킹하는 경우 등에 대한 개발자 가이드라인을 따릅니다. </seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125146Z" creationid="Jang" creationdate="20171205T142331Z">
+        <seg>FOSS 소프트웨어 사용에 대한, 특히, FOSS 코드를 독점 소스 코드 또는 제3자 소스 코드에 통합하거나 링킹하는 경우 등에 대한 개발자 가이드라인을 따른다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,32 +2056,32 @@
       <tuv lang="EN-US">
         <seg>Give an example of a compliance process failure.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141009Z" creationid="Jang" creationdate="20171205T141009Z">
-        <seg>컴플라이언스 프로세스의 실패 사례를 제시하십시오.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124906Z" creationid="Jang" creationdate="20171205T141009Z">
+        <seg>컴플라이언스 프로세스의 실패 사례를 제시하시오.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Give an example of a license compliance failure.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140955Z" creationid="Jang" creationdate="20171205T140948Z">
-        <seg>라이선스 컴플라이언스의 실패 사례를 제시하십시오.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124904Z" creationid="Jang" creationdate="20171205T140948Z">
+        <seg>라이선스 컴플라이언스의 실패 사례를 제시하시오.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Give an example of an intellectual property failure.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140931Z" creationid="Jang" creationdate="20171205T140931Z">
-        <seg>지적 재산권의 실패 사례를 제시하십시오.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124901Z" creationid="Jang" creationdate="20171205T140931Z">
+        <seg>지적 재산권의 실패 사례를 제시하시오.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Good relationships with the software communities may also be helpful for two-way communication: upstreaming improvements and getting support from the software developers.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140845Z" creationid="Jang" creationdate="20171205T140845Z">
-        <seg>소프트웨어 커뮤니티와의 좋은 관계는 양방향 커뮤니케이션에 도움이 될 수 있습니다: 업스트림 개선 및 소프트웨어 개발자로부터의 지원</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124814Z" creationid="Jang" creationdate="20171205T140845Z">
+        <seg>소프트웨어 커뮤니티와의 좋은 관계는 양방향 커뮤니케이션에 도움이 될 수 있다: 업스트림 개선 및 소프트웨어 개발자로부터의 지원</seg>
       </tuv>
     </tu>
     <tu>
@@ -2112,8 +2112,8 @@
       <tuv lang="EN-US">
         <seg>How can a new version of a previously-reviewed FOSS component create new compliance issues?</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T143757Z" creationid="Jang" creationdate="20171205T143757Z">
-        <seg>이전에 리뷰된 FOSS 컴포넌트의 새로운 버전이 어떻게 새로운 컴플라이언스 이슈를 야기할 수 있습니까?</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125414Z" creationid="Jang" creationdate="20171205T143757Z">
+        <seg>이전에 리뷰된 FOSS 컴포넌트의 새로운 버전이 어떻게 새로운 컴플라이언스 이슈를 야기할 수 있는가?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2224,8 +2224,8 @@
       <tuv lang="EN-US">
         <seg>If a FOSS project’s license changes, ensure that compliance records are updated and that the new license does not create a conflict</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142844Z" creationid="Jang" creationdate="20171205T142844Z">
-        <seg>FOSS 프로젝트의 라이선스가 변경되었다면, 컴플라이언스 기록을 업데이트하고 새로운 라이선스가 충돌을 일으키는지 확인합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125247Z" creationid="Jang" creationdate="20171205T142844Z">
+        <seg>FOSS 프로젝트의 라이선스가 변경되었다면, 컴플라이언스 기록을 업데이트하고 새로운 라이선스가 충돌을 일으키는지 확인한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2296,8 @@
       <tuv lang="EN-US">
         <seg>In addition, good relationships with FOSS organizations can be very helpful in advising on best way to be compliant and also help out if you experience a compliance issue.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140644Z" creationid="Jang" creationdate="20171205T140644Z">
-        <seg>또한 FOSS 조직과의 좋은 관계는 컴플라이언스에 대한 최선의 방법에 대해 조언을 받을때 매우 유용할 수 있으며, 컴플라이언스 이슈가 발생할 경우에도 도움이 됩니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124807Z" creationid="Jang" creationdate="20171205T140644Z">
+        <seg>또한 FOSS 조직과의 좋은 관계는 컴플라이언스에 대한 최선의 방법에 대해 조언을 받을때 매우 유용할 수 있으며, 컴플라이언스 이슈가 발생할 경우에도 도움이 된다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2440,8 +2440,8 @@
       <tuv lang="EN-US">
         <seg>In-bound software</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142958Z" creationid="Jang" creationdate="20171205T142951Z">
-        <seg>입수된 소프트웨어</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125314Z" creationid="Jang" creationdate="20171205T142951Z">
+        <seg>유입된 소프트웨어</seg>
       </tuv>
     </tu>
     <tu>
@@ -2456,8 +2456,8 @@
       <tuv lang="EN-US">
         <seg>Include time required to follow established FOSS policy in work plans</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142203Z" creationid="Jang" creationdate="20171205T142203Z">
-        <seg>근무 계획에 수립된 FOSS 정책을 준수하는데 필요한 시간을 포함시킵니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125136Z" creationid="Jang" creationdate="20171205T142203Z">
+        <seg>작업 계획에 수립된 FOSS 정책을 준수하는데 필요한 시간을 포함시킨다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2472,8 +2472,8 @@
       <tuv lang="EN-US">
         <seg>Including compliance in the employees performance review</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T134014Z" creationid="Jang" creationdate="20171205T134014Z">
-        <seg>직원 성과 리뷰에 컴플라이언스를 포함합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124021Z" creationid="Jang" creationdate="20171205T134014Z">
+        <seg>직원 성과 리뷰에 컴플라이언스를 포함한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,16 +3088,16 @@
       <tuv lang="EN-US">
         <seg>Name some general guidelines developers can practice when working with FOSS.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T143547Z" creationid="Jang" creationdate="20171205T143547Z">
-        <seg>개발자가 FOSS로 작업할 때 실행해야할 몇가지 일반적인 가이드라인을 나열하십시오.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125401Z" creationid="Jang" creationdate="20171205T143547Z">
+        <seg>개발자가 FOSS로 작업할 때 실행해야할 몇가지 일반적인 가이드라인을 나열하시오.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Name some important steps in a compliance process.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T143619Z" creationid="Jang" creationdate="20171205T143619Z">
-        <seg>컴플라이어스 프로세스의 중요한 단계를 나열하십시오.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125410Z" creationid="Jang" creationdate="20171205T143619Z">
+        <seg>컴플라이언스 프로세스의 중요한 단계를 나열하시오.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3216,40 +3216,40 @@
       <tuv lang="EN-US">
         <seg>Offering training to engineering staff</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T122751Z" creationid="Jang" creationdate="20171205T122734Z">
-        <seg>엔지니어링 직원에게 교육을 제공합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123410Z" creationid="Jang" creationdate="20171205T122734Z">
+        <seg>엔지니어링 직원에게 교육을 제공한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Offering training to engineering staff about compliance issues, the different types of FOSS licenses and the implications of including FOSS in proprietary source code</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T122126Z" creationid="Jang" creationdate="20171205T121032Z">
-        <seg>엔지니어링 직원에게 컴플라이언스 이슈, 다양한 유형의 FOSS 라이선스 및 FOSS를 독점 소스 코드에 포함시키는 의미에 대해 교육합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123022Z" creationid="Jang" creationdate="20171205T121032Z">
+        <seg>엔지니어링 직원에게 컴플라이언스 이슈, 다양한 유형의 FOSS 라이선스 및 FOSS를 독점 소스 코드에 포함시키는 의미에 대해 교육한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Offering training to engineering staff on the company's FOSS policies and processes</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T133958Z" creationid="Jang" creationdate="20171205T133958Z">
-        <seg>회사의 FOSS 정책 및 프로세스에 ㄷ해 엔지니어링 직원에게 교육을 제공합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124018Z" creationid="Jang" creationdate="20171205T133958Z">
+        <seg>회사의 FOSS 정책 및 프로세스에 대해 엔지니어링 직원에게 교육을 제공한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Offering training to engineering staff to avoid linking software components with licenses that conflict with you FOSS policies which will take a position on these legal risks</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T122326Z" creationid="Jang" creationdate="20171205T122326Z">
-        <seg>엔지니어링 직원들이 소프트웨어 컴포넌트를 이러한 법적 위험에 직면할 수 있는 FOSS 정책과 충돌하는 라이선스와 링킹하지 않도록 교육을 제공합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123338Z" creationid="Jang" creationdate="20171205T122326Z">
+        <seg>엔지니어링 직원들이 소프트웨어 컴포넌트를 FOSS정책과 충돌하는 라이선스와 링킹하여 이러한 법적 위험에 직면하지 않도록 교육을 제공한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Offering training to engineering staff to ensure they update copyright markings or license information of all FOSS or proprietary software that is going to be released to the public</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T133045Z" creationid="Jang" creationdate="20171205T133045Z">
-        <seg>엔지니어링 직원에게 대중에게 공개될 모든 FOSS 또는 독점 소프트웨어의 저작권 표시 또는 라이선스 정보가 업데이트 되는 것을 보장하기 위해 교육을 제공합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123752Z" creationid="Jang" creationdate="20171205T133045Z">
+        <seg>엔지니어링 직원에게 대중에게 공개될 모든 FOSS 또는 독점 소프트웨어의 저작권 표시 또는 라이선스 정보가 업데이트 되는 것을 보장하기 위해 교육을 제공한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,8 +3592,8 @@
       <tuv lang="EN-US">
         <seg>Preserve existing licensing information</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141548Z" creationid="Jang" creationdate="20171205T141548Z">
-        <seg>기존 라이선스 정보를 보존합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125004Z" creationid="Jang" creationdate="20171205T141548Z">
+        <seg>기존 라이선스 정보를 보존한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,8 +3640,8 @@
       <tuv lang="EN-US">
         <seg>Prioritizing compliance promotes:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140244Z" creationid="Jang" creationdate="20171205T140244Z">
-        <seg>컴플라이언스에 우선순위를 부여함으로 다음이 촉진됩니다.:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124726Z" creationid="Jang" creationdate="20171205T140244Z">
+        <seg>컴플라이언스에 우선순위를 부여함으로 다음이 촉진된다..:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,8 +3752,8 @@
       <tuv lang="EN-US">
         <seg>Providing the Incorrect Version of Accompanying Source Code</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T131004Z" creationid="Jang" creationdate="20171205T130552Z">
-        <seg>동반하는 소스 코드의 잘못된 버전 제공</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123609Z" creationid="Jang" creationdate="20171205T130552Z">
+        <seg>수반하는 소스 코드의 잘못된 버전 제공</seg>
       </tuv>
     </tu>
     <tu>
@@ -3864,16 +3864,16 @@
       <tuv lang="EN-US">
         <seg>Request formal approval for each FOSS component you are using</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141607Z" creationid="Jang" creationdate="20171205T141313Z">
-        <seg>사용중인 각 FOSS 컴포넌트에 대한 공식적인 승인을 요청합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124950Z" creationid="Jang" creationdate="20171205T141313Z">
+        <seg>사용중인 각 FOSS 컴포넌트에 대한 공식적인 승인을 신청한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Request formal approval for outside contributions to FOSS projects</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141616Z" creationid="Jang" creationdate="20171205T141539Z">
-        <seg>FOSS 프로젝트로의 외부 기여에 대해 공식 승인을 요청합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125001Z" creationid="Jang" creationdate="20171205T141539Z">
+        <seg>FOSS 프로젝트로의 외부 기여에 대해 공식 승인을 신청한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3960,8 +3960,8 @@
       <tuv lang="EN-US">
         <seg>Review architecture plans and avoid mixing components governed by incompatible FOSS licenses</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142427Z" creationid="Jang" creationdate="20171205T142427Z">
-        <seg>아키텍처 계획을 리뷰하여 호환되지 않는 FOSS 라이선스가 적용되는 컴포턴트가 혼합되는 것을 방지합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125200Z" creationid="Jang" creationdate="20171205T142427Z">
+        <seg>아키텍처 계획을 리뷰하여 호환되지 않는 FOSS 라이선스가 적용되는 컴포넌트가 혼합되는 것을 방지한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4032,16 +4032,16 @@
       <tuv lang="EN-US">
         <seg>Seek guidance</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141604Z" creationid="Jang" creationdate="20171205T141255Z">
-        <seg>안내를 요구합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124944Z" creationid="Jang" creationdate="20171205T141255Z">
+        <seg>안내를 요구한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Select code from high quality, well supported FOSS communities</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141553Z" creationid="Jang" creationdate="20171205T141251Z">
-        <seg>고품질이면서 FOSS 커뮤니티 지원이 잘 되는 코드를 선택합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124939Z" creationid="Jang" creationdate="20171205T141251Z">
+        <seg>고품질이면서 FOSS 커뮤니티 지원이 잘 되는 코드를 선택한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4056,8 +4056,8 @@
       <tuv lang="EN-US">
         <seg>Should you remove or alter FOSS license header information?</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T143607Z" creationid="Jang" creationdate="20171205T143607Z">
-        <seg>FOSS 라이선스 헤더 정보를 삭제하거나 변경해야 합니까?</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125407Z" creationid="Jang" creationdate="20171205T143607Z">
+        <seg>FOSS 라이선스 헤더 정보를 삭제하거나 변경해야 하는가?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4224,8 +4224,8 @@
       <tuv lang="EN-US">
         <seg>Take steps to understand what FOSS is included in software delivered by suppliers</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T143047Z" creationid="Jang" creationdate="20171205T143047Z">
-        <seg>공급업체가 제공하는 소프트웨어에 FOSS가 포함되었는지 알기 위한 단계를 수행합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125326Z" creationid="Jang" creationdate="20171205T143047Z">
+        <seg>공급업체가 제공하는 소프트웨어에 FOSS가 포함되었는지 파악하기 위한 조치를 수행한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4520,8 +4520,8 @@
       <tuv lang="EN-US">
         <seg>The legal effect of linking is subject to debate in the FOSS community.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T121530Z" creationid="Jang" creationdate="20171205T121530Z">
-        <seg>링킹의 법적 효력은 FOSS 커뮤니티에서 논쟁의 대상입니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123256Z" creationid="Jang" creationdate="20171205T121530Z">
+        <seg>링킹의 법적 효력은 FOSS 커뮤니티에서 논쟁의 대상이다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4872,8 +4872,8 @@
       <tuv lang="EN-US">
         <seg>This chapter will describe some potential pitfalls to avoid in the compliance process:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T115240Z" creationid="Jang" creationdate="20171205T115240Z">
-        <seg>이 장에서는 컴플라이어스 프로세스에서 피할 수 있는 잠재적인 함정들에 대해 설명합니다.:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T122740Z" creationid="Jang" creationdate="20171205T115240Z">
+        <seg>이 장에서는 컴플라이언스 프로세스에서 피해야 할 잠재적인 함정들에 대해 설명한다.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5128,16 +5128,16 @@
       <tuv lang="EN-US">
         <seg>This type of failure can be avoided</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140013Z" creationid="Jang" creationdate="20171205T140013Z">
-        <seg>이러한 유형의 실패는 엔지니어링 부서가 FOSS 소스 코드의 채택을 아직 결정하지 않았더라도 FOSS 리뷰 요청을 조기에 시작함으로써 방지할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124647Z" creationid="Jang" creationdate="20171205T140013Z">
+        <seg>이러한 유형의 실패는 엔지니어링 부서가 FOSS 소스 코드의 채택을 아직 결정하지 않았더라도 FOSS 리뷰 요청을 조기에 시작함으로써 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This type of failure can be avoided by</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T135757Z" creationid="Jang" creationdate="20171205T135757Z">
-        <seg>이러한 유형의 실패는 검사 보고서가 완료되지 않은 경우 컴플라이언스 티켓을 해결(i.e. Close)하지 못하게 함으로 방지할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124634Z" creationid="Jang" creationdate="20171205T135757Z">
+        <seg>이러한 유형의 실패는 검사 보고서가 완료되지 않은 경우 컴플라이언스 티켓을 해결(i.e. Close)하지 못하게 함으로 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5152,16 +5152,16 @@
       <tuv lang="EN-US">
         <seg>This type of failure can be avoided by making source code capture and publishing a checklist item in the product release cycle before the product becomes available in the market place.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T130621Z" creationid="Jang" creationdate="20171205T123312Z">
-        <seg>이러한 유형의 실패는 제품이 시장에 출시되기 전에 제품 출시 주기에 맞추어 소스 코드를 캡쳐하고 체크리스트 항목을 게시함으로 방지할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123607Z" creationid="Jang" creationdate="20171205T123312Z">
+        <seg>이러한 유형의 실패는 제품이 시장에 출시되기 전에 제품 출시 주기에 맞추어 소스 코드를 캡쳐하고 체크리스트 항목을 게시함으로 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This type of failure can be avoided by:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T132753Z" creationid="Jang" creationdate="20171205T132715Z">
-        <seg>이러한 유형의 실패는 다음과 같은 방법으로 방지할 수 있습니다:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123741Z" creationid="Jang" creationdate="20171205T132715Z">
+        <seg>이러한 유형의 실패는 다음과 같은 방법으로 방지할 수 있다:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5192,8 +5192,8 @@
       <tuv lang="EN-US">
         <seg>This type of failure occurs during the development process when engineers add FOSS code into source code that is intended to be proprietary in conflict with the FOSS policy.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T120821Z" creationid="Jang" creationdate="20171205T120559Z">
-        <seg>이러한 유형의 실패는 개발 프로세스 중에 엔지니어가 독점화를 위한 소스 코드에 FOSS 정책과 충돌하는 형태로 FOSS 코드를 추가할때 발생합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T122935Z" creationid="Jang" creationdate="20171205T120559Z">
+        <seg>이러한 유형의 실패는 개발 프로세스 중에 엔지니어가 FOSS정책에 위반하여 독점화할 소스 코드에 FOSS 코드를 추가할때 발생한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5312,16 +5312,16 @@
       <tuv lang="EN-US">
         <seg>Unplanned inclusion of copyleft FOSS into proprietary or 3rd party code:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T115916Z" creationid="Jang" creationdate="20171205T115916Z">
-        <seg>예기치않게 Copyleft FOSS를 독점 또는 제3자 코드에 포함:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T122922Z" creationid="Jang" creationdate="20171205T115916Z">
+        <seg>계획없이 Copyleft FOSS를 독점 또는 제3자 코드에 포함:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unplanned linking of copyleft FOSS and proprietary source code:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T121351Z" creationid="Jang" creationdate="20171205T121351Z">
-        <seg>Copyleft FOSS와 독점 소스 코드와의 예기치 않은 링킹:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123218Z" creationid="Jang" creationdate="20171205T121351Z">
+        <seg>Copyleft FOSS와 독점 소스 코드와의 계획하지 않은 링킹:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5424,8 +5424,8 @@
       <tuv lang="EN-US">
         <seg>Verify compliance on a product-by-product basis: Just because a FOSS package is approved for use in one product does not necessarily mean it will be approved for use in a second product</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142554Z" creationid="Jang" creationdate="20171205T142554Z">
-        <seg>제품별로 컴플라이언스 여부를 확인합니다: FOSS 패키지가 한 제품에서 사용하도록 승인되었다고 해서 반드시 두번째 제품에서도 사용하도록 승인된 것은 아닙니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125218Z" creationid="Jang" creationdate="20171205T142554Z">
+        <seg>제품별로 컴플라이언스 여부를 확인합니다: FOSS 패키지가 한 제품에서 사용하도록 승인되었다고 해서 반드시 두번째 제품에서도 사용하도록 승인된 것은 아니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5528,16 +5528,16 @@
       <tuv lang="EN-US">
         <seg>What are the benefits of maintaining a good community relationship?</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141047Z" creationid="Jang" creationdate="20171205T141047Z">
-        <seg>커뮤니티와 좋은 관계를 유지하는 것의 이점은 무엇입니까?</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124914Z" creationid="Jang" creationdate="20171205T141047Z">
+        <seg>커뮤니티와 좋은 관계를 유지하는 것의 이점은 무엇인가?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>What are the benefits of prioritizing compliance?</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141029Z" creationid="Jang" creationdate="20171205T141029Z">
-        <seg>컴플라이언스에 우선순위를 두는 것의 이점은 무엇입니까?</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124911Z" creationid="Jang" creationdate="20171205T141029Z">
+        <seg>컴플라이언스에 우선순위를 두는 것의 이점은 무엇인가?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5760,8 +5760,8 @@
       <tuv lang="EN-US">
         <seg>What risks should you address with in-bound software?</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171213T141930Z" creationid="Jang" creationdate="20171205T143838Z">
-        <seg>입수된 소프트웨어에 대하여 어떠한 위험에 대해 다뤄야 합니까?</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125427Z" creationid="Jang" creationdate="20171205T143838Z">
+        <seg>유입되는 소프트웨어에 대하여 어떠한 위험에 대해 다뤄야 하는가?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5792,8 +5792,8 @@
       <tuv lang="EN-US">
         <seg>What types of pitfalls can occur in FOSS compliance?</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140911Z" creationid="Jang" creationdate="20171205T140911Z">
-        <seg>FOSS 컴플라이언스에서 어떤 유형이 함정이 발생할 수 있습니까?</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124858Z" creationid="Jang" creationdate="20171205T140911Z">
+        <seg>FOSS 컴플라이언스에서 어떤 유형의 함정이 발생할 수 있는가?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5816,8 +5816,8 @@
       <tuv lang="EN-US">
         <seg>When you upgrade the version of a FOSS package, make sure that the license of the new version is the same as the license of the older used version (license changes can occur between version upgrades)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T142752Z" creationid="Jang" creationdate="20171205T142752Z">
-        <seg>FOSS 패키지의 버전을 업그레이드할때 새 버전의 라이선스가 이전에 사용된 버전의 라이선스와 동일한지 확인합니다.(버전 업그레이드간에 라이선스 변경이 발생할 수 있습니다.)</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T125244Z" creationid="Jang" creationdate="20171205T142752Z">
+        <seg>FOSS 패키지의 버전을 업그레이드할때 새 버전의 라이선스가 이전에 사용된 버전의 라이선스와 동일한지 확인한다.(버전 업그레이드간에 라이선스 변경이 발생할 수 있다.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5936,8 +5936,8 @@
       <tuv lang="EN-US">
         <seg>a result of linking software with conflicting or incompatible licenses.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T121645Z" creationid="Jang" creationdate="20171205T121645Z">
-        <seg>이러한 유형의 실패는 소프트웨어를 충돌하거나 호환되지 않는 라이선스와 링킹한 결과로 발생합니다. </seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123251Z" creationid="Jang" creationdate="20171205T121645Z">
+        <seg>이러한 유형의 실패는 소프트웨어를 충돌하거나 호환되지 않는 라이선스와 링킹한 결과로 발생합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5960,8 +5960,8 @@
       <tuv lang="EN-US">
         <seg>as required by the FOSS license (or providing information about modifications which has an insufficient level of detail or clarity to satisfy the license)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T132708Z" creationid="Jang" creationdate="20171205T132708Z">
-        <seg>FOSS 라이선스가 요구하는 대로 FOSS 소스 코드에 변경 사항을 표시하는 것에 실패 (또는 자세함과 명확성에 있어서 라이선스를 만족시키기에 불충분한 수준의 수정에 대한 정보 제공)</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123736Z" creationid="Jang" creationdate="20171205T132708Z">
+        <seg>FOSS 라이선스가 요구하는 대로 FOSS 소스 코드에 변경 사항을 표시하는 것의 실패 (또는 자세함과 명확성에 있어서 라이선스를 만족시키기에 불충분한 수준의 수정에 대한 정보 제공)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5976,8 +5976,8 @@
       <tuv lang="EN-US">
         <seg>avoided by ensuring that the</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T134747Z" creationid="Jang" creationdate="20171205T134306Z">
-        <seg>이러한 유형의 실패는 FOSS 교육이 직원의 전문 개발 계획의 일부임을 보장하고 성과 리뷰의 일환으로 완료 여부를 모니터링함으로써 방지할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124038Z" creationid="Jang" creationdate="20171205T134306Z">
+        <seg>이러한 유형의 실패는 FOSS 교육이 직원의 전문 개발 계획의 일부임을 보장하고 성과 리뷰의 일환으로 완료 여부를 모니터링함으로써 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5992,8 +5992,8 @@
       <tuv lang="EN-US">
         <seg>avoided by:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T121902Z" creationid="Jang" creationdate="20171205T121902Z">
-        <seg>이러한 유형의 실패는 다음과 같은 방법으로 피할 수 있습니다: </seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123015Z" creationid="Jang" creationdate="20171205T121902Z">
+        <seg>이러한 유형의 실패는 다음과 같은 방법으로 피할 수 있다: </seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,24 +6104,24 @@
       <tuv lang="EN-US">
         <seg>discovered by scanning or auditing the source code for possible</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T121821Z" creationid="Jang" creationdate="20171205T121821Z">
-        <seg>이러한 유형의 오류는 다음과 일치하는 소스 코드를 스캔하거나 검사하여 발견할 수 있습니다:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T122951Z" creationid="Jang" creationdate="20171205T121821Z">
+        <seg>이러한 유형의 오류는 다음과 일치하는 소스 코드를 스캔하거나 검사하여 발견할 수 있다:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>discovered using a</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T122023Z" creationid="Jang" creationdate="20171205T121933Z">
-        <seg>이러한 유형의 실패는 서로 다른 컴포넌트간의 링킹을 보여주는 종속성 추적 도구(dependency tracking tool)를 사용하여 발견할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123304Z" creationid="Jang" creationdate="20171205T121933Z">
+        <seg>이러한 유형의 실패는 서로 다른 컴포넌트간의 링킹을 보여주는 종속성 추적 도구(dependency tracking tool)를 사용하여 발견할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>discovered using the audits or scans&lt;t0/&gt; to identify and analyze the source code you introduced to the FOSS component.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T122711Z" creationid="Jang" creationdate="20171205T122711Z">
-        <seg>이러한 유형의 실패는 검사 또는 스캔을 사용하여 FOSS 컴포넌트에 도입한 소스 코드를 식별하고 분석하여 발견할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123401Z" creationid="Jang" creationdate="20171205T122711Z">
+        <seg>이러한 유형의 실패는 검사 또는 스캔을 사용하여 FOSS 컴포넌트에 도입한 소스 코드를 식별하고 분석하여 발견할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6224,32 +6224,32 @@
       <tuv lang="EN-US">
         <seg>prevented by implementing blocks in approvals in the FOSS compliance process</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T135915Z" creationid="Jang" creationdate="20171205T135915Z">
-        <seg>이런 유형의 실패는 FOSS 컴플라이언스 프로세스 내 승인 과정에서 블럭을 구현함으로써 예방할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124641Z" creationid="Jang" creationdate="20171205T135915Z">
+        <seg>이런 유형의 실패는 FOSS 컴플라이언스 프로세스 내 승인 과정에서 블럭을 구현함으로써 예방할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>prevented by mandating</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T134806Z" creationid="Jang" creationdate="20171205T134232Z">
-        <seg>이러한 유형의 실패는 엔지니어링 직원이 특정 날짜까지 FOSS 교육을 받도록 요구함으로써 예방할 수 있습니다. </seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124045Z" creationid="Jang" creationdate="20171205T134232Z">
+        <seg>이러한 유형의 실패는 엔지니어링 직원이 특정 날짜까지 FOSS 교육을 받도록 요구함으로써 예방할 수 있다. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>prevented by:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T133803Z" creationid="Jang" creationdate="20171205T133803Z">
-        <seg>이러한 유형의 오류는 다음과 같은 방법으로 예방할 수 있습니다:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124002Z" creationid="Jang" creationdate="20171205T133803Z">
+        <seg>이러한 유형의 오류는 다음과 같은 방법으로 예방할 수 있다:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>prevented through education</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T140051Z" creationid="Jang" creationdate="20171205T140051Z">
-        <seg>이러한 유형의 실패는 교육을 통해 예방할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T124652Z" creationid="Jang" creationdate="20171205T140051Z">
+        <seg>이러한 유형의 실패는 교육을 통해 예방할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6320,16 +6320,16 @@
       <tuv lang="EN-US">
         <seg>step into the compliance process to ensure that source code for modifications are published, rather than only the original source code for the FOSS component</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T131950Z" creationid="Jang" creationdate="20171205T131950Z">
-        <seg>이러한 유형의 실패는 FOSS 컴포넌트의 원본 소스 코드가 아닌 수정 소스 코드가 공개되고 있음을 보장하기 위한 확인 단계를 컴플라이언스 프로세스에 추가함으로 방지할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123633Z" creationid="Jang" creationdate="20171205T131950Z">
+        <seg>이러한 유형의 실패는 FOSS 컴포넌트의 원본 소스 코드가 아닌 수정 소스 코드가 공개되고 있음을 보장하기 위한 확인 단계를 컴플라이언스 프로세스에 추가함으로 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>step into the compliance process to ensure that the accompanying&lt;t0/&gt; source code for the binary version is being published.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T132002Z" creationid="Jang" creationdate="20171205T131131Z">
-        <seg>이러한 유형의 실패는 바이너리 버전에 맞는 동반하는 소스 코드가 공개되고 있음을 보장하기 위한 확인 단계를 컴플라이언스 프로세스에 추가함으로 방지할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20180525T123622Z" creationid="Jang" creationdate="20171205T131131Z">
+        <seg>이러한 유형의 실패는 바이너리 버전에 맞는 수반하는 소스 코드가 공개되고 있음을 보장하기 위한 확인 단계를 컴플라이언스 프로세스에 추가함으로 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
