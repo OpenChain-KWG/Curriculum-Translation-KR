@@ -1,6 +1,6 @@
 Requirement	요구사항
 Responsibility	책임
-Review	검토
+Review	리뷰
 Approve	승인
 Copyright	저작권
 License	라이선스
