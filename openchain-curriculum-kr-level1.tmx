@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A FOSS compliance program provides various benefits such as an increased understanding of how FOSS impacts your organization, an increased understanding of the costs and risks associated with FOSS, better relations with the FOSS community and increased knowledge of available FOSS solutions.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T144531Z" creationid="Jang" creationdate="20180528T144531Z">
+        <seg>FOSS 컴플라이언스 프로그램은 FOSS가 조직에 미치는 영향에 대한 이해 증진, FOSS와 관련된 비용 및 위험에 대한 이해 증진, FOSS 커뮤니티와의 관계 개선 및 사용 가능한 FOSS 솔루션에 대한 지식 증가와 같은 다양한 이점을 제공합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A complete list of OSI-approved licenses is available at http://www.opensource.org/licenses/</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T133045Z" creationid="Jang" creationdate="20170806T143053Z">
@@ -1118,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyleft-style licenses often have source availability obligations, which require you to provide accompanying source code when you distribute a binary version of a program or library.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T141937Z" creationid="Jang" creationdate="20180528T141937Z">
+        <seg>Copyleft 스타일 라이선스는 종종 프로그램이나 라이브러리의 바이너리 버전을 배포할 때 수반하는 소스 코드의 제공을 요구하는 소스 코드 제공 의무를 가지고 있습니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright Concepts in Software</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170804T141137Z" creationid="Jang" creationdate="20170804T141137Z">
@@ -1322,6 +1338,22 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171205T121057Z" creationid="Jang" creationdate="20171205T121057Z">
         <seg>발견</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disjunctive licensing may be something important to explore more deeply when creating a FOSS policy.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T132155Z" creationid="Jang" creationdate="20180528T132110Z">
+        <seg>선택형 (Disjunctive) 라이선싱은 FOSS 정책을 수립할 때 보다 깊게 탐구하는 것이 중요할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disjunctive = Choice of one open source license or another</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T132710Z" creationid="Jang" creationdate="20180528T131920Z">
+        <seg>선택형 (Disjunctive) = 하나의 오픈소스 라이선스를 선택합니다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133254Z" creationid="Jang" creationdate="20180528T133254Z">
+        <seg>예:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: BSD-3-Clause</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170806T143328Z" creationid="Jang" creationdate="20170806T143328Z">
@@ -1602,6 +1642,22 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T131014Z" creationid="Jang" creationdate="20171025T131014Z">
         <seg>예:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of copyleft-style licenses include GPL and LGPL.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T134236Z" creationid="Jang" creationdate="20180528T134236Z">
+        <seg>Copyleft 스타일의 라이선스 예로는 GPL 및 LGPL이 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of permissive FOSS licenses include MIT, BSD, and Apache.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133922Z" creationid="Jang" creationdate="20180528T133922Z">
+        <seg>Permissive FOSS 라이선스의 예로는 MIT, BSD 및 Apache가 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1734,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS Notices may include information about the identity of the copyright holders and the license governing the software.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142453Z" creationid="Jang" creationdate="20180528T142453Z">
+        <seg>FOSS 고지에는 저작권 소유자의 신원 및 소프트웨어를 관리하는 라이선스에 대한 정보가 포함될 수 있습니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Notices may provide notice about modifications.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142507Z" creationid="Jang" creationdate="20180528T142507Z">
+        <seg>FOSS 고지는 수정에 대한 고지를 제공할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS Policy</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170803T145333Z" creationid="Jang" creationdate="20170803T145333Z">
@@ -1726,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS compliance means following the licensing terms of FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T144109Z" creationid="Jang" creationdate="20180528T144109Z">
+        <seg>FOSS 컴플라이언스는 FOSS 라이선스의 라이선스 조항을 준수한다는 의미입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS developers often use the term “proprietary” to describe a commercial non-FOSS license, even though both FOSS and proprietary licenses are based on intellectual property and provide a license grant to that property</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T133119Z" creationid="Jang" creationdate="20170806T145102Z">
@@ -1738,6 +1818,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T135345Z" creationid="Jang" creationdate="20171114T135345Z">
         <seg>FOSS 식별</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licenses are Free and FOSS Software licenses generally make source code available under terms that allow for modification and redistribution.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133731Z" creationid="Jang" creationdate="20180528T133731Z">
+        <seg>FOSS 라이선스는 "Free"이고 FOSS 소프트웨어 라이선스는 일반적으로 수정 및 재배포가 허용되는 조건 하에 소스 코드를 제공합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, an open source software can be dual-licensed under MIT and GPLv2.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142345Z" creationid="Jang" creationdate="20180528T142345Z">
+        <seg>예를들어, 한 오픈 소스 소프트웨어가 MIT와 GPL-2.0의 듀얼 라이선스일 수 있습니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, how are FOSS and company components linked together?</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171206T141935Z" creationid="Jang" creationdate="20171206T141935Z">
@@ -1974,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more on dual-licensing as a business model: http://oss-watch.ac.uk/resources/duallicence2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133559Z" creationid="Jang" creationdate="20180528T133539Z">
+        <seg>비즈니스 모델로서 듀얼 라이선싱에 대한 자세한 내용은 다음 웹사이트를 참조하십시오: http://oss-watch.ac.uk/resources/duallicence2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For our example process, the steps include:</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171206T144604Z" creationid="Jang" creationdate="20171206T144604Z">
@@ -2002,6 +2106,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180524T144547Z" creationid="Jang" creationdate="20180524T144547Z">
         <seg>FOSS 커뮤니티 및 FOSS 조직과의 관계 강화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware and Shareware are not FOSS.The reason is that even though freeware and shareware are available without cost, they don't allow the users to make modifications to the software.In fact, many of the freeware and shareware contain similar license restrictions common in proprietary software.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142153Z" creationid="Jang" creationdate="20180528T142153Z">
+        <seg>프리웨어와 쉐어웨어는 FOSS가 아닙니다. 왜냐하면 프리웨어와 쉐어웨어는 비용 없이 사용할 수는 있지만, 사용자가 소프트웨어를 수정할 수 없도록 합니다. 사실 많은 프리웨어 및 쉐어웨어는 독점 소프트웨어와 유사한 라이선스 제한 사항이 포함되어 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,6 +2162,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T133517Z" creationid="Jang" creationdate="20180524T140758Z">
         <seg>GPL2.0과 EPL1.0은 배포되는 “2차적 저작물”에 자신의 의무를 확대한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GPL-2.0 project also includes code under BSD-3-Clause</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T131827Z" creationid="Jang" creationdate="20180528T131827Z">
+        <seg>GPL-2.0 프로젝트가 또한 BSD-3-Clause하의 코드를 포함합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identification of the origin and license of FOSS software</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T144408Z" creationid="Jang" creationdate="20180528T144408Z">
+        <seg>FOSS 소프트웨어의 출처 및 라이선스 식별</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identification of the origin and license of all internal and external software</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180524T144221Z" creationid="Jang" creationdate="20180524T144221Z">
@@ -2310,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they choose the license you weren’t going to use, now you might have to consider if you should figure out who the original © holder is and get the code directly from them</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133252Z" creationid="Jang" creationdate="20180528T133252Z">
+        <seg>그들이 선택한 라이선스가 당신이 사용하지 않을 라이선스라면, 귀하는 누가 원 저작권자인지 알아내서 그들로부터 직접 코드를 받아오는 것을 고려해야합니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have independently developed your own software, then you may not need a copyright license if you can show the independent development and you had no access to the copyrighted work in question.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T141617Z" creationid="Jang" creationdate="20180525T141617Z">
@@ -2398,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In that case, you are free to choose the license that suits your need.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142401Z" creationid="Jang" creationdate="20180528T142401Z">
+        <seg>이 경우, 귀하는 귀하의 필요에 맞는 라이선스를 자유롭게 선택할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the US public domain software can be included in FOSS code, but it should be noted that not all legal jurisdictions recognize the existence or permit the release of authorship under public domain.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T145217Z" creationid="Jang" creationdate="20180525T145217Z">
@@ -2466,6 +2610,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171206T141029Z" creationid="Jang" creationdate="20171206T141029Z">
         <seg>이 예에서 FOSS 리뷰팀은 엔지니어의 리뷰 요청, 내부 개발 및 제3자 소프트웨어의 스캔 수행  또는 개발 브랜치에 추가된 코드의 리뷰를 통해 FOSS 사용을 식별할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this situation you have to comply with both sets of license terms</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T131841Z" creationid="Jang" creationdate="20180528T131841Z">
+        <seg>이 경우, 두가지 라이선스 조항을 모두 준수해야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +2950,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It explains a little bit about derivative works.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143548Z" creationid="Jang" creationdate="20180528T143548Z">
+        <seg>2차적 저작물에 대해 약간 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It explains how compliance works from first principles.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142926Z" creationid="Jang" creationdate="20180528T142926Z">
+        <seg>컴플라이언스가 첫번째 원칙에서부터 어떻게 작동하는지 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It involves understanding the licenses, having processes to support the license terms, and having processes to address any oversights or errors.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T144151Z" creationid="Jang" creationdate="20180528T144151Z">
+        <seg>여기에는 라이선스를 이해하고, 라이선스 조항을 지원하는 프로세스가 있으며, 과실이나 오류를 처리하는 프로세스를 갖는 것을 포함합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a “term of art” meaning that it has a particular meaning based on the statute and not the dictionary definition</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T132905Z" creationid="Jang" creationdate="20170804T142151Z">
@@ -2970,6 +3146,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180524T141717Z" creationid="Jang" creationdate="20180524T141717Z">
         <seg>라이선스 고지 – 제품에 포함되는 FOSS의 라이선스 조건을 특정하고 인정하는 고지.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License reciprocity means that the derivative work of the copyrighted work must be made available under the same license.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T134207Z" creationid="Jang" creationdate="20180528T134200Z">
+        <seg>라이선스 상호주의는 저작권으로 보호되는 저작물의 2차적 저작물은 동일한 라이선스로 사용할 수 있어야 함을 의미합니다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3151,10 +3335,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mozilla tri-license</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T131933Z" creationid="Jang" creationdate="20180528T131933Z">
+        <seg>모질라 트라이 라이선스 (Tri-license)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-Licensing</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180524T141951Z" creationid="Jang" creationdate="20180524T141951Z">
         <seg>다중-라이선싱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multi-license refers to the practice where software is made available under multiple licenses.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142300Z" creationid="Jang" creationdate="20180528T142300Z">
+        <seg>다중 라이선스란 여러 라이선스 하에 소프트웨어를 사용할 수 있는 행위를 말합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3423,6 +3623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other names being used include "hereditary", "copyleft", "share-alike", and pejoratively"viral."</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T134209Z" creationid="Jang" creationdate="20180528T134209Z">
+        <seg>사용되는 다른 이름에는 "유전 (hereditary)", "Copyleft", "share-alike" 및 경멸하지만, "바이러스성 (viral)"이 포함됩니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other parties who want to use the technology may seek a patent license (which may grant rights to use, make, have made, sell, offer for sale, and import the technology)</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T132939Z" creationid="Jang" creationdate="20170804T150225Z">
@@ -3443,6 +3651,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180524T143258Z" creationid="Jang" creationdate="20180524T143258Z">
         <seg>기타 조건.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Others may require all the software described in the slide.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143337Z" creationid="Jang" creationdate="20180528T143337Z">
+        <seg>다른 라이선스는 슬라이드에 설명된 모든 소프트웨어를 요구할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4231,6 +4447,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some licenses may require source code availability for only the FOSS software.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143253Z" creationid="Jang" creationdate="20180528T143253Z">
+        <seg>일부 라이선스는 단지 FOSS 소프트웨어에 대해서만 소스 코드 입수 가능성을 요구합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some licenses require that FOSS Notices be retained or reproduced for attribution purposes.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142745Z" creationid="Jang" creationdate="20180528T142548Z">
+        <seg>일부 라이선스는 저작자 고지 목적으로 FOSS 고지 사항을 유지하거나 복제할 것을 요구합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some licenses require that if derivative works (or software in the same file, same program or other boundary) are distributed, the distribution is under the same terms as the original work</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T133100Z" creationid="Jang" creationdate="20170806T143909Z">
@@ -4243,6 +4475,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T151102Z" creationid="Jang" creationdate="20171109T151102Z">
         <seg>때로는 FOSS 사용 시나리오가 FOSS 리뷰팀에게 명확하지 않을 수도 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes a project has a disjunctive licensing situation, but only one license is included in your code – so perhaps the person you got the code from already made this choice.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133123Z" creationid="Jang" creationdate="20180528T133123Z">
+        <seg>때때로 프로젝트가 선택형 라이선싱 상황이지만, 귀하의 코드에 하나의 라이선스만 포함되어 있는 경우도 있습니다. - 아마도 당신이 얻은 코드를 제공한 사람이 이미 이 선택을 하였을 것입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4623,6 +4863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first is to know your obligations and have a process to support this knowledge.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143102Z" creationid="Jang" creationdate="20180528T143102Z">
+        <seg>첫째는 귀하의 의무를 알고 이 지식을 뒷받침하는 프로세스를 갖추는 것입니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first pitfall described in this slide arises where copyleft-style licensed FOSS is inadvertently mixed with proprietary code.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171212T150106Z" creationid="Jang" creationdate="20171212T150106Z">
@@ -4863,6 +5111,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The scope of source code availability is determined by the FOSS license.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143226Z" creationid="Jang" creationdate="20180528T143226Z">
+        <seg>소스 코드 입수 가능성의 범위는 FOSS 라이선스에 의해 결정됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second is to satisfy the obligations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143130Z" creationid="Jang" creationdate="20180528T143130Z">
+        <seg>둘째는 의무를 충족시키는 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second pitfall arises where a company provides accompanying source code, but fails to provide the correct version that matches the distributed binary version.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171212T151340Z" creationid="Jang" creationdate="20171212T151340Z">
@@ -4883,6 +5147,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T133125Z" creationid="Jang" creationdate="20170806T145611Z">
         <seg>소스 코드가 사용 가능하거나 사용 가능하지 않을 수 있으며, 파생 저작물 생성은 일반적으로 제한된다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source code should be of the same version and content that corresponds to the binary version you distribute.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T141956Z" creationid="Jang" creationdate="20180528T141956Z">
+        <seg>소스 코드는 배포하는 바이너리 버전과 동일한 버전 및 내용이어야 합니다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4931,6 +5203,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180524T154023Z" creationid="Jang" creationdate="20171121T145806Z">
         <seg>추적 시스템은 새로운 버전의 FOSS 컴포넌트에 대해서나 새로운 사용 모델이 제안되는 경우는 새로운 승인이 필요하다는 점을 명확히 해야 한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The two main goals of a FOSS compliance program are know your obligations and to satisfy your obligations.The important business practices of a FOSS compliance program include:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T144354Z" creationid="Jang" creationdate="20180528T144354Z">
+        <seg>FOSS 컴플라이언스 프로그램의 두가지 주요 목표는  귀하의 의무를 이해하고   의무를 이행하는 것입니다.FOSS 컴플라이언스 프로그램의 중요한 비지니스 행위에는 다음이 포함됩니다.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5047,6 +5327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter covers the big picture of FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T142826Z" creationid="Jang" creationdate="20180528T142826Z">
+        <seg>이 장에서는 FOSS 컴플라이언스의 큰 그림을 다룹니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This chapter describes a “FOSS Review” process in which FOSS usage is analyzed and the relevant obligations are determined</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171028T145838Z" creationid="Jang" creationdate="20171028T145838Z">
@@ -5151,6 +5439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the situation where more than set of license terms can apply to a piece of software.Conjunctive = Multiple licenses apply</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T132702Z" creationid="Jang" creationdate="20180528T131802Z">
+        <seg>여러 라이선스 조항이 하나의 소프트웨어에 적용될 수 있는 상황입니다..결합형 (Conjunctive) =여러 라이선스가 적용됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This may be discovered through auditing source code for license notices or using code scanning tools.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171212T150234Z" creationid="Jang" creationdate="20171212T150234Z">
@@ -5247,6 +5543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide describes some of the benefits that compliance brings to an organization beyond the fact of fulfilling the legal obligations of the license.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T144022Z" creationid="Jang" creationdate="20180528T144022Z">
+        <seg>이 슬라이드는 컴플라이언스가 라이선스 법적 의무를 이행한다는 사실을 넘어서 조직에 제공하는 몇 가지 이점에 대해 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This slide describes the definition of compliance management and its end goals.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171206T135233Z" creationid="Jang" creationdate="20171206T135233Z">
@@ -5263,10 +5567,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide expands on what compliance obligations must be satisfied in typical FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143210Z" creationid="Jang" creationdate="20180528T143210Z">
+        <seg>이 슬라이드는 일반적인 FOSS 라이선스에서 충족되어야 하는 컴플라이언스 의무를 설명합니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains how FOSS compliance programs work in “broad strokes” (a basic overview).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143758Z" creationid="Jang" creationdate="20180528T143758Z">
+        <seg>이 슬라이드는 FOSS 컴플라이언스 프로그램이 어떻게 작동하는지 기본 개요를 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This slide explains license compatibility, the way of understanding what licenses can be used together.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T145254Z" creationid="Jang" creationdate="20180525T145254Z">
         <seg>이 슬라이드에서는 라이선스 양립가능성, 함께 사용할 수 있는 라이선스를 이해하는 방법에 대해 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains more about how FOSS compliance practices can work in an organization.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143944Z" creationid="Jang" creationdate="20180528T143944Z">
+        <seg>이 슬라이드는 조직에서의 FOSS 컴플라이언스 실행 방식에 대해 설명합니다.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5319,6 +5647,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide explains that FOSS compliance is really a two-part goal.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143009Z" creationid="Jang" creationdate="20180528T143009Z">
+        <seg>이 슬라이드는 FOSS 컴플라이언스가 실제 두 부분으로 구성된 목표임을 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains that modifying code can impose obligations under FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143531Z" creationid="Jang" creationdate="20180528T143531Z">
+        <seg>이 슬라이드는 코드 수정이 FOSS 라이선스 하에서 의무를 부과할 수 있음을 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This slide explains the big picture of what Open Source code scanning tools are, how they work, and where a new user can start to gather knowledge about the subject.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171109T150950Z" creationid="Jang" creationdate="20171109T150950Z">
@@ -5339,6 +5683,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T140837Z" creationid="Jang" creationdate="20180525T140837Z">
         <seg>이 슬라이드는 "라이선스"가 무엇인지 설명합니다. 이는 미국 법상의 계약과 다릅니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains when FOSS obligations are “triggered.” FOSS licenses are copyright licenses and the basic compliance trigger is when you distribute code to another legal entity.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T143456Z" creationid="Jang" creationdate="20180528T143456Z">
+        <seg>이 슬라이드는 FOSS 의무가 "발생"되는 경우를 설명합니다. FOSS 라이선스는 저작권 라이선스이며 기본 컴플라이언스 의무 발생 시기는 코드를 다른 주체에게 배포할때입니다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5411,6 +5763,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171213T135047Z" creationid="Jang" creationdate="20171213T135047Z">
         <seg>이 슬라이드는 컴플라이언스 프로세스 요구사항을 어떻게 예측하는지에 대해 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides explains multi-licensing.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T131326Z" creationid="Jang" creationdate="20180528T131326Z">
+        <seg>이 슬라이드는 다중 라이선싱에 대해 설명합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5671,6 +6031,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typical obligations of a permissive FOSS license are that the copyright notice and warranty disclaimer are included with the software.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133917Z" creationid="Jang" creationdate="20180528T133846Z">
+        <seg>Permissive FOSS 라이선스의 일반적인 의무는 저작권 고지 및 보증 면책 조항을 소프트웨어에 포함하는 것입니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under disjunctive licensing you have a choice of licensing, i.e. GPL and a more permissive license option, you may choose which license you are going to distribute under depending on license compatibility, license requirements.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T132452Z" creationid="Jang" creationdate="20180528T132152Z">
+        <seg>선택형 라이선싱하에서는 라이선스를 선택(즉, GPL 및 보다 permissive한 라이선스 옵션)할 수 있으므로, 라이선스 양립가능성, 라이선스 요구사항에 따라 배포할 라이선스를 선택할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under some FOSS licenses, modifications may cause additional obligations upon distribution, such as:</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20180525T133651Z" creationid="Jang" creationdate="20180524T143830Z">
@@ -5867,6 +6243,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171025T142222Z" creationid="Jang" creationdate="20171025T142222Z">
         <seg>버전</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very often, the license would expressly prohibits users from using the author's name without permission.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133920Z" creationid="Jang" creationdate="20180528T133906Z">
+        <seg>매우 자주, 이 라이선스는 사용자가 허가없이 저자의 이름을 사용하는 것을 명시적으로 금지합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6763,6 +7147,14 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20171114T141201Z" creationid="Jang" creationdate="20171114T141201Z">
         <seg>– 그리고 –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“dual” = confusing term that may be used for any of these situations, but usually refers to business model of OSS license or commercial license choice</seg>
+      </tuv>
+      <tuv lang="KO" changeid="Jang" changedate="20180528T133541Z" creationid="Jang" creationdate="20180528T133525Z">
+        <seg>“듀얼” = 혼란스러운 용어로 어떤 상황에서도 사용될 수 있지만, 일반적으로 OSS 라이선스와 상용 라이선스 선택의 비즈니스 모델을 나타냅니다.</seg>
       </tuv>
     </tu>
     <tu>
