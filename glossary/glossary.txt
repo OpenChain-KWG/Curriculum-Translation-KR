@@ -89,7 +89,6 @@ copyright law	저작권법
 CHAPTER	장
 modification	수정
 redistribution	재배포
-attributions	귀속에 관한 고지
 copyright statement	저작권 표시
 set	집합
 Example	예
@@ -179,3 +178,4 @@ Dissemination	전파
 Application	애플리케이션
 mobile device	모바일 기기
 JavaScript	자바스크립트
+Disjunctive	선택형
