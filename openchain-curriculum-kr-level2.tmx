@@ -4617,8 +4617,20 @@
       <tuv xml:lang="EN-US">
         <seg>Templates such as these may be created by engineering teams to help educate the FOSS review team about planned FOSS usage.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20171206T142132Z" creationid="Jang" creationdate="20171206T142132Z">
-        <seg>이러한 템플릿은 계획된 FOSS 사용에 대해 FOSS 리뷰팀을 교육하는데 도움을 주기 위해 엔지니어링팀에서 만들 수 있습니다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20180531T114535Z" creationid="Jang" creationdate="20171206T142132Z">
+        <seg>이러한 템플릿은 계획된 FOSS 사용에 대해 FOSS 리뷰팀을 교육하는데 도움을 주기 위해 엔지니어링팀에서 만들 수 있습니다.
+
+(역자주)
+1. Function call (함수 호출) : 제어권을 다음 함수로 넘기는 호출이다. (일반적으로 원 저작물과 Function call로 연결되는 소프트웨어는 원저작물의 2차적 저작물로 간주된다.)
+
+2. Socket interface (소켓 인터페이스) : 네트워크 소켓(network socket)은 컴퓨터 네트워크를 경유하는 프로세스 간 통신의 종착점이다. (일반적으로 원 저작물과 소켓 인터페이스를 통해 통신을 하는 소프트웨어는 2차적 저작물로 간주되지 않는다.)
+
+3. System call (시스템 호출) : 운영 체제의 커널이 제공하는 서비스에 대해, 응용 프로그램의 요청에 따라 커널에 접근하기 위한 인터페이스이다. GPL-2.0인 리눅스 커널을 시스템 콜 인터페이스로 접근하여 사용하는 응용 프로그램은 리눅스 커널의 2차적 저작물로 간주되지 않는다.
+
+4. Shared headers (공유 헤더) :  라이브러리는 소프트웨어를 개발할 때 컴퓨터 프로그램이 사용하는 비휘발성 자원의 모임이며, 공유 라이브러리는 공유될 목적으로 만들어진 라이브러리이다. 공유 헤더는 한 소프트웨어에서 공유 라이브러리를 사용하기 위한 인터페이스를 제공한다. (일반적으로 공유 헤더를 통해 LGPL 라이브러리를 사용하는 소프트웨어의 경우, LGPL의 2차적 저작물로 간주되지 않는다. 하지만, GPL 라이브러리를 공유 헤더를 통해 사용하는 소프트웨어는 GPL의 2차적 저작물로 간주된다.)
+
+
+</seg>
       </tuv>
     </tu>
     <tu>
