@@ -1,4 +1,4 @@
-**** Maintainer
+*** Maintainer
 
 | Name | Company | Email |
 |--|--|--|
@@ -6,7 +6,7 @@
 | Jongbaek Park | BKL | jb.park@bkl.co.kr |
 
 
-**** Contributor(s):
+*** Contributor(s):
 
 | Name | Company | Email |
 |--|--|--|
