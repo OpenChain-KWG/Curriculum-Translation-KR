@@ -3969,8 +3969,8 @@
       <tuv lang="EN-US">
         <seg>Prioritizing compliance promotes:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T124726Z" creationid="Jang" creationdate="20171205T140244Z">
-        <seg>컴플라이언스에 우선순위를 부여함으로 다음이 촉진된다..:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T154156Z" creationid="Jang" creationdate="20171205T140244Z">
+        <seg>컴플라이언스에 우선순위를 부여함으로 다음이 촉진된다 :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5453,8 +5453,8 @@
       <tuv lang="EN-US">
         <seg>This is the situation where more than set of license terms can apply to a piece of software.&lt;t0/&gt;Conjunctive&lt;t1/&gt; = Multiple licenses apply</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180528T132702Z" creationid="Jang" creationdate="20180528T131802Z">
-        <seg>여러 라이선스 조항이 하나의 소프트웨어에 적용될 수 있는 상황입니다..&lt;t0/&gt;결합형 (Conjunctive)&lt;t1/&gt; =여러 라이선스가 적용됩니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T154205Z" creationid="Jang" creationdate="20180528T131802Z">
+        <seg>여러 라이선스 조항이 하나의 소프트웨어에 적용될 수 있는 상황입니다.&lt;t0/&gt;결합형 (Conjunctive)&lt;t1/&gt; =여러 라이선스가 적용됩니다.</seg>
       </tuv>
     </tu>
     <tu>
