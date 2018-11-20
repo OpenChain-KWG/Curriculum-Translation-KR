@@ -10,7 +10,7 @@ Conformance	준수
 Introduction	소개
 Definition	정의
 artifacts	결과물
-organization	조직
+organization	기관
 Disclaimer	면책
 policy	정책
 process	프로세스
@@ -104,7 +104,7 @@ Translation	번역
 Integrating	통합
 Merging	병합
 Pasting	붙여넣기
-Adapting	개작	Adapting
+Adapting	각색
 Inserting	삽입
 Pairing	페어링
 Combining	결합
@@ -138,7 +138,7 @@ Registration	등록
 Notice	고지
 verification	검증
 Outcome	결과
-issue	문제
+issue	이슈
 template	템플릿
 report	보고서
 Proprietary	독점
@@ -146,7 +146,7 @@ Legend	범례
 User Space	사용자 영역
 Kernel Space	커널 영역
 Architecture	아키텍처
-accompanying	수반하는
+accompanying	동반하는
 Avoidance	방지
 staff	직원
 end to end	전과정
@@ -179,3 +179,5 @@ Application	애플리케이션
 mobile device	모바일 기기
 JavaScript	자바스크립트
 Disjunctive	선택형
+term of art	전문 용어
+attribution or notice information	고지 정보

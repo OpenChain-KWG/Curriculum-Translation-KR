@@ -208,8 +208,8 @@
       <tuv lang="EN-US">
         <seg>The FOSS license may restrict use of the copyright holder name or trademark, may require modified versions to use a different name to avoid confusion, or may terminate upon any breach.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133638Z" creationid="Jang" creationdate="20180524T143322Z">
-        <seg>FOSS 라이선스는  저작권자의 이름이나 상표의 사용을 제한할 수 있고  수정 버전은 혼란을 피하기 위하여 다른 이름을 사용할 것을 요구하거나 위반이 있을 때 해지될 수 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144738Z" creationid="Jang" creationdate="20180524T143322Z">
+        <seg>FOSS 라이선스는  저작권자의 이름이나 상표의 사용을 제한할 수 있고 혼란을 피하기 위하여 수정버전에는 다른 이름을 사용할 것을 요구하거나, 모든 위반시에 해지될 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>A developer may link or join a FOSS component with your software product.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133746Z" creationid="Jang" creationdate="20171025T130700Z">
-        <seg>개발자는 귀하의 FOSS 컴포넌트를 소프트웨어 제품과 링크하거나 연결할 수 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145144Z" creationid="Jang" creationdate="20171025T130700Z">
+        <seg>개발자는 FOSS 컴포넌트를 귀하의 소프트웨어 제품과 링크하거나 연결할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>A patent application must be made in a specific jurisdiction in order to obtain a patent in that country. If a patent is awarded, the owner has the right to stop anybody from exercising its functionality, regardless of independent creation</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T132936Z" creationid="Jang" creationdate="20170804T150101Z">
-        <seg>해당 국가에서 특허를 얻기 위해서는 특정 관할 국가에서 특허 신청을 해야함. 특허가 부여되면 소유자는 독립적인 창작에 의한 것인지에 상관없이 누구나 그 기능을 행사하지 못하게 금지할 권리가 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144045Z" creationid="Jang" creationdate="20170804T150101Z">
+        <seg>해당 국가에서 특허를 얻기 위해서는 특정 관할 국가에서 특허 신청을 해야한다. 특허가 부여되면 독립적인 창작에 의한 것인지에 상관없이 특허소유자는 모든 사람에게 그 기능을 행사하지 못하게 할 권리가 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="EN-US">
         <seg>Accompanying Source Code Distribution</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T154654Z" creationid="Jang" creationdate="20171206T145540Z">
-        <seg>해당 수반 소스 코드 배포</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145526Z" creationid="Jang" creationdate="20171206T145540Z">
+        <seg>동반 소스 코드 배포</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,16 +408,16 @@
       <tuv lang="EN-US">
         <seg>Accompanying source code distribution</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T154923Z" creationid="Jang" creationdate="20171122T144749Z">
-        <seg>수반 소스 코드 배포</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T152008Z" creationid="Jang" creationdate="20171122T144749Z">
+        <seg>동반 소스 코드 배포</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Accompanying source code is identified with labels as to which product and version to which it corresponds</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T154629Z" creationid="Jang" creationdate="20171122T143622Z">
-        <seg>수반 소스 코드는 해당하는 어느 제품 및 버전에 대한 레이블로 식별된다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145507Z" creationid="Jang" creationdate="20171122T143622Z">
+        <seg>동반 소스 코드는 해당하는 어느 제품 및 버전에 대한 레이블로 식별된다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="EN-US">
         <seg>Adapting</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171109T144245Z" creationid="Jang" creationdate="20171025T130613Z">
-        <seg>개작 (Adapting)</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145111Z" creationid="Jang" creationdate="20171025T130613Z">
+        <seg>각색 (Adapting)</seg>
       </tuv>
     </tu>
     <tu>
@@ -456,8 +456,8 @@
       <tuv lang="EN-US">
         <seg>Adding source code modification marking as a verification step before releasing the source code</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T123744Z" creationid="Jang" creationdate="20171205T132916Z">
-        <seg>소스 코드를 공개하기 전 확인 단계에 소스 코드 수정 표시 과정을 추가한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145954Z" creationid="Jang" creationdate="20171205T132916Z">
+        <seg>소스 코드를 배포하기 전 확인 단계에 소스 코드 수정 표시 과정을 추가한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="EN-US">
         <seg>Attribution and Notices. You may need to provide or retain copyright and license text in the source code and/or product documentation or user interface, so that downstream users know the origin of the software and their rights under the licenses.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133621Z" creationid="Jang" creationdate="20180524T142750Z">
-        <seg>출처와 고지. 귀하는 소스코드 및/또는 제품 문서 또는 사용자 인터페이스에 저작권과 라이선스 본문을 제공하거나 유지해서, 하위 사용자들이 소프트웨어의 출처와 라이선스하의 자신들의 권리를 할 수 있도록 할 필요가 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144618Z" creationid="Jang" creationdate="20180524T142750Z">
+        <seg>출처와 고지. 귀하는 하위 사용자들이 소프트웨어의 출처와 라이선스하의 자신들의 권리를 알 수 있도록  소스코드 및/또는 제품 문서 또는 사용자 인터페이스에 저작권과 라이선스 본문을 제공하거나 유지할 필요가 있다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>Audits or scans are performed iteratively based on the software development and release lifecycles</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T153344Z" creationid="Jang" creationdate="20171114T143836Z">
-        <seg>검사 또는 스캔은 소프트웨어 개발 및 출시 주기에따라 반복적으로 수행됨.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145317Z" creationid="Jang" creationdate="20171114T143836Z">
+        <seg>검사 또는 스캔은 소프트웨어 개발 및 출시 주기에 따라 반복적으로 수행됨.</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>Because FOSS licenses usually apply during distribution, this is a key point to consider in a compliance program.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171025T134700Z" creationid="Jang" creationdate="20171025T134700Z">
-        <seg>FOSS 라이선스는 일반적으로 배포할때 적용되므로 컴플라이언스 프로그램에서 고려해야할 핵심 사항입니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150251Z" creationid="Jang" creationdate="20171025T134700Z">
+        <seg>FOSS 라이선스는 일반적으로 배포할 때 적용되므로 컴플라이언스 프로그램에서 고려해야할 핵심 사항입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,8 +1128,8 @@
       <tuv lang="EN-US">
         <seg>Copyleft-style licenses often have source availability obligations, which require you to provide accompanying source code when you distribute a binary version of a program or library.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180528T141937Z" creationid="Jang" creationdate="20180528T141937Z">
-        <seg>Copyleft 스타일 라이선스는 종종 프로그램이나 라이브러리의 바이너리 버전을 배포할 때 수반하는 소스 코드의 제공을 요구하는 소스 코드 제공 의무를 가지고 있습니다. </seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T152024Z" creationid="Jang" creationdate="20180528T141937Z">
+        <seg>Copyleft 스타일 라이선스는 종종 프로그램이나 라이브러리의 바이너리 버전을 배포할 때 동반하는 소스 코드의 제공을 요구하는 소스 코드 제공 의무를 가지고 있습니다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1144,8 @@
       <tuv lang="EN-US">
         <seg>Copyright Rights Most Relevant to Software</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T133356Z" creationid="Jang" creationdate="20170804T141725Z">
-        <seg>소프트웨어와 밀접한 관련이있는 저작권상의 권리</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T143840Z" creationid="Jang" creationdate="20170804T141725Z">
+        <seg>소프트웨어와 밀접한 관련있는 저작권상의 권리</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,8 +1312,8 @@
       <tuv lang="EN-US">
         <seg>Different legal jurisdictions may have different legal requirements.This should be taken into account when using these slides as part of a compliance training program.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T131704Z" creationid="Jang" creationdate="20170803T143450Z">
-        <seg>법적 관할국가에 따라 법적 요구 사항이 달라질 수 있음.이 슬라이드를 컴플라이언스 교육 프로그램의 일부로 사용할 때는이 점을 고려하여야 함.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150643Z" creationid="Jang" creationdate="20170803T143450Z">
+        <seg>법적 관할국에 따라 법적 요구 사항이 달라질 수 있음.이 슬라이드를 컴플라이언스 교육 프로그램의 일부로 사용할 때는이 점을 고려하여야 함.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1376,8 @@
       <tuv lang="EN-US">
         <seg>Distribution is generally viewed as the provision of a copy of a piece of software,in binary or source code form, to another entity (an individual or organization outsideyour company or organization)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T132915Z" creationid="Jang" creationdate="20170804T143040Z">
-        <seg>배포는 일반적으로 바이너리 또는 소스 코드 형식의 소프트웨어 사본을 다른 엔터티 (회사 또는 조직 외부의 개인 또는 조직)에게 제공하는 것으로 간주된다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T143945Z" creationid="Jang" creationdate="20170804T143040Z">
+        <seg>배포는 일반적으로 바이너리 또는 소스 코드 형식의 소프트웨어 사본을 다른 주체 (회사 또는 조직 외부의 개인 또는 조직)에게 제공하는 것으로 간주된다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,8 +1584,8 @@
       <tuv lang="EN-US">
         <seg>Evaluate your obligations for all of the software that will be included in your products</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T125331Z" creationid="Jang" creationdate="20171205T143108Z">
-        <seg>제품에 포함될 모든 소프트웨어에 대한 의무를 평가한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150328Z" creationid="Jang" creationdate="20171205T143108Z">
+        <seg>귀사의 제품에 포함될 모든 소프트웨어에 관한 귀사의 모든 의무를 평가한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1808,8 +1808,8 @@
       <tuv lang="EN-US">
         <seg>FOSS developers often use the term “proprietary” to describe a commercial non-FOSS license, even though both FOSS and proprietary licenses are based on intellectual property and provide a license grant to that property</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133119Z" creationid="Jang" creationdate="20170806T145102Z">
-        <seg>FOSS 및 독점 라이선스가 모두 지적 재산을 기반으로 하고 해당 자산에 라이선스 부여를 제공함에도, FOSS개발자들은 상업적 비 FOSS 라이선스를 설명하기 위해 종종 "독점"이라는 용어를 사용한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144344Z" creationid="Jang" creationdate="20170806T145102Z">
+        <seg>FOSS라이선스 및 독점 라이선스가 모두 지적 재산을 기반으로 하고 해당 자산에 대한 라이선스를 부여함에도, FOSS개발자들은 상업적 비 FOSS 라이선스를 설명하기 위해 종종 "독점"이라는 용어를 사용한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1840,16 +1840,16 @@
       <tuv lang="EN-US">
         <seg>FOSS licenses may also require the placement of notices in or alongside source code or documentation to give credit to the author (an attribution) or to make it clear the software includes modifications.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133537Z" creationid="Jang" creationdate="20180524T141531Z">
-        <seg>FOSS 라이선스는 또한 저작자에게 크레딧을 주거나 소프트웨어가 수정 내용을 포함함을 명백히 하기 위하여 고지문구를 소스코드 안에 또는 그와 병행하여 위치시킬 것을 요구할 수 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144444Z" creationid="Jang" creationdate="20180524T141531Z">
+        <seg>FOSS 라이선스는 또한 저작자에게 크레딧을 주거나 소프트웨어가 수정 내용을 포함함을 명백히 하기 위하여 고지문구를 소스코드 안에 또는 소스코드와 병행하여 위치시킬 것을 요구할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FOSS licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133035Z" creationid="Jang" creationdate="20170806T142829Z">
-        <seg>FOSS 라이선스는 귀속에 관한 고지 제공, 저작권 표시 보존 또는 소스 코드 제공 서면 청약과 관련된 조건을 가질 수 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144238Z" creationid="Jang" creationdate="20170806T142829Z">
+        <seg>FOSS 라이선스는 저작자 고지, 저작권 표시 보존 또는 소스 코드 제공 서면 청약과 관련된 조건을 가질 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,16 +1896,16 @@
       <tuv lang="EN-US">
         <seg>Failure to Provide Accompanying Source Code for FOSS Component Modifications</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T123626Z" creationid="Jang" creationdate="20171205T131736Z">
-        <seg>FOSS 컴포넌트 수정에 대한 수반하는 소스 코드 제공 실패</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145900Z" creationid="Jang" creationdate="20171205T131736Z">
+        <seg>FOSS 컴포넌트 수정에 대한 동반하는 소스 코드 제공 실패</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Failure to Provide Accompanying Source Code/appropriate license, attribution or notice information</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T123602Z" creationid="Jang" creationdate="20171205T123257Z">
-        <seg>수반하는 소스 코드 / 적절한 라이선스, 귀속에 관한 고지 또는 고지 정보의 제공 실패</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145822Z" creationid="Jang" creationdate="20171205T123257Z">
+        <seg>동반하는 소스 코드 / 적절한 라이선스, 저작자 또는 고지 정보의 제공 실패 </seg>
       </tuv>
     </tu>
     <tu>
@@ -2088,7 +2088,7 @@
       <tuv lang="EN-US">
         <seg>For some FOSS licenses, access via a computer network can bea “trigger” event</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133642Z" creationid="Jang" creationdate="20180524T143611Z">
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144920Z" creationid="Jang" creationdate="20180524T143611Z">
         <seg>어떤 FOSS 라이선스에 대해서는 컴퓨터 네트워크를 통한 접근이 “의무발생”사유가 될 수 있다.</seg>
       </tuv>
     </tu>
@@ -2176,8 +2176,8 @@
       <tuv lang="EN-US">
         <seg>Gather and retain FOSS project information required for your FOSS review process</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171205T141939Z" creationid="Jang" creationdate="20171205T141939Z">
-        <seg>FOSS 리뷰 프로세스에서 요구되는 FOSS 프로젝트 정보를 수집하고 유지합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150223Z" creationid="Jang" creationdate="20171205T141939Z">
+        <seg>FOSS 리뷰 프로세스에서 요구되는 FOSS 프로젝트 정보를 수집하고 유지한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2192,8 +2192,8 @@
       <tuv lang="EN-US">
         <seg>General guidelines developers can practices when working with FOSS:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171213T135542Z" creationid="Jang" creationdate="20171213T135542Z">
-        <seg>FOSS로 작업을 할때 개발자가 사용할 수 있는 일반적인 가이드라인:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150314Z" creationid="Jang" creationdate="20171213T135542Z">
+        <seg>FOSS로 작업을 할 때 개발자가 사용할 수 있는 일반적인 가이드라인:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,8 +2488,8 @@
       <tuv lang="EN-US">
         <seg>In addition, good relationships with FOSS organizations can be very helpful in advising on best way to be compliant and also help out if you experience a compliance issue.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T124807Z" creationid="Jang" creationdate="20171205T140644Z">
-        <seg>또한 FOSS 조직과의 좋은 관계는 컴플라이언스에 대한 최선의 방법에 대해 조언을 받을때 매우 유용할 수 있으며, 컴플라이언스 이슈가 발생할 경우에도 도움이 된다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150146Z" creationid="Jang" creationdate="20171205T140644Z">
+        <seg>또한 FOSS 기관과의 좋은 관계는 컴플라이언스에 대한 최선의 방법에 대해 조언을 받을때 매우 유용할 수 있으며, 컴플라이언스 이슈가 발생할 경우에도 도움이 된다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2520,8 +2520,8 @@
       <tuv lang="EN-US">
         <seg>In general it refers to a new work based upon an original work to which enough original creative work has been added so that the new work represents an original work of authorship rather than a copy</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T132909Z" creationid="Jang" creationdate="20170804T142653Z">
-        <seg>일반적으로 충분한 저작 활동이 추가된 독창적인 저작물을 기반으로 한 새로운 저작물을 말하며, 이는 새로운 저작물이 사본이 아닌 원본 저작물을 나타내는 것이다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T143927Z" creationid="Jang" creationdate="20170804T142653Z">
+        <seg>일반적으로 충분한 저작 활동이 추가된 독창적인 저작물을 기반으로 한 새로운 저작물을 말하며, 이는 새로운 저작물의 사본이 아닌 원본 저작물을 나타내는 것이다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,8 +2976,8 @@
       <tuv lang="EN-US">
         <seg>It is a “term of art” meaning that it has a particular meaning based on the statute and not the dictionary definition</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T132905Z" creationid="Jang" creationdate="20170804T142151Z">
-        <seg>사전 정의가 아닌 법령에 근거한 특별한 의미를 갖는 "예술 용어"이다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T143917Z" creationid="Jang" creationdate="20170804T142151Z">
+        <seg>사전 정의가 아닌 법령에 근거한 특별한 의미를 갖는 "전문 용어"이다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,8 +3176,8 @@
       <tuv lang="EN-US">
         <seg>Licensing modifications under the same license that governs the FOSS component</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133654Z" creationid="Jang" creationdate="20180524T143906Z">
-        <seg>수정물에 FOSS 컴포넌트를 규제하는 라이선스와 동일한 라이선스를 적용한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144946Z" creationid="Jang" creationdate="20180524T143906Z">
+        <seg>수정물에 FOSS 컴포넌트에 적용하는 라이선스와 동일한 라이선스를 적용한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3320,8 +3320,8 @@
       <tuv lang="EN-US">
         <seg>Most companies are very leery of Shareware, because Shareware vendors often approach companies for large license payments after the software has freely propagated within their organizations.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133426Z" creationid="Jang" creationdate="20170806T151421Z">
-        <seg>쉐어웨어 공급 업체는 소프트웨어가 조직 내에서 자유롭게 전파 된 후 대규모 라이선스 지급을  받기 위해 회사에 접근하기 때문에 대부분의 회사는 쉐어웨어를 매우 경계한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144413Z" creationid="Jang" creationdate="20170806T151421Z">
+        <seg>쉐어웨어 공급 업체는 소프트웨어가 조직 내에서 자유롭게 전파 된 후 대규모 라이선스료 지급을  받기 위해 회사에 접근하기 때문에 대부분의 회사는 쉐어웨어를 매우 경계한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3393,8 +3393,8 @@
       <tuv lang="EN-US">
         <seg>Name some permissive FOSS licenses.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T142321Z" creationid="Jang" creationdate="20180524T142246Z">
-        <seg>Permissive FOSS 라인선스를 거명하시오.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144543Z" creationid="Jang" creationdate="20180524T142246Z">
+        <seg>Permissive FOSS 라이선스를 거명하시오.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3425,24 +3425,24 @@
       <tuv lang="EN-US">
         <seg>Note: The interpretation of what constitutes a “derivative work” or a “distribution”is subject to debate in the FOSS community and within FOSS legal circles</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T132920Z" creationid="Jang" creationdate="20170804T143157Z">
-        <seg>참고 : "파생 저작물"또는 "배포"을 구성하는 내용에 대한 해석은 FOSS 커뮤니티 및 FOSS 법률 집단 내의 토론 대상이 된다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144011Z" creationid="Jang" creationdate="20170804T143157Z">
+        <seg>참고 : "파생 저작물"또는 "배포"를 구성하는 내용에 대한 해석은 FOSS 커뮤니티 및 FOSS 법률 집단 내의 토론에 따른다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Note: The process often starts when new FOSS-based software is selected by engineering or outside vendors.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T134249Z" creationid="Jang" creationdate="20171025T141518Z">
-        <seg>참고: 프로세스는 주로 엔지니어 또는 외부 공급 업체가 새로운 FOSS 기반 소프트웨어가 선택한 때 시작된다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145214Z" creationid="Jang" creationdate="20171025T141518Z">
+        <seg>참고: 프로세스는 주로 엔지니어 또는 외부 공급 업체가 새로운 FOSS 기반 소프트웨어를 선택한 때 시작된다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Note: This should not be confused for situations in which a licensor imposes more than one license, and you must comply with all of them</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133559Z" creationid="Jang" creationdate="20180524T142200Z">
-        <seg>주의: 주의: 라이선서가 하나 이상의 라이선스를 부과하고, 귀하는 모든라이선스를 준수해야 하는 상황과 혼동되어서는 안된다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144523Z" creationid="Jang" creationdate="20180524T142200Z">
+        <seg>주의: 라이선서가 하나 이상의 라이선스를 부과하고, 귀하는 복수의 모든 라이선스를 준수해야 하는 상황과 혼동되어서는 안된다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3497,8 +3497,8 @@
       <tuv lang="EN-US">
         <seg>Obligations to provide accompanying source code are met</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T154544Z" creationid="Jang" creationdate="20171122T143242Z">
-        <seg>수반 소스 코드를 제공해야 할 의무가 충족된다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145443Z" creationid="Jang" creationdate="20171122T143242Z">
+        <seg>동반 소스 코드를 제공해야 할 의무가 충족된다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3633,8 +3633,8 @@
       <tuv lang="EN-US">
         <seg>Other parties who want to use the technology may seek a patent license (which may grant rights to use, make, have made, sell, offer for sale, and import the technology)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T132939Z" creationid="Jang" creationdate="20170804T150225Z">
-        <seg>그 기술을 사용하고자하는 다른 당사자는 특허 라이선스(기술을 사용, 제작, 매도, 매도 청약 및 도입할 권한을 부여)를 요청할 수 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144132Z" creationid="Jang" creationdate="20170804T150225Z">
+        <seg>그 기술을 사용하고자 하는 다른 당사자는 특허 라이선스(기술을 사용, 제작, 매도, 매도 청약 및 수입할 권한을 부여)를 요청할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3905,16 +3905,16 @@
       <tuv lang="EN-US">
         <seg>Prepare business processes and sufficient staff to handle:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T144213Z" creationid="Jang" creationdate="20180524T144213Z">
-        <seg>비즈니스 절차와 충분한 관리직원을 준비 :</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145001Z" creationid="Jang" creationdate="20180524T144213Z">
+        <seg>다음 사항을 처리할 비즈니스 절차와 충분한 관리직원을 준비:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Preserve audit report findings and mark resolved issues as ready for the next step (i.e. Approval)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T153827Z" creationid="Jang" creationdate="20171121T144305Z">
-        <seg>검사 보고서 발견사항을 보존하고 해결된 문제에 다음 단계(승인)를 위해 준비된 것으로 표시한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145348Z" creationid="Jang" creationdate="20171121T144305Z">
+        <seg>검사 보고서 발견사항을 보존하고, 해결된 이슈에 대해서는 다음 단계(승인)를 위해 준비된 것으로 표시한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3969,8 +3969,8 @@
       <tuv lang="EN-US">
         <seg>Prioritizing compliance promotes:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T124726Z" creationid="Jang" creationdate="20171205T140244Z">
-        <seg>컴플라이언스에 우선순위를 부여함으로 다음이 촉진된다..:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T154156Z" creationid="Jang" creationdate="20171205T140244Z">
+        <seg>컴플라이언스에 우선순위를 부여함으로 다음이 촉진된다 :</seg>
       </tuv>
     </tu>
     <tu>
@@ -4025,24 +4025,24 @@
       <tuv lang="EN-US">
         <seg>Provide accompanying source code along with any associated build tools and documentation (e.g., by uploading to a distribution website or including in the distribution package)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T154609Z" creationid="Jang" creationdate="20171122T143444Z">
-        <seg>수반 소스 코드를 관련 빌드 도구 및 문서와 함께 제공한다. (예: 배포 사이트에 업로드하거나 배포 패키지에 포함).</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145447Z" creationid="Jang" creationdate="20171122T143444Z">
+        <seg>동반 소스 코드를 관련 빌드 도구 및 문서와 함께 제공한다. (예: 배포 사이트에 업로드하거나 배포 패키지에 포함).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Provide accompanying source code as required</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T154634Z" creationid="Jang" creationdate="20171122T143726Z">
-        <seg>필요에 따라 동반하는 소스 코드를 제공한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145511Z" creationid="Jang" creationdate="20171122T143726Z">
+        <seg>요구되는 동반소스 코드를 제공한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Provide feedback to the appropriate engineers to resolve issues in the audit report that conflict with your FOSS policy</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T153454Z" creationid="Jang" creationdate="20171121T142632Z">
-        <seg>FOSS 정책과 충돌하는 검사 보고서내의 문제를 해결하기 위해 적절한 엔지니어에게 피드백을 제공하시오.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145321Z" creationid="Jang" creationdate="20171121T142632Z">
+        <seg>FOSS 정책과 충돌하는 검사 보고서 내의 문제를 해결하기 위해 적절한 엔지니어에게 피드백을 제공하시오.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4081,8 +4081,8 @@
       <tuv lang="EN-US">
         <seg>Providing the Incorrect Version of Accompanying Source Code</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T123609Z" creationid="Jang" creationdate="20171205T130552Z">
-        <seg>수반하는 소스 코드의 잘못된 버전 제공</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145836Z" creationid="Jang" creationdate="20171205T130552Z">
+        <seg>동반하는 소스 코드의 잘못된 버전 제공</seg>
       </tuv>
     </tu>
     <tu>
@@ -4193,8 +4193,8 @@
       <tuv lang="EN-US">
         <seg>Request formal approval for each FOSS component you are using</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T124950Z" creationid="Jang" creationdate="20171205T141313Z">
-        <seg>사용중인 각 FOSS 컴포넌트에 대한 공식적인 승인을 신청한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150226Z" creationid="Jang" creationdate="20171205T141313Z">
+        <seg>사용 중인 각 FOSS 컴포넌트에 대한 공식적인 승인을 신청한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4289,8 +4289,8 @@
       <tuv lang="EN-US">
         <seg>Review architecture plans and avoid mixing components governed by incompatible FOSS licenses</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T125200Z" creationid="Jang" creationdate="20171205T142427Z">
-        <seg>아키텍처 계획을 리뷰하여 호환되지 않는 FOSS 라이선스가 적용되는 컴포넌트가 혼합되는 것을 방지한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T151054Z" creationid="Jang" creationdate="20171205T142427Z">
+        <seg>아키텍처 계획을 리뷰하여 양립가능하지 않는 FOSS 라이선스가 적용되는 컴포넌트들을 결합시키는 것을 방지한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4361,8 +4361,8 @@
       <tuv lang="EN-US">
         <seg>Seek guidance</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T124944Z" creationid="Jang" creationdate="20171205T141255Z">
-        <seg>안내를 요구한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150201Z" creationid="Jang" creationdate="20171205T141255Z">
+        <seg>가이드를 요구한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4465,8 +4465,8 @@
       <tuv lang="EN-US">
         <seg>Some licenses require that if derivative works (or software in the same file, same program or other boundary) are distributed, the distribution is under the same terms as the original work</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133100Z" creationid="Jang" creationdate="20170806T143909Z">
-        <seg>일부 라이선스는 파생 저작물(또는 동일한 파일, 동일한 프로그램 또는 다른 영역의 소프트웨어)이 배포되는 경우 원본 저작물과 동일한 조건으로 배포 할 것을 요구한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144315Z" creationid="Jang" creationdate="20170806T143909Z">
+        <seg>일부 라이선스는 파생 저작물(또는 동일 파일, 동일 프로그램 또는 다른 영역의 소프트웨어)이 배포되는 경우 원본 저작물과 동일한 조건으로 배포 할 것을 요구한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4965,16 +4965,16 @@
       <tuv lang="EN-US">
         <seg>The license can have conditions on the grants, meaning you only getthe license if you comply with certain obligations</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T132959Z" creationid="Jang" creationdate="20170804T150936Z">
-        <seg>라이선스에는 부여를 위한 조건이 있을 수 있는바, 특정 의무를 준수하는 경우에만 라이선스를 취득한다는 의미이다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144208Z" creationid="Jang" creationdate="20170804T150936Z">
+        <seg>라이선스에는 부여조건이 있을 수 있는바, 특정 의무를 준수하는 경우에만 라이선스를 취득한다는 의미이다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The license contains a clause restricting use of the names of contributors for endorsement of a derived work without specific permission</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133054Z" creationid="Jang" creationdate="20170806T143618Z">
-        <seg>특정 허가 없이 파생 저작물을 추천하기 위해 기여자 이름의 사용을 제한하는 조항이 포함되어 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144305Z" creationid="Jang" creationdate="20170806T143618Z">
+        <seg>특정 허가 없이 파생 저작물을 인증하기 위해 기여자 이름을 사용하는 것을 제한하는 조항이 포함되어 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5293,8 +5293,8 @@
       <tuv lang="EN-US">
         <seg>These slides follow US law.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T131615Z" creationid="Jang" creationdate="20170803T143248Z">
-        <seg>이 슬라이드는 미국 법률을 따름</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T143709Z" creationid="Jang" creationdate="20170803T143248Z">
+        <seg>이 슬라이드는 미국 법률을 따름.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5453,8 +5453,8 @@
       <tuv lang="EN-US">
         <seg>This is the situation where more than set of license terms can apply to a piece of software.Conjunctive = Multiple licenses apply</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180528T132702Z" creationid="Jang" creationdate="20180528T131802Z">
-        <seg>여러 라이선스 조항이 하나의 소프트웨어에 적용될 수 있는 상황입니다..결합형 (Conjunctive) =여러 라이선스가 적용됩니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T154205Z" creationid="Jang" creationdate="20180528T131802Z">
+        <seg>여러 라이선스 조항이 하나의 소프트웨어에 적용될 수 있는 상황입니다.결합형 (Conjunctive) =여러 라이선스가 적용됩니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,8 +5877,8 @@
       <tuv lang="EN-US">
         <seg>This type of failure can be avoided by</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T124634Z" creationid="Jang" creationdate="20171205T135757Z">
-        <seg>이러한 유형의 실패는 검사 보고서가 완료되지 않은 경우 컴플라이언스 티켓을 해결(i.e. Close)하지 못하게 함으로 방지할 수 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150047Z" creationid="Jang" creationdate="20171205T135757Z">
+        <seg>이러한 유형의 실패는 검사 보고서가 완료되지 않은 경우 컴플라이언스 티켓 해결(i.e. Close)을 허용하지 않음으로 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5933,8 +5933,8 @@
       <tuv lang="EN-US">
         <seg>This type of failure occurs during the development process when engineers add FOSS code into source code that is intended to be proprietary in conflict with the FOSS policy.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T122935Z" creationid="Jang" creationdate="20171205T120559Z">
-        <seg>이러한 유형의 실패는 개발 프로세스 중에 엔지니어가 FOSS정책에 위반하여 독점화할 소스 코드에 FOSS 코드를 추가할때 발생한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150244Z" creationid="Jang" creationdate="20171205T120559Z">
+        <seg>이러한 유형의 실패는 개발 프로세스 중에 엔지니어가 FOSS정책에 위반하여 독점화할 소스 코드에 FOSS 코드를 추가할 때 발생한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6037,8 +6037,8 @@
       <tuv lang="EN-US">
         <seg>Types of use allowed (commercial / non-commercial, distribution, derivative works / to make, have made, manufacture)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20170804T150650Z" creationid="Jang" creationdate="20170804T150650Z">
-        <seg>허용된 사용 유형 (상업적 / 비상업적, 배포, 파생 저작물 / 제조, 제조?, 제조?))</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144147Z" creationid="Jang" creationdate="20170804T150650Z">
+        <seg>허용된 사용 유형 (상업적 / 비상업적, 배포, 파생 저작물 / 제조)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6061,8 +6061,8 @@
       <tuv lang="EN-US">
         <seg>Under some FOSS licenses, modifications may cause additional obligations upon distribution, such as:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133651Z" creationid="Jang" creationdate="20180524T143830Z">
-        <seg>어떤 FOSS 라이선스하에서는 수정이 배포시에 다음과 같은 추가 의무를 발생할 수 있다:</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144850Z" creationid="Jang" creationdate="20180524T143830Z">
+        <seg>어떤 FOSS 라이선스하에서는 수정으로 배포시에 다음과 같은 추가 의무가 발생할 수 있다:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6157,8 +6157,8 @@
       <tuv lang="EN-US">
         <seg>Verify accompanying source code (if any) has been uploaded or distributed correctly</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T154808Z" creationid="Jang" creationdate="20171122T143930Z">
-        <seg>수반 소스 코드 (있을 경우)가 올바르게 업로드  또는 배포되었는지 확인한다. </seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145537Z" creationid="Jang" creationdate="20171122T143930Z">
+        <seg>동반 소스 코드 (있을 경우)가 올바르게 업로드  또는 배포되었는지 확인한다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6245,8 +6245,8 @@
       <tuv lang="EN-US">
         <seg>Verify uploaded or distributed source code corresponds to the same version that was approved</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T154813Z" creationid="Jang" creationdate="20171122T143950Z">
-        <seg>업로드되거나 배포된 소스 코드가 승인된 것과 동일한 버전인지 확인한다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145557Z" creationid="Jang" creationdate="20171122T143950Z">
+        <seg>업로드되거나 배포된 소스 코드가 승인된 버전과 동일한 것인지 확인한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6389,8 +6389,8 @@
       <tuv lang="EN-US">
         <seg>What information helps identify who is licensing the software?</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180524T150532Z" creationid="Jang" creationdate="20171028T145358Z">
-        <seg>누가 소프트웨어 라이선스를 부여했는지 식별하는데 도움이되는 정보는 무엇인가?</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145305Z" creationid="Jang" creationdate="20171028T145358Z">
+        <seg>누가 소프트웨어 라이선스를 부여했는지 식별하는데 도움이 되는 정보는 무엇인가?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6581,16 +6581,16 @@
       <tuv lang="EN-US">
         <seg>When thinking about distribution of Open Source you should consider to things:</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20171025T134942Z" creationid="Jang" creationdate="20171025T134942Z">
-        <seg>오픈소스의 배포에 대해 생각할때 다음 사항을 고려해야 합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150255Z" creationid="Jang" creationdate="20171025T134942Z">
+        <seg>오픈소스의 배포에 대해 생각할 때 다음 사항을 고려해야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>When you upgrade the version of a FOSS package, make sure that the license of the new version is the same as the license of the older used version (license changes can occur between version upgrades)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T125244Z" creationid="Jang" creationdate="20171205T142752Z">
-        <seg>FOSS 패키지의 버전을 업그레이드할때 새 버전의 라이선스가 이전에 사용된 버전의 라이선스와 동일한지 확인한다.(버전 업그레이드간에 라이선스 변경이 발생할 수 있다.)</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T150248Z" creationid="Jang" creationdate="20171205T142752Z">
+        <seg>FOSS 패키지의 버전을 업그레이드할 때 새 버전의 라이선스가 이전에 사용된 버전의 라이선스와 동일한지 확인한다.(버전 업그레이드간에 라이선스 변경이 발생할 수 있다.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6653,8 +6653,9 @@
       <tuv lang="EN-US">
         <seg>You can get an example FOSS policy via the Linux FoundationOpen Compliance Program at:https://www.linux.com/publications/generic-foss-policy</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T132736Z" creationid="Jang" creationdate="20170803T145900Z">
-        <seg>Linux Foundation Open Compliance Program에서 예시 FOSS 정책을 얻을 수 있다. :https://www.linux.com/publications/generic-foss-policy</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T143827Z" creationid="Jang" creationdate="20170803T145900Z">
+        <seg>https://www.linux.com/publications/generic-foss-policy 에 게시된
+Linux Foundation Open Compliance Program에서  FOSS 정책의 예시를 얻을 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6669,8 +6670,8 @@
       <tuv lang="EN-US">
         <seg>You may also need to provide notices regarding modifications, or full copies of the license.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T133623Z" creationid="Jang" creationdate="20180524T142755Z">
-        <seg>귀하는 또 수정에 관한 고지와 라이선스의 전체사본도 제공할 필요가 있을 수 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T144641Z" creationid="Jang" creationdate="20180524T142755Z">
+        <seg>귀하는 또 수정에 관한 고지와 또는 라이선스의 전체사본을 제공할 필요가 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6717,8 +6718,8 @@
       <tuv lang="EN-US">
         <seg>a result of linking software with conflicting or incompatible licenses.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T123251Z" creationid="Jang" creationdate="20171205T121645Z">
-        <seg>이러한 유형의 실패는 소프트웨어를 충돌하거나 호환되지 않는 라이선스와 링킹한 결과로 발생합니다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145727Z" creationid="Jang" creationdate="20171205T121645Z">
+        <seg>이러한 유형의 실패는 소프트웨어를 충돌하거나 양립가능하지 않는 라이선스와 링킹한 결과로 발생합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6741,8 +6742,8 @@
       <tuv lang="EN-US">
         <seg>as required by the FOSS license (or providing information about modifications which has an insufficient level of detail or clarity to satisfy the license)</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T123736Z" creationid="Jang" creationdate="20171205T132708Z">
-        <seg>FOSS 라이선스가 요구하는 대로 FOSS 소스 코드에 변경 사항을 표시하는 것의 실패 (또는 자세함과 명확성에 있어서 라이선스를 만족시키기에 불충분한 수준의 수정에 대한 정보 제공)</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145920Z" creationid="Jang" creationdate="20171205T132708Z">
+        <seg>FOSS 라이선스가 요구하는 대로 FOSS 소스 코드의 변경 사항을 표시하는 것의 실패 (또는 자세함과 명확성에 있어서 라이선스를 만족시키기에 불충분한 수준의 수정에 대한 정보 제공)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7109,8 +7110,8 @@
       <tuv lang="EN-US">
         <seg>step into the compliance process to ensure that the accompanying source code for the binary version is being published.</seg>
       </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20180525T123622Z" creationid="Jang" creationdate="20171205T131131Z">
-        <seg>이러한 유형의 실패는 바이너리 버전에 맞는 수반하는 소스 코드가 공개되고 있음을 보장하기 위한 확인 단계를 컴플라이언스 프로세스에 추가함으로 방지할 수 있다.</seg>
+      <tuv lang="KO" changeid="Jang" changedate="20181120T145845Z" creationid="Jang" creationdate="20171205T131131Z">
+        <seg>이러한 유형의 실패는 바이너리 버전에 맞는 동반하는 소스 코드가 공개되고 있음을 보장하기 위한 확인 단계를 컴플라이언스 프로세스에 추가함으로 방지할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
