@@ -8,3 +8,4 @@
 * Contributor(s):
 | Name | Company | Email |
 |--|--|--|
+| Haksung Jang | LG Electronics | hakssung@gmail.com |
