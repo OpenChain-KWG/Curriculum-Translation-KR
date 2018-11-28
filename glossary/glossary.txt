@@ -69,7 +69,7 @@ curriculum	커리큘럼
 US law	미국 법률
 jurisdiction	관할권
 identify	식별하다
-Intellectual Property	지적 재산권
+Intellectual Property	지식 재산권
 Pitfall	함정
 Developer	개발자
 Guideline	가이드라인
